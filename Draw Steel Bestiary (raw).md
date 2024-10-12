@@ -687,7 +687,7 @@ Target: Each creature
 - ✦ ≤11: Slide 1
 - ★ 12–16: Slide 2
 - ✸ 17+: Slide 3
-  Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is difficult terrain, and each creature who moves within the area takes 1 damage for each square moved.
+Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is difficult terrain, and each creature who moves within the area takes 1 damage for each square moved.
 
 **Grasping Tendons (Maneuver)**
 Keywords: Magic, Ranged
@@ -726,7 +726,7 @@ Target: One creature
 - ✸ ≤11: 7 psychic damage; weakened (PRS ends)
 - ★ 12–16: 5 psychic damage; weakened (EoT)
 - ✦ 17+: 3 psychic damage
-  Effect: If the target makes an attack while weakened this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.
+Effect: If the target makes an attack while weakened this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.
 
 **Vanish (Maneuver)** ◆ 1 VP
 Keywords: Magic, Ranged
@@ -842,7 +842,7 @@ Target: Each enemy
 - ✦ ≤11: 3 psychic damage
 - ★ 12–16: 5 psychic damage; slowed (EoT)
 - ✸ 17+: 7 psychic damage; slowed (INU ends)
-  Effect: An ally within 10 squares of the chorogaunt can shift up to their speed.
+Effect: An ally within 10 squares of the chorogaunt can shift up to their speed.
 
 **Chaotic Entrancing Harmony (Maneuver)**
 Keywords: Area
@@ -986,7 +986,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
-  Effect: If the sniper doesn’t use a maneuver or a move action this turn, the ability deals an extra 2 damage.
+Effect: If the sniper doesn’t use a maneuver or a move action this turn, the ability deals an extra 2 damage.
 
 **Crafty**
 The sniper doesn’t provoke opportunity attacks by moving.
@@ -1068,7 +1068,7 @@ Target: One creature or object
 - ✦ ≤11: 3 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 7 damage
-  Effect: If the assassin has an edge or a double edge on the power roll for this ability, the ability deals an additional 2 damage.
+Effect: If the assassin has an edge or a double edge on the power roll for this ability, the ability deals an additional 2 damage.
 
 **Shadow Chains (Action)** ◆ AGL RR ◆ 3 VP
 Keywords: Magic, Ranged, Resistance
@@ -1181,7 +1181,7 @@ Target: One creature or object
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
-  Effect: One ally of the underboss adjacent to the target can make a free strike against them.
+Effect: One ally of the underboss adjacent to the target can make a free strike against them.
 
 **Get Reckless! (Maneuver)**
 Keywords: Ranged
@@ -1255,7 +1255,7 @@ Target: Two creatures or objects
 - ✦ ≤11: 3 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 7 damage
-  Effect: An ally within 10 squares of the monarch can make a free strike.
+Effect: An ally within 10 squares of the monarch can make a free strike.
 
 **Get in Here (Maneuver)** ◆ 1 VP
 Keywords: Ranged
@@ -1492,7 +1492,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 corruption damage
 - ★ 12–16: 4 corruption damage
 - ✸ 17+: 5 corruption damage
-  Effect: A creature within 5 squares of the death acolyte regains 1 Stamina.
+Effect: A creature within 5 squares of the death acolyte regains 1 Stamina.
 
 #### HUMAN GUARD
 
@@ -1545,7 +1545,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
-  Effect: If this ability is used as part of the Charge action, the raider can make a ranged free strike with a distance of 5 before using the ability.
+Effect: If this ability is used as part of the Charge action, the raider can make a ranged free strike with a distance of 5 before using the ability.
 
 #### HUMAN APPRENTICE MAGE
 
@@ -1572,7 +1572,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 lightning damage
 - ★ 12–16: 4 lightning damage
 - ✸ 17+: 5 lightning damage
-  Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is slowed (EoT).
+Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is slowed (EoT).
 
 #### HUMAN BRAWLER
 
@@ -1599,7 +1599,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage; grabbed
 - ✸ 17+: 10 damage; grabbed
-  Effect: The target takes a bane on attempts to escape the grab, and the brawler gains an edge on attacks against the grabbed target.
+Effect: The target takes a bane on attempts to escape the grab, and the brawler gains an edge on attacks against the grabbed target.
 
 **Throw (Maneuver)** ◆ 1 VP
 Keywords: Melee
@@ -1635,7 +1635,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage
 - ✸ 17+: 10 damage
-  Effect: If the scoundrel has an edge or a double edge on the power roll for this ability, the ability deals an extra 4 damage.
+Effect: If the scoundrel has an edge or a double edge on the power roll for this ability, the ability deals an extra 4 damage.
 
 **Dagger Storm (Action)** ◆ 5 VP
 The scoundrel makes a Rapier & Dagger attack against three creatures or objects, and can shift 2 squares before or after each attack.
@@ -1665,7 +1665,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage
 - ✸ 17+: 10 damage
-  Effect: The trickshot doesn’t take a bane when using this ability in melee or against a target with cover or concealment.
+Effect: The trickshot doesn’t take a bane when using this ability in melee or against a target with cover or concealment.
 - **3 VP:** The trickshot can target two creatures or objects with this ability.
 
 #### HUMAN DEATH CULTIST
@@ -1727,7 +1727,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; taunted (EoT)
 - ★ 12–16: 7 damage; taunted (EoT)
 - ✸ 17+: 10 damage; taunted (EoT)
-  Effect: If an adjacent target taunted by this ability harms a creature other than the knave, the knave can make a free strike against the taunted creature as a free triggered action.
+Effect: If an adjacent target taunted by this ability harms a creature other than the knave, the knave can make a free strike against the taunted creature as a free triggered action.
 
 **Overwhelm**
 A creature who starts their turn adjacent to the knave can’t shift.
@@ -1767,7 +1767,7 @@ Target: Each creature and object
 - ✸ ≤11: Slide 5; slowed (MGT ends)
 - ★ 12–16: Slide 3; slowed (EoT)
 - ✦ 17+: Slide 1
-  Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.
+Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.
 
 **Arcane Shield**
 Whenever the mage takes damage from an enemy adjacent to them, the damage is reduced by 3 (minimum 0), and the enemy takes 3 thunder damage and is pushed 2 squares.
@@ -1797,7 +1797,7 @@ Target: Each adjacent enemy
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage; slowed (EoT)
 - ✸ 17+: 10 damage; slowed (MGT ends)
-  Effect: An ally within 10 squares of the blackguard can make a free strike.
+Effect: An ally within 10 squares of the blackguard can make a free strike.
 - **1 VP:** The ally can use their signature action instead.
 
 **You! (Maneuver)**
@@ -1859,7 +1859,7 @@ Target: Two enemies or objects
 - ✦ ≤11: 5 damage; pull 1
 - ★ 12–16: 9 damage; pull 2
 - ✸ 17+: 12 damage; pull 3
-  Effect: A target who is adjacent to the bandit chief after the attack is resolved takes 9 corruption damage.
+Effect: A target who is adjacent to the bandit chief after the attack is resolved takes 9 corruption damage.
 - **2 VP:** This ability targets three enemies or objects.
 
 **Kneel, Peasant! (Maneuver)**
@@ -1924,7 +1924,7 @@ Target: One creature or object
 - ✦ ≤11: 3 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 7 damage
-  Effect: The target is grabbed by the giant hawk.
+Effect: The target is grabbed by the giant hawk.
 
 **Dive (Maneuver)**
 The hawk moves up to their speed.
@@ -1956,7 +1956,7 @@ Target: Two creatures or objects
 - ✦ ≤11: 4 damage
 - ★ 12–16: 7 damage
 - ✸ 17+: 10 damage
-  Effect: The target is grabbed by the siege hawk. The siege hawk can have two targets grabbed at a time.
+Effect: The target is grabbed by the siege hawk. The siege hawk can have two targets grabbed at a time.
 
 **Bombs Away! (Action)** ◆ AGL RR ◆ 7 VP
 Keywords: Area, Magic, Ranged, Resistance
@@ -1966,7 +1966,7 @@ Target: Each creature and object
 - ✸ ≤11: 7 fire damage; restrained (EoT)
 - ★ 12–16: 6 fire damage; slowed (EoT)
 - ✦ 17+: 3 fire damage
-  Special: The siege hawk must be flying to use this ability.
+Special: The siege hawk must be flying to use this ability.
 
 **Dive (Maneuver)**
 The hawk moves up to their speed.
@@ -2007,7 +2007,7 @@ Target: One creature
 - ✦ ≤11: 5 damage; push 3
 - ★ 12–16: 10 damage; push 3; taunted (EoT)
 - ✸ 17+: 12 damage; push 3; taunted (REA ends)
-  Effect: If a target is wearing clothing covering the lower half of their body, they must use a maneuver to pull that clothing up before they can move.
+Effect: If a target is wearing clothing covering the lower half of their body, they must use a maneuver to pull that clothing up before they can move.
 
 **Rat Race (5 VP)**
 Each radenwight shifts up to their speed. Wherever a radenwight ends this movement adjacent to at least one other radenwight, they can make a melee free strike against a target.
@@ -2045,7 +2045,7 @@ Target: One creature per minion
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
-  Effect: If the mischiever is hidden when they use this ability, they can target two creatures.
+Effect: If the mischiever is hidden when they use this ability, they can target two creatures.
 
 **Ready Rodent (Triggered Action)**
 Keywords: Melee, Weapon
@@ -2142,7 +2142,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
-  Effect: An ally of the redeye within 2 squares of the target can shift up to 2 squares.
+Effect: An ally of the redeye within 2 squares of the target can shift up to 2 squares.
 
 **Ready Rodent (Triggered Action)**
 Keywords: Melee, Weapon
@@ -2175,7 +2175,7 @@ Target: One creature or object
 - ✦ ≤11: 5 damage
 - ★ 12–16: 9 damage; grabbed
 - ✸ 17+: 12 damage; grabbed
-  Effect: While the target is grabbed, they take 2 damage at the start of each of the bruxer’s turns.
+Effect: While the target is grabbed, they take 2 damage at the start of each of the bruxer’s turns.
 
 **Flurry of Bites (Action)** ◆ 2d10 + 1 ◆ 3 VP
 Keywords: Area, Weapon
@@ -2217,7 +2217,7 @@ Target: One creature or object
 - ✦ ≤11: 3 sonic damage; push 1
 - ★ 12–16: 5 sonic damage; push 3
 - ✸ 17+: 7 sonic damage; push 4
-  Effect: The piper or an ally within distance regains stamina equal to half the damage dealt.
+Effect: The piper or an ally within distance regains stamina equal to half the damage dealt.
 
 **Vivace Vivace! (Maneuver)** ◆ 3 VP
 Keywords: Area, Magic
@@ -2256,7 +2256,7 @@ Target: Two creatures or objects
 - ✦ ≤11: 2 damage
 - ★ 12–16: 5 damage
 - ✸ 17+: 6 damage
-  Effect: The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.
+Effect: The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.
 
 **Over Here, Thanks (Maneuver)**
 Keywords: Melee
@@ -2298,7 +2298,7 @@ Target: Each enemy
 - ✦ ≤11: 3 sonic damage; slide 1; the maestro can shift 1 square
 - ★ 12–16: 5 sonic damage; slide 3; the maestro can shift 3 squares
 - ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares
-  Effect: Each of the maestro's allies can use Ready Rodent as a free triggered action once before the end of the round.
+Effect: Each of the maestro's allies can use Ready Rodent as a free triggered action once before the end of the round.
 
 **Tempo Change (Maneuver)** ◆ PRS RR
 Keywords: Magic, Ranged, Resistance
@@ -2387,7 +2387,7 @@ At the start of any time raider’s turn, you can spend VP to activate one of th
 #### TIME RAIDER ARCHON
 
 **Level 3 Harrier Minion**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 8**
 **Stamina**: 15
 **Immunity**: Psychic 3
@@ -2416,7 +2416,7 @@ The archon doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER MYRIAD
 
 **Level 3 Brute Minion**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 10**
 **Stamina**: 20
 **Immunity**: Psychic 3
@@ -2486,7 +2486,7 @@ While any time raider starts their turn with line of effect to the armiger, that
 #### TIME RAIDER CANNONFALL
 
 **Level 3 Artillery**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 18**
 **Stamina**: 40
 **Immunity**: Psychic 4
@@ -2522,7 +2522,7 @@ The cannonfall doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER HELIX
 
 **Level 3 Controller**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 17**
 **Stamina**: 40
 **Immunity**: Psychic 4
@@ -2558,7 +2558,7 @@ The helix doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER HIJACK
 
 **Level 3 Ambusher**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 20**
 **Stamina**: 50
 **Immunity**: Psychic 5
@@ -2594,7 +2594,7 @@ The hijack doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER MIND PUNK
 
 **Level 3 Hexer**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 17**
 **Stamina**: 40
 **Immunity**: Psychic 4
@@ -2634,7 +2634,7 @@ The mind punk doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER NEMESIS
 
 **Level 3 Harrier**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 19**
 **Stamina**: 50
 **Immunity**: Psychic 5
@@ -2673,7 +2673,7 @@ The nemesis doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER VERTEX
 
 **Level 3 Support**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 19**
 **Stamina**: 50
 **Immunity**: Psychic 5
@@ -2715,7 +2715,7 @@ The vertex doesn’t take a bane on attacks against concealed creatures.
 #### TIME RAIDER TYRANNIS
 
 **Level 3 Boss**
-*Humanoid, Time Raider* 
+*Humanoid, Time Raider*
 **EV 54**
 **Stamina**: 120
 **Immunity**: Psychic 7
