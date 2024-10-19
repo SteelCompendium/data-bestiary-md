@@ -14,7 +14,7 @@ At the start of any war dog's turn, you can spend VP to activate one of the foll
 
 - **Fire for Effect (5 VP):** A war dog acting this turn can use the following maneuver.
 
-**Fire for Effect (Maneuver)** ◆ AGL RR ◆ 12 VP **Keywords**: Area, Magic, Ranged, Resistance **Distance**: 5 cube within 10 **Target**: Each creature
+**Fire for Effect (Maneuver)** ◆ AGL RR ◆ 12 VP Keywords: Area, Magic, Ranged, Resistance Distance: 5 cube within 10 Target: Each creature
 
 - ✸ ≤11: 7 fire damage; slowed (MGT ends)
 
