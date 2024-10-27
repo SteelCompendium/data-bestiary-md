@@ -23,11 +23,7 @@
 - ✦ ≤11: 4 damage; push 1
 - ★ 12–16: 7 damage; push 3
 
-****Effect****
-If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.
-
-****5 Malice****
-If the target is pushed into another creature, both the target and the creature are restrained (EoT).
+Effect: If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack. 5 Malice: If the target is pushed into another creature, both the target and the creature are restrained (EoT).
 
 **Ensnaring Chains (5 Malice)**
 
@@ -36,8 +32,7 @@ If the target is pushed into another creature, both the target and the creature 
 | Keywords: Ranged, Weapon | Type: Maneuver                                |
 | Distance: Ranged 10      | Target: 1 restrained, slowed, or prone target |
 
-****Effect****
-The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).
+Effect: The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).
 
 **Split Shot**
 

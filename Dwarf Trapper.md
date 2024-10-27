@@ -23,8 +23,7 @@
 - ✦ ≤11: 3 damage; push 2
 - ★ 12–16: 5 damage; push 4
 
-****Effect****
-A target restrained by a dwarf can be pushed by this attack.
+Effect: A target restrained by a dwarf can be pushed by this attack.
 
 **Steam Powered Snare (3 Malice)**
 
@@ -38,5 +37,4 @@ A target restrained by a dwarf can be pushed by this attack.
 - ✦ ≤11: 4 damage; restrained (EoT)
 - ★ 12–16: 3 damage; slowed (EoT)
 
-****Effect****
-The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.
+Effect: The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.

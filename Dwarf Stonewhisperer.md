@@ -23,8 +23,7 @@
 - ✦ ≤11: 3 damage; slide 1; M1 slowed (save ends)
 - ★ 12–16: 6 damage; slide 3; M2 slowed (save ends)
 
-****Effect****
-A target restrained by a dwarf can be slid by this attack.
+Effect: A target restrained by a dwarf can be slid by this attack.
 
 **Stone Wave (3 Malice)**
 
@@ -38,8 +37,7 @@ A target restrained by a dwarf can be slid by this attack.
 - ✦ ≤11: 2 damage; push 2; R1 slowed (save ends)
 - ★ 12–16: 3 damage; push 3; R2 slowed (save ends)
 
-****Effect****
-A target restrained by a dwarf can be pushed by this attack. The affected area is difficult terrain for enemies.
+Effect: A target restrained by a dwarf can be pushed by this attack. The affected area is difficult terrain for enemies.
 
 **Stonewalker**
 

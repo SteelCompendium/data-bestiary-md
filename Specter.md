@@ -22,7 +22,7 @@
 
 - ✦ ≤11: 2 corruption damage; P1 weakened (save ends)
 - ★ 12–16: 4 corruption damage; P2 weakened (save ends)
-- ✸ 17+: 5 corruption damage; P3 weakened (save ends)  2 Malice: The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target’s space under the Director's control.
+- ✸ 17+: 5 corruption damage; P3 weakened (save ends) 2 Malice: The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target’s space under the Director's control.
 
 **Hidden Movement**
 

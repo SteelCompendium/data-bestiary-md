@@ -1,11 +1,11 @@
 #### DEMON RUINANT
 
-| DEMON RUINANT |        \*\*Level  \*\* |
-| :------------ | ---------------------: |
-| \*\*          |            \*\*EV \*\* |
-| **Stamina**:  |          **Weakness**: |
-| **Speed**:    | **Size**:  / Stability |
-|               |       **Free Strike**: |
+| DEMON RUINANT         |    **Level 1 HARRIER** |
+| :-------------------- | ---------------------: |
+| *Demon, Planar EV 10* |            \*\*EV \*\* |
+| **Stamina**:          |          **Weakness**: |
+| **Speed**:            | **Size**:  / Stability |
+|                       |       **Free Strike**: |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +1 |
 | ----------- | -------------- | ------------ | ------------- | --------------- |
@@ -36,12 +36,6 @@
 - ✦ ≤11: 2 corruption damage
 - ★ 12–16: 5 corruption damage
 - ✸ 17+: 6 corruption damage
-
-**LEVEL 1 HARRIER**
-
-**Demon, Planar EV 10**
-
-**Stamina:** 20 **Weakness:** Holy 3 **Speed:** 6 **Size:** 1M / Stability 0 **Free Strike:** 2
 
 **Lethe**
 

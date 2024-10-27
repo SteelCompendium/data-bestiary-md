@@ -1,11 +1,11 @@
 #### CHIMERA
 
-| CHIMERA      |        \*\*Level  \*\* |
-| :----------- | ---------------------: |
-| \*\*         |            \*\*EV \*\* |
-| **Stamina**: |          **Weakness**: |
-| **Speed**:   | **Size**:  / Stability |
-|              |       **Free Strike**: |
+| CHIMERA         |       **Level 3 SOLO** |
+| :-------------- | ---------------------: |
+| *Monster EV 88* |            \*\*EV \*\* |
+| **Stamina**:    |          **Weakness**: |
+| **Speed**:      | **Size**:  / Stability |
+|                 |       **Free Strike**: |
 
 | **Might** +3 | **Agility** +2 | **Reason** -2 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
@@ -96,12 +96,6 @@ Effect: The chimera uses Dragon’s Eruption and Roar without spending malice.
 | Distance: Self | Target: Self           |
 
 Effect: The chimera uses Roar. The chimera then shifts their speed and can make a free strike against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon’s Eruption.
-
-**LEVEL 3 SOLO**
-
-**Monster EV 88**
-
-**Stamina:** 240 **Immunity:** Fire 6 **Speed:** 10 (fly) **Size:** 2 / Stability 1 **Free Strike:** 6
 
 **Solo Monster**
 

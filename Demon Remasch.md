@@ -1,11 +1,11 @@
 #### DEMON REMASCH
 
-| DEMON REMASCH |        \*\*Level  \*\* |
-| :------------ | ---------------------: |
-| \*\*          |            \*\*EV \*\* |
-| **Stamina**:  |          **Weakness**: |
-| **Speed**:    | **Size**:  / Stability |
-|               |       **Free Strike**: |
+| DEMON REMASCH         |   **Level 2 AMBUSHER** |
+| :-------------------- | ---------------------: |
+| *Demon, Planar EV 13* |            \*\*EV \*\* |
+| **Stamina**:          |          **Weakness**: |
+| **Speed**:            | **Size**:  / Stability |
+|                       |       **Free Strike**: |
 
 | **Might** 0 | **Agility** +2 | **Reason** 0 | **Intuition** | **Presence** +2 |
 | ----------- | -------------- | ------------ | ------------- | --------------- |
@@ -32,12 +32,6 @@
 | Distance: Self  | Target: Self   |
 
 Effect: The remasch teleports 2 squares and uses Abyssal Strike.
-
-**LEVEL 2 AMBUSHER**
-
-**Demon, Planar EV 13**
-
-**Stamina:** 25 **Weakness:** Holy 3 **Speed:** 5 (teleport) **Size:** 1S / Stability 0 **Free Strike:** 4
 
 **Lethe**
 

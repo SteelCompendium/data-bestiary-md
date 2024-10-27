@@ -23,8 +23,7 @@
 - ✦ ≤11: 3 damage; push 1; M1 slowed (save ends)
 - ★ 12–16: 5 damage; push 3; M2 slowed (save ends)
 
-****Effect****
-A target restrained by a dwarf can be pushed by this ability.
+Effect: A target restrained by a dwarf can be pushed by this ability.
 
 **Sleep Grenade (3 Malice)**
 
@@ -38,8 +37,7 @@ A target restrained by a dwarf can be pushed by this ability.
 - ✦ ≤11: 3 poison damage; I1 dazed (save ends)
 - ★ 12–16: 5 poison damage; I2 dazed (save ends)
 
-****Effect****
-A creature dazed by this ability has -1 to all characteristics while resisting potent effects until the condition ends.
+Effect: A creature dazed by this ability has -1 to all characteristics while resisting potent effects until the condition ends.
 
 **Indirect Fire**
 

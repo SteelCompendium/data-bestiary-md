@@ -1,11 +1,11 @@
 #### DEMON BENDRAK
 
-| DEMON BENDRAK |        \*\*Level  \*\* |
-| :------------ | ---------------------: |
-| \*\*          |            \*\*EV \*\* |
-| **Stamina**:  |          **Weakness**: |
-| **Speed**:    | **Size**:  / Stability |
-|               |       **Free Strike**: |
+| DEMON BENDRAK         |      **Level 2 HEXER** |
+| :-------------------- | ---------------------: |
+| *Demon, Planar EV 11* |            \*\*EV \*\* |
+| **Stamina**:          |          **Weakness**: |
+| **Speed**:            | **Size**:  / Stability |
+|                       |       **Free Strike**: |
 
 | **Might** 0 | **Agility** +1 | **Reason** 0 | **Intuition** | **Presence** +2 |
 | ----------- | -------------- | ------------ | ------------- | --------------- |
@@ -34,12 +34,6 @@ Effect: If the target makes an attack while weakened this way, the bendrak can c
 | Distance: Ranged 10     | Target: Self or one ally |
 
 Effect: The target immediately becomes hidden, regardless of whether they have cover or concealment.
-
-**LEVEL 2 HEXER**
-
-**Demon, Planar EV 11**
-
-**Stamina:** 20 **Weakness:** Holy 3 **Speed:** 5 **Size:** 1S / Stability 0 **Free Strike:** 3
 
 **Lethe**
 

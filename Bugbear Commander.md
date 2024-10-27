@@ -1,11 +1,11 @@
 #### BUGBEAR COMMANDER
 
-| BUGBEAR COMMANDER |            \*\*Level  \*\* |
-| :---------------- | -------------------------: |
-| \*\*              |                  **EV 32** |
-| **Stamina**: 70   |              **Weakness**: |
-| **Speed**: 5      | **Size**: 1M / Stability 0 |
-|                   |         **Free Strike**: 5 |
+| BUGBEAR COMMANDER           |        **Level 2 SUPPORT** |
+| :-------------------------- | -------------------------: |
+| *Bugbear, Goblin, Humanoid* |                  **EV 32** |
+| **Stamina**: 70             |              **Weakness**: |
+| **Speed**: 5                | **Size**: 1M / Stability 0 |
+|                             |         **Free Strike**: 5 |
 
 | **Might** +2 | **Agility** +1 | **Reason** +2 | **Intuition** 0 | **Presence** 0 |
 | ------------ | -------------- | ------------- | --------------- | -------------- |
@@ -24,12 +24,16 @@
 - ★ 12–16: 8 damage
 - ✸ 17+: 11 damage; one target is grabbed
 
+Effect: 1 ally within 5 of the commander has an edge on their next attack until the start of the commander’s next turn.
+
 **You Next!**
 
 |                    |                |
 | :----------------- | :------------- |
 | Keywords: —        | Type: Action   |
 | Distance: Ranged 8 | Target: 1 ally |
+
+Effect: The target moves up to their speed and uses a signature action.
 
 **Fall Back! (5 Malice)**
 
@@ -38,6 +42,8 @@
 | Keywords: —                | Type: Action                |
 | Distance: Self and 5 burst | Target: Self and all allies |
 
+Effect: Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.
+
 **Throw**
 
 |                         |                                                       |
@@ -45,13 +51,11 @@
 | Keywords: Attack, Melee | Type: Maneuver                                        |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the commander |
 
-**LEVEL 2 SUPPORT**
-
-*Bugbear, Goblin, Humanoid*
+Effect: Vertical push 4; ally targets don’t take damage from being force moved.
 
 **Catcher (Free Triggered Action)**
 
-Keywords: — Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the commander. - Effect: The target is grabbed by the commander.
+Keywords: — Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the commander. Effect: The target is grabbed by the commander.
 
 **The Commander’s Watching**
 

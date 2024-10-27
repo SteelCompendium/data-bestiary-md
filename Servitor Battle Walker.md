@@ -23,8 +23,7 @@
 - ✦ ≤11: 4 damage; M1 slowed (save ends)
 - ★ 12–16: 7 damage; M2 slowed (save ends)
 
-****Effect****
-Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.
+Effect: Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.
 
 **Stunning Blast (3 Malice)**
 

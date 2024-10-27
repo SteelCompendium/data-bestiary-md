@@ -1,11 +1,11 @@
 #### DEMON CHOROGAUNT
 
-| DEMON CHOROGAUNT |        \*\*Level  \*\* |
-| :--------------- | ---------------------: |
-| \*\*             |            \*\*EV \*\* |
-| **Stamina**:     |          **Weakness**: |
-| **Speed**:       | **Size**:  / Stability |
-|                  |       **Free Strike**: |
+| DEMON CHOROGAUNT      |     **Level 3 LEADER** |
+| :-------------------- | ---------------------: |
+| *Demon, Planar EV 36* |            \*\*EV \*\* |
+| **Stamina**:          |          **Weakness**: |
+| **Speed**:            | **Size**:  / Stability |
+|                       |       **Free Strike**: |
 
 | **Might** +2 | **Agility** +2 | **Reason** +2 | **Intuition** +2 | **Presence** +2 |
 | ------------ | -------------- | ------------- | ---------------- | --------------- |
@@ -72,12 +72,6 @@ Effect: The chorogaunt kills the target, and each other ally gains an edge on at
 | Distance: Self  | Target: Self           |
 
 Effect: The chorogaunt shifts up to their speed, makes an Agonizing Harmony attack, shifts up to their speed, and makes a second Agonizing Harmony attack.
-
-**LEVEL 3 LEADER**
-
-**Demon, Planar EV 36**
-
-**Stamina:** 90 **Weakness:** Holy 3 **Speed:** 5 **Size:** 1L / Stability 2 **Free Strike:** 4
 
 **End Effect**
 

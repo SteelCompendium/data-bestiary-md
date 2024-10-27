@@ -337,9 +337,9 @@ At the start of any ankheg’s turn, you can spend malice to activate one of the
 - **Burning Maw (3 Malice)**: The ankheg dribbles acid over their mandibles, and deals 8 acid damage the next time they use their Bite ability before the end of their turn.  
 
 - **Geyser (5 Malice)**: Ankheg tunnels underneath the encounter map cause a sudden influx of hot gas to burst from a 2-square-by-2-square area on the ground. Each enemy in an affected square must make an Agility resistance roll:  
-  - ✸ ≤11: 3 damage; vertical push 5; prone  
-  - ★ 12–16: 3 damage; vertical push 2  
-  - ✦ 17+: The target shifts to the nearest unoccupied space outside the area.  
+- ✸ ≤11: 3 damage; vertical push 5; prone  
+- ★ 12–16: 3 damage; vertical push 2  
+- ✦ 17+: The target shifts to the nearest unoccupied space outside the area.  
 
 - **Earth Sink (7 Malice)**: The area of the encounter map slowly sinks into the ground. Each creature who starts their turn on the ground and can’t burrow must spend 1 extra square of movement to leave their starting position, or 2 squares if they start their turn prone or restrained. A creature who starts and ends their turn in the same space and can’t burrow is restrained by the ground (save ends).  
 
@@ -347,7 +347,7 @@ At the start of any ankheg’s turn, you can spend malice to activate one of the
 
 #### ANKHEG 
 
-**LEVEL 1 SOLO**  
+**Level 1 SOLO**  
 *Monster*  
 **EV 60**  
 **Stamina**: 120  
@@ -357,9 +357,9 @@ At the start of any ankheg’s turn, you can spend malice to activate one of the
   
 - **Might** +3  
 - **Agility** +1  
-- **Reason** −3  
+- **Reason** -3  
 - **Intuition** +1  
-- **Presence** −4  
+- **Presence** -4  
   
 **Solo Monster**  
 - **Solo Turns**: The ankheg takes two turns each round. They can use two actions on each of their turns, and can take each turn after any enemy’s turn. While dazed, the ankheg can take one action and one maneuver per turn.  
@@ -375,7 +375,7 @@ Target: One creature or object
 - ✦ ≤11: 5 damage  
 - ★ 12–16: 8 damage; grabbed  
 - ✸ 17+: 11 damage; grabbed  
-  - Effect: A size 1 target grabbed this way takes 8 acid damage at the start of each of their turns.  
+Effect: A size 1 target grabbed this way takes 8 acid damage at the start of each of their turns.  
   
 **Claws (Action)** ◆ 2d10 + 3  
 Keywords: Attack, Melee, Weapon  
@@ -384,29 +384,29 @@ Target: Two creatures or objects
 - ✦ ≤11: 2 damage; A2 grabbed  
 - ★ 12–16: 4 damage; A3 grabbed  
 - ✸ 17+: 5 damage; A4 grabbed  
-  - 2 Malice: The ankheg can vertical slide one or both targets up to 5 squares.  
+- 2 Malice: The ankheg can vertical slide one or both targets up to 5 squares.  
   
 **Earth Eruption (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area  
 Distance: 4 burst  
 Target: Each enemy in the burst  
-  - Effect: The ankheg burrows up to their speed, then creates the burst when they breach the surface.  
-  - ✦ ≤11: 4 damage  
-  - ★ 12–16: 6 damage  
-  - ✸ 17+: 7 damage; push 2  
+Effect: The ankheg burrows up to their speed, then creates the burst when they breach the surface.  
+- ✦ ≤11: 4 damage  
+- ★ 12–16: 6 damage  
+- ✸ 17+: 7 damage; push 2  
   
 **Dust Cloud (Maneuver)**  
 Keywords: Area  
 Distance: 1 burst  
 Target: Special  
-  - Effect: The ground around the ankheg becomes difficult terrain. While the ankheg remains in their current space, they have concealment until the start of their next turn.  
+Effect: The ground around the ankheg becomes difficult terrain. While the ankheg remains in their current space, they have concealment until the start of their next turn.  
   
 **Skitter (Triggered Action)**  
 Keywords: —  
 Distance: Self  
 Target: Self  
 Trigger: A creature damages the ankheg  
-  - Effect: The ankheg shifts up to 3 squares.  
+Effect: The ankheg shifts up to 3 squares.  
   
 **Earthwalk**  
 Difficult terrain composed of earth or loose rock doesn’t cost the ankheg extra movement.  
@@ -418,24 +418,24 @@ When the ankheg burrows, they create a size 2 tunnel. The tunnel remains stable 
 Keywords: Area, Weapon  
 Distance: 10 x 1 line within 1  
 Target: Each creature in the line  
-  - ✦ ≤11: 4 acid damage  
-  - ★ 12–16: 6 acid damage  
-  - ✸ 17+: 7 acid damage  
-  - Effect: The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.  
+- ✦ ≤11: 4 acid damage  
+- ★ 12–16: 6 acid damage  
+- ✸ 17+: 7 acid damage  
+Effect: The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.  
   
 **Sinkhole (Villain Action 2)**  
 Keywords: —  
 Distance: Self  
 Target: Self  
-  - Effect: The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.  
+Effect: The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.  
 
 **Acid and Claws (Villain Action 3)** ◆ 2d10 + 3  
 Keywords: Area, Weapon  
 Distance: 2 burst  
 Target: Each creature in the burst  
-  - ✦ ≤11: 5 acid damage; M2 bleeding (save ends)  
-  - ★ 12–16: 7 acid damage; M3 bleeding (save ends)  
-  - ✸ 17+: 10 acid damage; M4 bleeding (save ends)  
+- ✦ ≤11: 5 acid damage; M2 bleeding (save ends)  
+- ★ 12–16: 7 acid damage; M3 bleeding (save ends)  
+- ✸ 17+: 10 acid damage; M4 bleeding (save ends)  
 
 ## BASILISKS
 
@@ -472,13 +472,13 @@ At the start of a basilisk’s turn, you can spend malice to activate one of the
 - **Stone Swim (3 Malice)**: A basilisk acting this turn adds the burrow keyword to their movement and moves up to their speed. The basilisk can burrow into stone this way, including vertically. While burrowing, the basilisk has concealment.  
 
 - **Upchuck (5 Malice)**: A basilisk acting this turn spits out a chunk of a past petrified victim with the following ability.  
-  - **Upchuck (Action)** ◆ AGL RR  
-    Keywords: Area, Ranged, Weapon  
-    Distance: 3 Cube within 10  
-    Target: All enemies  
-    - ✸ ≤11: 9 damage; prone can’t stand (save ends)  
-    - ★ 12–16: 6 damage; prone  
-    - ✦ 17+: 4 damage  
+- **Upchuck (Action)** ◆ AGL RR  
+Keywords: Area, Ranged, Weapon  
+Distance: 3 Cube within 10  
+Target: All enemies  
+- ✸ ≤11: 9 damage; prone can’t stand (save ends)  
+- ★ 12–16: 6 damage; prone  
+- ✦ 17+: 4 damage  
 
 - **Walleye (7 Malice)**: A basilisk spews reflective spittle across an adjacent 3 × 3 segment of wall. Whenever the basilisk uses their petrifying eye beams ability targeting an affected square, the distance of the ability increases to include a 15 × 3 line within 1 of the wall.  
 
@@ -486,7 +486,7 @@ At the start of a basilisk’s turn, you can spend malice to activate one of the
 
 #### BASILISK 
 
-**LEVEL 1 BRUTE**  
+**Level 1 BRUTE**  
 *Basilisk, Monster*  
 **EV 32**  
 **Stamina**: 70  
@@ -497,9 +497,9 @@ At the start of a basilisk’s turn, you can spend malice to activate one of the
   
 - **Might** +2  
 - **Agility** 0  
-- **Reason** −3  
-- **Intuition** −1  
-- **Presence** −1  
+- **Reason** -3  
+- **Intuition** -1  
+- **Presence** -1  
   
 **Noxious Bite (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -508,7 +508,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 poison damage  
 - ★ 12–16: 8 poison damage  
 - ✸ 17+: 11 poison damage  
-  - Effect: This attack has an edge against targets that the basilisk has previously dealt poison damage to.  
+Effect: This attack has an edge against targets that the basilisk has previously dealt poison damage to.  
   
 **Petrifying Eye Beams (Maneuver)** ◆ MGT RR  
 Keywords: Magic, Ranged, Resistance  
@@ -517,8 +517,8 @@ Target: Special
 - ✸ ≤11: Restrained (save ends)  
 - ★ 12–16: Slowed (save ends)  
 - ✦ 17+: Slowed (EoT)  
-  - Effect: The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can’t be reduced in any way and ending the effect.  
-  - A target that ends two consecutive turns restrained by this ability is petrified until they are cured (see Alchemical Ingredients).  
+Effect: The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can’t be reduced in any way and ending the effect.  
+- A target that ends two consecutive turns restrained by this ability is petrified until they are cured (see Alchemical Ingredients).  
   
 **Poison Fumes (Action)** ◆ 2d10 + 2 ◆ 5 Malice  
 Keywords: Area, Magic  
@@ -540,7 +540,7 @@ The area within 3 squares of the basilisk is considered difficult terrain for en
 
 #### BASILISK TONGUESNAPPER 
 
-**LEVEL 1 HEXER**  
+**Level 1 HEXER**  
 *Basilisk, Monster*  
 **EV 26**  
 **Stamina**: 50  
@@ -551,9 +551,9 @@ The area within 3 squares of the basilisk is considered difficult terrain for en
   
 - **Might** +1  
 - **Agility** +2  
-- **Reason** −3  
-- **Intuition** −1  
-- **Presence** −1  
+- **Reason** -3  
+- **Intuition** -1  
+- **Presence** -1  
   
 **Prehensile Tongue (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -562,8 +562,8 @@ Target: 1 creature or object
 - ✦ ≤11: 6 acid damage; pull 1  
 - ★ 12–16: 8 acid damage; pull 2  
 - ✸ 17+: 12 acid damage; pull 3  
-  - Effect: This attack can pull targets restrained by Petrifying Eye Beams.  
-  - 3 Malice: The tonguesnapper targets two additional creatures or objects.  
+Effect: This attack can pull targets restrained by Petrifying Eye Beams.  
+- 3 Malice: The tonguesnapper targets two additional creatures or objects.  
   
 **Petrifying Eye Beams (Maneuver)** ◆ MGT RR  
 Keywords: Magic, Ranged, Resistance  
@@ -572,8 +572,8 @@ Target: Special
 - ✸ ≤11: Restrained (save ends)  
 - ★ 12–16: Slowed (save ends)  
 - ✦ 17+: Slowed (EoT)  
-  - Effect: The tonguesnapper targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can’t be reduced in any way and ending the effect.  
-  - A target that ends two consecutive turns restrained by this ability is petrified until they are cured (see Alchemical Ingredients).  
+Effect: The tonguesnapper targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can’t be reduced in any way and ending the effect.  
+- A target that ends two consecutive turns restrained by this ability is petrified until they are cured (see Alchemical Ingredients).  
   
 **Wink (Action)** ◆ 2d10 + 2 ◆ 2 Malice  
 Keywords: Attack, Melee, Magic, Ranged  
@@ -582,7 +582,7 @@ Target: 1 creature
 - ✦ ≤11: 6 corruption damage; R1 dazed (save ends)  
 - ★ 12–16: 8 corruption damage; R2 dazed (save ends)  
 - ✸ 17+: 12 corruption damage; R3 dazed and slowed (save ends)  
-  - Effect: A creature dazed by this ability can’t benefit from edges or concealment until the condition ends.  
+Effect: A creature dazed by this ability can’t benefit from edges or concealment until the condition ends.  
   
 **Neurotoxin Splash (Triggered Action)**  
 Keywords: —  
@@ -624,7 +624,7 @@ At the start of any bredbeddle’s turn, you can spend malice to activate one of
 
 #### BREDBEDDLE 
 
-**LEVEL 3 SOLO**  
+**Level 3 SOLO**  
 *Giant*  
 **EV 88**  
 **Stamina**: 240  
@@ -634,7 +634,7 @@ At the start of any bredbeddle’s turn, you can spend malice to activate one of
   
 - **Might** +3  
 - **Agility** 0  
-- **Reason** −3  
+- **Reason** -3  
 - **Intuition** +0  
 - **Presence** +2  
   
@@ -657,7 +657,7 @@ Target: Each enemy in the burst
 - ✦ ≤11: 2 damage; A2 bleeding (save ends)  
 - ★ 12–16: 4 damage; A3 bleeding (save ends)  
 - ✸ 17+: 5 damage; A4 bleeding and dazed (save ends)  
-  - 3 Malice: The bredbeddle shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.  
+- 3 Malice: The bredbeddle shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.  
 
 **Lop (Action)** ◆ 2d10 + 3 ◆ 3 Malice  
 Keywords: Attack, Magic, Melee, Weapon  
@@ -666,54 +666,54 @@ Target: One creature
 - ✦ ≤11: 6 damage; bleeding (save ends) or M2 beheaded (see effect)  
 - ★ 12–16: 10 damage; bleeding (save ends) or M3 beheaded (see effect)  
 - ✸ 17+: 13 damage; bleeding (save ends) or M4 beheaded (see effect)  
-  - Effect: A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is dazed and can’t have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.  
+Effect: A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is dazed and can’t have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.  
 
 **Scramble (Maneuver)**  
 Keywords: —  
 Distance: Self  
 Target: Self  
-  - Effect: The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes difficult terrain.  
+Effect: The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes difficult terrain.  
 
 **Headway (Maneuver)** ◆ 2d10 + 3 ◆ 5 Malice  
 Keywords: Attack, Ranged, Weapon  
 Distance: Ranged 20  
 Target: One creature or object  
-  - Effect: The bredbeddle must have a head in their possession (attached to them or not), which they throw at the target. If the head was attached, the bredbeddle becomes headless.  
-  - ✦ ≤11: 3 damage; M2 dazed (save ends)  
-  - ★ 12–16: 5 damage; prone; M3 dazed (save ends)  
-  - ✸ 17+: 7 damage; prone; M4 dazed (save ends)  
+Effect: The bredbeddle must have a head in their possession (attached to them or not), which they throw at the target. If the head was attached, the bredbeddle becomes headless.  
+- ✦ ≤11: 3 damage; M2 dazed (save ends)  
+- ★ 12–16: 5 damage; prone; M3 dazed (save ends)  
+- ✸ 17+: 7 damage; prone; M4 dazed (save ends)  
 
 **Rebuke of the Fiendish Burlow (Triggered Action)** ◆ 2 Malice  
 Keywords: Magic  
 Distance: Self  
 Target: Self  
 Trigger: A creature targets the bredbeddle with a ranged magic attack.  
-  - Effect: The bredbeddle uses the same ability against the triggering creature, using that creature’s bonus to any power rolls they make.  
+Effect: The bredbeddle uses the same ability against the triggering creature, using that creature’s bonus to any power rolls they make.  
 
 **Turn Green (Villain Action 1)** ◆ PRS RR  
 Keywords: Area, Magic, Resistance  
 Distance: 3 burst  
 Target: Each enemy in the burst  
-  - Effect: Green shadows crawl out from under the bredbeddle’s feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.  
-  - ✸ ≤11: The target turns green and is slowed (save ends)  
-  - ★ 12–16: The target turns green (save ends)  
-  - ✦ 17+: No effect  
+Effect: Green shadows crawl out from under the bredbeddle’s feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.  
+- ✸ ≤11: The target turns green and is slowed (save ends)  
+- ★ 12–16: The target turns green (save ends)  
+- ✦ 17+: No effect  
 
 **Challenge (Villain Action 2)**  
 Keywords: —  
 Distance: Ranged 5  
 Target: One creature who damaged the bredbeddle this encounter  
-  - Effect: The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.  
-    - On a success, the target can choose to deal 40 damage to the bredbeddle or remove the bredbeddle’s head if they have one.  
-    - On a failure, the target is beheaded (see Lop).  
+Effect: The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.  
+- On a success, the target can choose to deal 40 damage to the bredbeddle or remove the bredbeddle’s head if they have one.  
+- On a failure, the target is beheaded (see Lop).  
 
 **Headlam Rampage (Villain Action 3)** ◆ 2d10 + 3  
 Keywords: Attack, Melee, Weapon  
 Distance: Melee 2  
 Target: Four creatures  
-  - ✦ ≤11: 3 damage; bleeding (save ends) or M2 beheaded (see Lop)  
-  - ★ 12–16: 4 damage; bleeding (save ends) or M3 beheaded (see Lop)  
-  - ✸ 17+: 5 damage; bleeding (save ends) or M4 beheaded (see Lop)  
+- ✦ ≤11: 3 damage; bleeding (save ends) or M2 beheaded (see Lop)  
+- ★ 12–16: 4 damage; bleeding (save ends) or M3 beheaded (see Lop)  
+- ✸ 17+: 5 damage; bleeding (save ends) or M4 beheaded (see Lop)  
 
 ## BUGBEARS
 
@@ -753,7 +753,7 @@ At the start of a bugbear’s turn, you can spend malice to activate one of the 
 
 #### BUGBEAR CHANNELER 
 
-**LEVEL 2 CONTROLLER**  
+**Level 2 CONTROLLER**  
 *Bugbear, Goblin, Humanoid*  
 **EV 30**  
 **Stamina**: 60  
@@ -774,7 +774,7 @@ Target: 2 creatures or objects on the ground
 - ✦ ≤11: 5 damage; pull 2  
 - ★ 12–16: 8 damage; pull 3  
 - ✸ 17+: 11 damage; pull 4  
-  - Effect: Each square that a target is pulled through becomes difficult terrain.  
+Effect: Each square that a target is pulled through becomes difficult terrain.  
 
 **Blistering Element (Action)** ◆ 2d10 + 2  
 Keywords: Area, Magic  
@@ -783,7 +783,7 @@ Target: All enemies in the burst
 - ✦ ≤11: 2 damage; M1 bleeding (save ends)  
 - ★ 12–16: 3 damage; M2 bleeding (save ends)  
 - ✸ 17+: 4 damage; M3 bleeding (save ends)  
-  - Effect: The channeler chooses one of the following damage types for the damage: cold, fire, corruption, lightning, or poison.  
+Effect: The channeler chooses one of the following damage types for the damage: cold, fire, corruption, lightning, or poison.  
 
 **Green Reshape (Action)** ◆ 2d10 + 2 ◆ 5 Malice  
 Keywords: Magic, Ranged, Resistance  
@@ -792,31 +792,31 @@ Target: 1 creature
 - ✦ ≤11: 5 damage; P1 slowed (save ends)  
 - ★ 12–16: 8 damage; P2 shapechanged (save ends)  
 - ✸ 17+: 11 damage; P3 shapechanged (save ends)  
-  - Effect: A shapechanged creature becomes plant-like with bark skin and leafy hair. They are slowed and have fire weakness 10 while they have this effect.  
+Effect: A shapechanged creature becomes plant-like with bark skin and leafy hair. They are slowed and have fire weakness 10 while they have this effect.  
 
 **Throw (Maneuver)**  
 Keywords: Attack, Melee  
 Distance: Melee 1  
 Target: 1 creature or object grabbed by the channeler  
-  - Effect: Vertical push 3; ally targets don’t take damage from being force moved.  
+Effect: Vertical push 3; ally targets don’t take damage from being force moved.  
 
 **Catcher (Free Triggered Action)**  
 Keywords: —  
 Distance: Melee 1  
 Target: 1 size 1 creature or object  
 Trigger: The target is force moved into a square adjacent to the channeler.  
-  - Effect: The target is grabbed by the channeler.  
+Effect: The target is grabbed by the channeler.  
 
 **Brambleguard (Triggered Action)** ◆ 1 Malice  
 Keywords: Magic, Ranged  
 Distance: Ranged 5  
 Target: 1 ally  
 Trigger: The target takes non-fire damage.  
-  - Effect: The channeler covers the target in thorns and halves the damage. If the damage was caused by a melee attack, the attacker takes 5 damage.  
+Effect: The channeler covers the target in thorns and halves the damage. If the damage was caused by a melee attack, the attacker takes 5 damage.  
 
 #### BUGBEAR COMMANDER 
 
-**LEVEL 2 SUPPORT**  
+**Level 2 SUPPORT**  
 *Bugbear, Goblin, Humanoid*  
 **EV 32**  
 **Stamina**: 70  
@@ -837,39 +837,39 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage  
 - ★ 12–16: 8 damage  
 - ✸ 17+: 11 damage; one target is grabbed  
-  - Effect: 1 ally within 5 of the commander has an edge on their next attack until the start of the commander’s next turn.  
+Effect: 1 ally within 5 of the commander has an edge on their next attack until the start of the commander’s next turn.  
 
 **You Next! (Action)**  
 Keywords: —  
 Distance: Ranged 8  
 Target: 1 ally  
-  - Effect: The target moves up to their speed and uses a signature action.  
+Effect: The target moves up to their speed and uses a signature action.  
 
 **Fall Back! (Action)** ◆ 5 Malice  
 Keywords: —  
 Distance: Self and 5 burst  
 Target: Self and all allies  
-  - Effect: Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.  
+Effect: Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.  
 
 **Throw (Maneuver)**  
 Keywords: Attack, Melee  
 Distance: Melee 1  
 Target: 1 creature or object grabbed by the commander  
-  - Effect: Vertical push 4; ally targets don’t take damage from being force moved.  
+Effect: Vertical push 4; ally targets don’t take damage from being force moved.  
 
 **Catcher (Free Triggered Action)**  
 Keywords: —  
 Distance: Melee 1  
 Target: 1 size 1 creature or object  
 Trigger: The target is force moved into a square adjacent to the commander.  
-  - Effect: The target is grabbed by the commander.  
+Effect: The target is grabbed by the commander.  
 
 **The Commander’s Watching**  
 While an ally has line of effect to the commander, the ally can end one condition afflicting them at the start of their turn.  
 
 #### BUGBEAR ROUGHNECK 
 
-**LEVEL 2 BRUTE**  
+**Level 2 BRUTE**  
 *Bugbear, Goblin, Humanoid*  
 **EV 36**  
 **Stamina**: 80  
@@ -891,7 +891,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage  
 - ★ 12–16: 9 damage; one target is grabbed; one target gets push 2  
 - ✸ 17+: 12 damage; one target is grabbed; one target gets vertical push 3  
-  - 5 Malice: The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.  
+- 5 Malice: The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.  
 
 **Leaping Fury (Action)** ◆ 2d10 + 3  
 Keywords: Attack, Ranged, Weapon  
@@ -900,37 +900,37 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; M1 prone  
 - ★ 12–16: 9 damage; M2 prone  
 - ✸ 17+: 12 damage; M3 prone  
-  - Effect: The roughneck leaps 5 to an unoccupied space adjacent to the target before making the attack.  
+Effect: The roughneck leaps 5 to an unoccupied space adjacent to the target before making the attack.  
 
 **Drag Through Hell (Maneuver)** ◆ 3 Malice  
 Keywords: Melee  
 Distance: Melee 1  
 Target: 1 creature or object grabbed by the roughneck  
-  - Effect: The roughneck moves up to their speed, dragging the target across the ground. The target takes 1 damage for each square they were dragged through before being released prone. Each square the target was dragged through becomes difficult terrain.  
+Effect: The roughneck moves up to their speed, dragging the target across the ground. The target takes 1 damage for each square they were dragged through before being released prone. Each square the target was dragged through becomes difficult terrain.  
 
 **Throw (Maneuver)**  
 Keywords: Attack, Melee  
 Distance: Melee 1  
 Target: 1 creature or object grabbed by the roughneck  
-  - Effect: Vertical push 5. Ally targets don’t take damage from being force moved.  
+Effect: Vertical push 5. Ally targets don’t take damage from being force moved.  
 
 **Catcher (Free Triggered Action)**  
 Keywords: —  
 Distance: Melee 1  
 Target: 1 size 1 creature or object  
 Trigger: The target is force moved into a square adjacent to the roughneck.  
-  - Effect: The target is grabbed by the roughneck.  
+Effect: The target is grabbed by the roughneck.  
 
 **Flying Sawblade (Triggered Action)**  
 Keywords: —  
 Distance: Self  
 Target: Self  
 Trigger: The roughneck is vertically moved by another creature.  
-  - Effect: The roughneck uses their Haymaker ability against a creature or object within reach at the end of the movement.  
+Effect: The roughneck uses their Haymaker ability against a creature or object within reach at the end of the movement.  
 
 #### BUGBEAR SNEAK 
 
-**LEVEL 2 AMBUSHER**  
+**Level 2 AMBUSHER**  
 *Bugbear, Goblin, Humanoid*  
 **EV 34**  
 **Stamina**: 70  
@@ -951,7 +951,7 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; A2 grabbed  
 - ★ 12–16: 9 damage; A3 grabbed  
 - ✸ 17+: 12 damage; grabbed  
-  - Effect: The target can’t use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.  
+Effect: The target can’t use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.  
 
 **Dirt Devil (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area  
@@ -960,7 +960,7 @@ Target: All enemies in the burst
 - ✦ ≤11: 2 damage; I1 sneak is concealed from the target (save ends)  
 - ★ 12–16: 3 damage; I2 sneak is concealed from the target (save ends)  
 - ✸ 17+: 4 damage; I3 sneak is concealed from the target (save ends)  
-  - Effect: The sneak shifts up to their speed and hides after using this ability.  
+Effect: The sneak shifts up to their speed and hides after using this ability.  
 
 **Carving Dagger (Action)** ◆ 2d10 + 2  
 Keywords: Attack, Ranged, Weapon  
@@ -969,27 +969,27 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage; M1 bleeding (save ends)  
 - ★ 12–16: 9 damage; M2 bleeding (save ends)  
 - ✸ 17+: 12 damage; M3 bleeding (save ends)  
-  - Effect: Targets can’t hide from the sneak or their allies while bleeding from this ability.  
+Effect: Targets can’t hide from the sneak or their allies while bleeding from this ability.  
 
 **Throw (Maneuver)**  
 Keywords: Attack, Melee  
 Distance: Melee 1  
 Target: 1 creature or object grabbed by the sneak  
-  - Effect: Vertical push 4. Ally targets don’t take damage from being force moved.  
+Effect: Vertical push 4. Ally targets don’t take damage from being force moved.  
 
 **Catcher (Free Triggered Action)**  
 Keywords: —  
 Distance: Melee 1  
 Target: 1 size 1 creature or object  
 Trigger: The target is force moved into a square adjacent to the sneak.  
-  - Effect: The target is grabbed by the sneak.  
+Effect: The target is grabbed by the sneak.  
 
 **Misdirection (Triggered Action)** ◆ 1 Malice  
 Keywords: —  
 Distance: Special  
 Target: 1 enemy  
 Trigger: A target attacks the sneak.  
-  - Effect: The sneak chooses an enemy within distance of the attack. The attack targets that enemy instead.  
+Effect: The sneak chooses an enemy within distance of the attack. The attack targets that enemy instead.  
 
 ## CHIMERA
 
@@ -1021,9 +1021,8 @@ At the start of a chimera’s turn, you can spend malice to activate one of the 
 
 #### CHIMERA 
 
-**LEVEL 3 SOLO**
-
-**Monster EV 88**  
+**Level 3 SOLO**
+*Monster EV 88*
 **Stamina:** 240  
 **Immunity:** Fire 6  
 **Speed:** 10 (fly)  
@@ -1032,7 +1031,7 @@ At the start of a chimera’s turn, you can spend malice to activate one of the 
 
 - **Might** +3  
 - **Agility** +2  
-- **Reason** −2  
+- **Reason** -2  
 - **Intuition** +1  
 - **Presence** 0  
 
@@ -1051,7 +1050,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 6 damage  
 - ★ 12–16: 10 damage  
 - ✸ 17+: 13 damage  
-  Effect: This attack has an edge if the chimera has an edge on the attack.  
+Effect: This attack has an edge if the chimera has an edge on the attack.  
 
 **Dragon’s Eruption (Action)** ◆ AGL RR ◆ 7 Malice  
 Keywords: Area, Magic  
@@ -1153,9 +1152,8 @@ At the start of any demon’s turn, you can spend malice to activate one of the 
 
 #### DEMON ENSNARER 
 
-**LEVEL 1 BRUTE MINION**
-
-**Demon, Planar EV 6**  
+**Level 1 BRUTE MINION**
+*Demon, Planar EV 6*  
 **Stamina:** 10  
 **Weakness:** Holy 3  
 **Speed:** 5  
@@ -1164,9 +1162,9 @@ At the start of any demon’s turn, you can spend malice to activate one of the 
 
 - **Might** +2  
 - **Agility** +0  
-- **Reason** −1  
-- **Intuition** −1  
-- **Presence** −1  
+- **Reason** -1  
+- **Intuition** -1  
+- **Presence** -1  
 
 **Barbed Tongues (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -1175,15 +1173,15 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage; pull 1  
 - ★ 12–16: 4 damage; pull 2  
 - ✸ 17+: 5 damage; pull 3  
-  Effect: If the target is pulled adjacent to the ensnarer, the ensnarer takes a free strike against them.  
+Effect: If the target is pulled adjacent to the ensnarer, the ensnarer takes a free strike against them.  
 
 **Soulsight**  
 Each creature within 2 of the ensnarer can’t be hidden from them.  
 
 #### DEMON FRENZIED 
 
-**LEVEL 1 HARRIER MINION**
-**Demon, Planar EV 4**  
+**Level 1 HARRIER MINION**
+*Demon, Planar EV 4*  
 **Stamina:** 8  
 **Weakness:** Holy 3  
 **Speed:** 6  
@@ -1192,9 +1190,9 @@ Each creature within 2 of the ensnarer can’t be hidden from them.
 
 - **Might** +0  
 - **Agility** +2  
-- **Reason** −1  
-- **Intuition** −  
-- **Presence** −1  
+- **Reason** -1  
+- **Intuition** -  
+- **Presence** -1  
 
 **Rip and Tear (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -1209,19 +1207,19 @@ Each creature within 2 of the frenzied can’t be hidden from them.
 
 #### DEMON PITLING 
 
-**LEVEL 1 ARTILLERY MINION**
-**Demon, Planar EV 2**  
+**Level 1 ARTILLERY MINION**
+*Demon, Planar EV 2*  
 **Stamina:** 4  
 **Weakness:** Holy 3  
 **Speed:** 5 (fly)  
 **Size:** 1T / Stability 0  
 **Free Strike:** 2  
 
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
-- **Reason** −2  
-- **Intuition** −2  
-- **Presence** −2  
+- **Reason** -2  
+- **Intuition** -2  
+- **Presence** -2  
 
 **Spit (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Ranged, Weapon  
@@ -1239,8 +1237,8 @@ Each creature within 2 of the pitling can’t be hidden from them.
 
 #### DEMON RUINANT 
 
-**LEVEL 1 HARRIER**
-**Demon, Planar EV 10**  
+**Level 1 HARRIER**
+*Demon, Planar EV 10*  
 **Stamina:** 20  
 **Weakness:** Holy 3  
 **Speed:** 6  
@@ -1277,8 +1275,8 @@ Each creature within 2 of the ruinant can’t be hidden from them.
 
 #### DEMON TORLAS 
 
-**LEVEL 1 CONTROLLER**
-**Demon, Planar EV 9**  
+**Level 1 CONTROLLER**
+*Demon, Planar EV 9*  
 **Stamina:** 15  
 **Weakness:** Holy 3  
 **Speed:** 5  
@@ -1298,7 +1296,7 @@ Target: Each creature in the cube
 - ✦ ≤11: Slide 1  
 - ★ 12–16: Slide 2  
 - ✸ 17+: Slide 3  
-  Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is difficult terrain, and each creature who moves within the area takes 1 damage for each square moved.  
+Effect: The area turns into a morass of spongy flesh before the targets are force moved. Until the start of the torlas’s next turn, the area is difficult terrain, and each creature who moves within the area takes 1 damage for each square moved.  
 
 **Grasping Tendons (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -1314,8 +1312,8 @@ Each creature within 2 of the torlas can’t be hidden from them.
 
 #### DEMON BENDRAK 
 
-**LEVEL 2 HEXER**
-**Demon, Planar EV 11**  
+**Level 2 HEXER**
+*Demon, Planar EV 11*  
 **Stamina:** 20  
 **Weakness:** Holy 3  
 **Speed:** 5  
@@ -1335,7 +1333,7 @@ Target: One creature
 - ✦ ≤11: 3 psychic damage; P1 weakened (save ends)  
 - ★ 12–16: 5 psychic damage; P2 weakened (save ends)  
 - ✸ 17+: 7 psychic damage; P3 weakened (save ends)  
-  Effect: If the target makes an attack while weakened this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.  
+Effect: If the target makes an attack while weakened this way, the bendrak can choose a second target for the attack within the distance of the attack, then evenly divides any damage from the attack between the two targets.  
 
 **Vanish (Maneuver)** ◆ 1 Malice  
 Keywords: Magic, Ranged  
@@ -1351,8 +1349,8 @@ Each creature within 2 of the bendrak can’t be hidden from them.
 
 #### DEMON REMASCH 
 
-**LEVEL 2 AMBUSHER**
-**Demon, Planar EV 13**  
+**Level 2 AMBUSHER**
+*Demon, Planar EV 13*  
 **Stamina:** 25  
 **Weakness:** Holy 3  
 **Speed:** 5 (teleport)  
@@ -1372,7 +1370,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; the remasch teleports 2 squares  
 - ★ 12–16: 7 damage; the remasch teleports 3 squares  
 - ✸ 17+: 10 damage; the remasch teleports 5 squares  
-  5 Malice: The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch’s destination.  
+5 Malice: The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch’s destination.  
 
 **Grasping Shadow (Maneuver)** ◆ 3 Malice  
 Keywords: Magic  
@@ -1388,8 +1386,8 @@ Each creature within 2 of the remasch can’t be hidden from them.
 
 #### DEMON MUCERON 
 
-**LEVEL 3 BRUTE**
-**Demon, Planar EV 18**  
+**Level 3 BRUTE**
+*Demon, Planar EV 18*  
 **Stamina:** 45  
 **Weakness:** Holy 3  
 **Speed:** 5  
@@ -1409,7 +1407,7 @@ Target: One creature
 - ✦ ≤11: 5 damage; pull 2  
 - ★ 12–16: 8 damage; pull 3  
 - ✸ 17+: 11 damage; pull 4  
-  Effect: Taunted (EoT).  
+Effect: Taunted (EoT).  
 
 **Tongue Pull (Maneuver)** ◆ 2 Malice  
 Keywords: Attack, Ranged, Weapon  
@@ -1425,8 +1423,8 @@ Each creature within 2 of the muceron can’t be hidden from them.
 
 #### DEMON CHOROGAUNT 
 
-**LEVEL 3 LEADER**
-**Demon, Planar EV 36**  
+**Level 3 LEADER**
+*Demon, Planar EV 36*  
 **Stamina:** 90  
 **Weakness:** Holy 3  
 **Speed:** 5  
@@ -1446,7 +1444,7 @@ Target: Each enemy in the burst
 - ✦ ≤11: 3 psychic damage; I2 slowed (save ends)  
 - ★ 12–16: 5 psychic damage; I3 slowed (save ends)  
 - ✸ 17+: 7 psychic damage; I4 slowed (save ends)  
-  Effect: An ally within 10 squares of the chorogaunt can shift up to their speed.  
+Effect: An ally within 10 squares of the chorogaunt can shift up to their speed.  
 
 **Chaotic Entrancing Harmony (Maneuver)**  
 Keywords: Area  
@@ -1505,19 +1503,18 @@ The dwarven marauder lord has in their possession a salvaged valok communication
 
 At the start of a dwarf’s turn, you can spend malice to activate one of the following features.  
 
-- **Breaching Charge (3 Malice)**: A dwarf can destroy one adjacent object or square of wall. Each enemy adjacent to the destroyed object or square takes the object’s Stamina in damage (3 wood / 6 stone / 9 metal).  
-- **Rappelling Barrage (5 Malice)**: All dwarves acting this turn gain the climb keyword to their movement. At any point during their movement, they can make a free strike.  
-- **Snaring Line (7 Malice)**: A non-minion dwarf can take the following maneuver this turn.  
+- **Breaching Charge (3 Malice):** A dwarf can destroy one adjacent object or square of wall. Each enemy adjacent to the destroyed object or square takes the object’s Stamina in damage (3 wood / 6 stone / 9 metal).  
+- **Rappelling Barrage (5 Malice):** All dwarves acting this turn gain the climb keyword to their movement. At any point during their movement, they can make a free strike.  
+- **Snaring Line (7 Malice):** A non-minion dwarf can take the following maneuver this turn.  
   **Snaring Line (Maneuver)** ◆ AGL RR  
   Keywords: Area, Magic, Resistance  
   Distance: 1 × 10 line within 10  
   Target: All enemies  
 
-  - ✸ ≤11: 7 damage; restrained (EoT)  
-  - ★ 12–16: 6 damage; slowed (EoT)  
-  - ✦ 17: No effect  
-
-  **Effect**: The snaring line remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.  
+- ✸ ≤11: 7 damage; restrained (EoT)  
+- ★ 12–16: 6 damage; slowed (EoT)  
+- ✦ 17: No effect  
+Effect: The snaring line remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.  
   
 ### STATBLOCKS
 
@@ -1545,7 +1542,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage; push 1  
 - ★ 12–16: 4 damage; push 2  
 - ✸ 17: 5 damage; push 4  
-  **Effect**: A target restrained by a dwarf can be pushed by this attack.  
+Effect: A target restrained by a dwarf can be pushed by this attack.  
 
 #### DWARF HUNTER  
 
@@ -1571,7 +1568,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage; pull 1  
 - ★ 12–16: 4 damage; pull 2  
 - ✸ 17: 5 damage; pull 4  
-  **Effect**: A target restrained by a dwarf can be pulled by this attack.  
+Effect: A target restrained by a dwarf can be pulled by this attack.  
 
 #### DWARF LURER  
 
@@ -1597,7 +1594,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17: 5 damage; an ally adjacent to the target can make a free strike  
-  **Effect**: The target can’t use triggered actions until the start of the next round.  
+Effect: The target can’t use triggered actions until the start of the next round.  
 
 #### DWARF SECURER  
 
@@ -1648,7 +1645,7 @@ Target: All enemies
 - ✦ ≤11: 3 damage; push 1; M1 slowed (save ends)  
 - ★ 12–16: 5 damage; push 3; M2 slowed (save ends)  
 - ✸ 17: 7 damage; push 5; M3 slowed (save ends)  
-  **Effect**: A target restrained by a dwarf can be pushed by this ability.  
+Effect: A target restrained by a dwarf can be pushed by this ability.  
 
 **Sleep Grenade (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area, Ranged  
@@ -1658,7 +1655,7 @@ Target: All enemies
 - ✦ ≤11: 3 poison damage; I1 dazed (save ends)  
 - ★ 12–16: 5 poison damage; I2 dazed (save ends)  
 - ✸ 17: 7 poison damage; I3 dazed (save ends)  
-  **Effect**: A creature dazed by this ability has -1 to all characteristics while resisting potent effects until the condition ends.  
+Effect: A creature dazed by this ability has -1 to all characteristics while resisting potent effects until the condition ends.  
 
 **Indirect Fire**  
 The grenadier ignores cover and concealment and doesn’t need to establish line of effect for their abilities.  
@@ -1687,15 +1684,14 @@ Target: 1 creature or object
 - ✦ ≤11: 4 damage; push 1  
 - ★ 12–16: 7 damage; push 3  
 - ✸ 17: 10 damage; push 5  
-  **Effect**: If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.  
-  **5 Malice**: If the target is pushed into another creature, both the target and the creature are restrained (EoT).  
+Effect: If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.  
+5 Malice: If the target is pushed into another creature, both the target and the creature are restrained (EoT).  
 
 **Ensnaring Chains (Maneuver)** ◆ 5 Malice  
 Keywords: Ranged, Weapon  
 Distance: Ranged 10  
 Target: 1 restrained, slowed, or prone target  
-
-  **Effect**: The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).  
+Effect: The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).  
 
 **Split Shot**  
 Whenever the gunner deals damage to a creature or object, a creature or object within 1 of the recipient takes 3 damage.  
@@ -1724,14 +1720,13 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage; M1 slowed (save ends)  
 - ★ 12–16: 5 damage; M2 slowed (save ends)  
 - ✸ 17: 7 damage; M3 restrained (save ends)  
-  **2 Malice**: Pull 5. A target restrained by a dwarf, including by this ability, can be pulled this way.  
+2 Malice: Pull 5. A target restrained by a dwarf, including by this ability, can be pulled this way.  
 
 **Reel Them In (Maneuver)** ◆ 3 Malice  
 Keywords: Ranged, Weapon  
 Distance: Ranged 10  
 Target: 3 creatures  
-
-  **Effect**: Pull 5. A slowed or restrained target is pulled an additional 2. A target restrained by a dwarf can be pulled this way.  
+Effect: Pull 5. A slowed or restrained target is pulled an additional 2. A target restrained by a dwarf can be pulled this way.  
 
 **We Have a Quota!**  
 If the engineer applies the slowed condition to a target who is already slowed or grabbed, the target becomes restrained (save ends) and the slowed or grabbed condition ends.  
@@ -1761,16 +1756,15 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; slide 1  
 - ★ 12–16: 8 damage; slide 1  
 - ✸ 17: 11 damage; slide 1  
-  **Effect**: The shieldwall can shift 1 to remain adjacent to the target. A target restrained by a dwarf can be slid by this attack.  
-  **3 Malice**: The shieldwall targets an additional creature or object.  
+Effect: The shieldwall can shift 1 to remain adjacent to the target. A target restrained by a dwarf can be slid by this attack.  
+3 Malice: The shieldwall targets an additional creature or object.  
 
 **Intercepting Shield (Triggered Action)** ◆ 1 Malice  
 Keywords: —  
 Distance: Self  
 Target: Self  
 Trigger: A creature attacks an adjacent ally.  
-
-  **Effect**: The shieldwall becomes the attack’s target and has +3 defense against it.  
+Effect: The shieldwall becomes the attack’s target and has +3 defense against it.  
 
 **Call to the Wall**  
 The shieldwall inflicts taunted (EoT) on a creature whenever they deal damage to the shieldwall or take damage from the shieldwall.  
@@ -1799,7 +1793,7 @@ Target: All creatures and objects
 - ✦ ≤11: 3 damage; slide 1; M1 slowed (save ends)  
 - ★ 12–16: 6 damage; slide 3; M2 slowed (save ends)  
 - ✸ 17: 9 damage; slide 5; M3 restrained (save ends)  
-  **Effect**: A target restrained by a dwarf can be slid by this attack.  
+Effect: A target restrained by a dwarf can be slid by this attack.  
 
 **Stone Wave (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area, Ranged  
@@ -1809,7 +1803,7 @@ Target: All enemies in the cube
 - ✦ ≤11: 2 damage; push 2; R1 slowed (save ends)  
 - ★ 12–16: 3 damage; push 3; R2 slowed (save ends)  
 - ✸ 17: 4 damage; push 3; R3 slowed (save ends)  
-  **Effect**: A target restrained by a dwarf can be pushed by this attack. The affected area is difficult terrain for enemies.  
+Effect: A target restrained by a dwarf can be pushed by this attack. The affected area is difficult terrain for enemies.  
 
 **Stonewalker**  
 The stonewhisperer can phase through 2 squares of stone as part of any movement they take. If they end their movement inside stone, they are shunted out into the square where they entered it.  
@@ -1838,7 +1832,7 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage; push 2  
 - ★ 12–16: 5 damage; push 4  
 - ✸ 17: 7 damage; push 6  
-  **Effect**: A target restrained by a dwarf can be pushed by this attack.  
+Effect: A target restrained by a dwarf can be pushed by this attack.  
 
 **Steam Powered Snare (Maneuver)** ◆ MGT RR ◆ 3 Malice  
 Keywords: Area, Resistance  
@@ -1848,7 +1842,7 @@ Target: All enemies in the cube
 - ✸ ≤11: 4 damage; restrained (EoT)  
 - ★ 12–16: 3 damage; slowed (EoT)  
 - ✦ 17: No effect  
-  **Effect**: The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.  
+Effect: The snare remains until the end of the encounter. An enemy that moves into an affected square for the first time on their turn must roll resistance.  
 
 #### DWARF WARDEN  
 
@@ -1874,7 +1868,7 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; push 1; M1 slowed (save ends)  
 - ★ 12–16: 8 damage; push 3; M2 slowed (save ends)  
 - ✸ 17: 11 damage; push 5; M3 restrained (save ends)  
-  **Effect**: A target restrained by a dwarf can be pushed by this attack.  
+Effect: A target restrained by a dwarf can be pushed by this attack.  
 
 **Concussive Shockwave (Maneuver)** ◆ 2d10 + 2 ◆ 5 Malice  
 Keywords: Area  
@@ -1884,7 +1878,7 @@ Target: All enemies in the cube
 - ✦ ≤11: 2 damage; push 2; A1 slowed (save ends)  
 - ★ 12–16: 4 damage; push 4; A2 slowed (save ends)  
 - ✸ 17: 5 damage; push 6; A3 dazed (save ends)  
-  **Effect**: A target restrained by a dwarf can be pushed by this ability.  
+Effect: A target restrained by a dwarf can be pushed by this ability.  
 
 **Escort the Prisoners**  
 Whenever the warden moves, they can carry an adjacent restrained enemy as if they were grabbed.  
@@ -1913,24 +1907,22 @@ Target: 3 creatures or objects
 - ✦ ≤11: 5 damage; slide 1  
 - ★ 12–16: 9 damage; slide 3  
 - ✸ 17: 12 damage; slide 5  
-  **Effect**: A target restrained by a dwarf can be slid by this attack.  
-  **3 Malice**: A target that is force moved adjacent to an ally with this ability is restrained (EoT).  
+Effect: A target restrained by a dwarf can be slid by this attack.  
+3 Malice: A target that is force moved adjacent to an ally with this ability is restrained (EoT).  
 
 **Magnetomancy (Maneuver)**  
 Keywords: Magic, Ranged  
 Distance: Ranged 10  
 Target: 1 creature or object  
-
-  **Effect**: Vertical slide 5. A target restrained by a dwarf can be slid by this ability.  
-  **5 Malice**: This ability gains the Area keyword, its distance becomes 10 burst, and it now targets restrained creatures.  
+Effect: Vertical slide 5. A target restrained by a dwarf can be slid by this ability.  
+5 Malice: This ability gains the Area keyword, its distance becomes 10 burst, and it now targets restrained creatures.  
 
 **Your Weapon is Useless (Triggered Action)**  
 Keywords: Magic  
 Distance: Self or Ranged 10  
 Target: Self or 1 ally  
 Trigger: A creature makes a weapon attack against the target.  
-
-  **Effect**: The target takes half damage from the attack. The attacker takes 5 damage.  
+Effect: The target takes half damage from the attack. The attacker takes 5 damage.  
 
 **End Effect**  
 At the end of their turn, the marauder lord can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.  
@@ -1939,22 +1931,19 @@ At the end of their turn, the marauder lord can take 5 damage to end one save-en
 Keywords: Area, Weapon  
 Distance: 5 cube within 10  
 Target: All enemies in the cube  
-
-  **Effect**: The marauder lord uses Levitating Axes against each target. The marauder lord makes one power roll against all targets.  
+Effect: The marauder lord uses Levitating Axes against each target. The marauder lord makes one power roll against all targets.  
 
 **Don’t Let Them Escape! (Villain Action 2)**  
 Keywords: Area  
 Distance: 5 burst  
 Target: All allies in the burst  
-
-  **Effect**: Each target shifts up to their speed. The marauder lord then uses Levitating Axes.  
+Effect: Each target shifts up to their speed. The marauder lord then uses Levitating Axes.  
 
 **Test Your Metal! (Villain Action 3)**  
 Keywords: —  
 Distance: Ranged 10  
 Target: special  
-
-  **Effect**: The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.  
+Effect: The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.  
 
 #### SERVITOR BATTLE WALKER  
 
@@ -1968,9 +1957,9 @@ Target: special
 
 - **Might** +2  
 - **Agility** 0  
-- **Reason** −2  
+- **Reason** -2  
 - **Intuition** 0  
-- **Presence** −2  
+- **Presence** -2  
 
 **Grasping Claws (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -1980,7 +1969,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 4 damage; M1 slowed (save ends)  
 - ★ 12–16: 7 damage; M2 slowed (save ends)  
 - ✸ 17: 10 damage; M3 restrained (save ends)  
-  **Effect**: Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.  
+Effect: Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.  
 
 **Stunning Blast (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Resistance  
@@ -2033,10 +2022,10 @@ At the start of a high elf’s turn, you can spend malice to activate one of the
   Distance: 5 × 1 line within 1  
   Target: All enemies  
 
-  - ✦ ≤11: 5 damage; R1 condition (save ends)  
-  - ★ 12–16: 9 damage; R2 condition (save ends)  
-  - ✸ 17: 12 damage; R3 condition (save ends)  
-    Effect: The high elf chooses damage type and condition afflicted from one of the following pairs: cold and slowed, poison and weakened, or corruption and frightened of the high elf.
+- ✦ ≤11: 5 damage; R1 condition (save ends)  
+- ★ 12–16: 9 damage; R2 condition (save ends)  
+- ✸ 17: 12 damage; R3 condition (save ends)  
+Effect: The high elf chooses damage type and condition afflicted from one of the following pairs: cold and slowed, poison and weakened, or corruption and frightened of the high elf.
 
 - **In Defiance of Time (7 Malice):** Until the end of the round, all high elves have their speed increased by 4. When a high elf uses an ability against an enemy, each high elf adjacent to the enemy can make a free strike against them.
 
@@ -2066,7 +2055,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage; taunted (EoT)  
 - ✸ 17: 5 damage; taunted (EoT)  
-  Effect: The cradle crow ignores opportunity attacks from the target until the end of its turn.
+Effect: The cradle crow ignores opportunity attacks from the target until the end of its turn.
 
 #### ELEMENTAL MOTE
 
@@ -2148,7 +2137,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 corruption damage  
 - ★ 12–16: 4 corruption damage  
 - ✸ 17: 5 corruption damage  
-  Effect: The next attack made against the target before the start of the scribe’s next turn has edge.
+Effect: The next attack made against the target before the start of the scribe’s next turn has edge.
 
 **Otherworldly Grace**  
 At the start of their turn, the scribe can turn the duration of one save ends effect they suffer from into EoT.
@@ -2212,7 +2201,7 @@ Target: 1 creature or object
 - ✦ ≤11: 4 damage; R1 bleeding (save ends)  
 - ★ 12–16: 7 damage; R2 bleeding (save ends)  
 - ✸ 17: 10 damage; R3 bleeding (save ends)  
-  Effect: A creature bleeding from this ability takes edge from attacks.
+Effect: A creature bleeding from this ability takes edge from attacks.
 
 **Blood Haze (Maneuver)** ◆ 2 Malice  
 Keywords: Area, Magic  
@@ -2247,8 +2236,8 @@ Target: 1 creature
 - ✦ ≤11: 5 damage; R1 deathtouched (save ends)  
 - ★ 12–16: 8 damage; R2 deathtouched (save ends)  
 - ✸ 17: 11 damage; R3 deathtouched (save ends)  
-  Effect: A creature gains a new condition at the end of each turn while deathtouched, receiving bleeding at the end of their first turn, slowed at the end of their second turn, and restrained at the end of their third turn. When no longer deathtouched, all the conditions imposed by it end.  
-  5 Malice: The ability gains the Area keyword, the distance becomes 3 cube within 10, and it targets all creatures in the cube.
+Effect: A creature gains a new condition at the end of each turn while deathtouched, receiving bleeding at the end of their first turn, slowed at the end of their second turn, and restrained at the end of their third turn. When no longer deathtouched, all the conditions imposed by it end.  
+5 Malice: The ability gains the Area keyword, the distance becomes 3 cube within 10, and it targets all creatures in the cube.
 
 **Kiss of Death (Maneuver)**  
 Keywords: Magic  
@@ -2292,7 +2281,7 @@ Target: 2 enemies or objects
 - ✦ ≤11: 3 damage; R1 slowed (save ends)  
 - ★ 12–16: 5 damage; R2 slowed (save ends)  
 - ✸ 17: 6 damage; R3 restrained (save ends)  
-  Effect: Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
+Effect: Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
 
 **Otherworldly Grace**  
 At the start of their turn, the orbweaver can turn the duration of one save ends effect they suffer from into EoT.
@@ -2322,7 +2311,7 @@ Target: 1 creature
 - ✦ ≤11: 3 psychic damage; I1 weakened (save ends)  
 - ★ 12–16: 5 psychic damage; I2 weakened (save ends)  
 - ✸ 17: 7 psychic damage; I3 weakened (save ends)  
-  2 Malice: The potency of this ability increases by 1. If the target is still weakened by this ability at the end of the encounter, they cannot take a respite activity during their next respite.
+2 Malice: The potency of this ability increases by 1. If the target is still weakened by this ability at the end of the encounter, they cannot take a respite activity during their next respite.
 
 **Recall (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -2346,7 +2335,7 @@ At the start of their turn, the palinode can turn the duration of one save ends 
 - **Might** 0  
 - **Agility** +1  
 - **Reason** +2  
-- **Intuition** −1  
+- **Intuition** -1  
 - **Presence** +2  
 
 **Twystrd (Action)** ◆ 2d10 + 2 ◆ Signature  
@@ -2357,7 +2346,7 @@ Target: All enemies in the cube
 - ✦ ≤11: vertical push 2  
 - ★ 12–16: vertical push 3  
 - ✸ 17: vertical push 5  
-  Effect: The area of the cube increases by 1 for each elemental mote adjacent to the wyrd.
+Effect: The area of the cube increases by 1 for each elemental mote adjacent to the wyrd.
 
 **Wyrd Warp (Maneuver)** ◆ 3 Malice  
 Keywords: Area, Magic, Ranged  
@@ -2392,7 +2381,7 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage; A1 prone  
 - ★ 12–16: 5 damage; A2 prone  
 - ✸ 17: 7 damage; the zephyr takes a free strike on a creature adjacent to the target; A3 prone  
-  Effect: Shift 2.  
+Effect: Shift 2.  
 
 **Windwalk (Maneuver)**  
 Keywords: —  
@@ -2439,7 +2428,7 @@ Target: All enemies in the burst
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17: 5 damage  
-  Effect: This attack has edge against prone targets.
+Effect: This attack has edge against prone targets.
 
 **Buck (Maneuver)** ◆ 2 Malice  
 Keywords: —  
@@ -2474,7 +2463,7 @@ Target: 1 creature or object
 - ✦ ≤11: 5 lightning damage; R2 dazed (save ends)  
 - ★ 12–16: 8 lightning damage; R3 dazed (save ends)  
 - ✸ 17: 12 lightning damage; R4 dazed (save ends)  
-  Effect: High elves have edge on attacks and abilities against the target until the start of the ordinator’s next turn.
+Effect: High elves have edge on attacks and abilities against the target until the start of the ordinator’s next turn.
 
 **Call Forth Elementals (Maneuver)** ◆ 2+ Malice  
 Keywords: —  
@@ -2509,7 +2498,7 @@ Target: All enemies in the cube
 - ✸ ≤11: 8 corruption damage; pull 5 towards center of cube  
 - ★ 12–16: 5 corruption damage; pull 3 towards center of cube  
 - ✦ 17: Pull 1 towards center of cube  
-  Effect: The affected area becomes darkened, and its space warps violently in every direction.
+Effect: The affected area becomes darkened, and its space warps violently in every direction.
 
 **But We Will Change Her Mind. (Villain Action 3)**  
 Keywords: Area, Magic  
@@ -2541,9 +2530,9 @@ At the start of a wode elf’s turn, you can spend malice to activate one of the
 - **Forest Network (3 Malice)**: Each wode elf that ends this turn hidden can shift their speed while remaining hidden.
 - **Punishing Regrowth (5 Malice)**: All wode elves have **+1** and their attacks inflict slide 2 until the end of the turn. If a target force-moved by one of these attacks ends the forced movement in difficult terrain, they are restrained (EoT).
 - **Vines Everywhere (7 Malice)**: Vines emerge and rapidly grow across the entire encounter map. Each enemy must make an Agility resistance roll:
-  - ✸ ≤11: 5 damage; restrained (save ends)
-  - ★ 12–16: restrained (EoT)
-  - ✦ 17+: no effect
+- ✸ ≤11: 5 damage; restrained (save ends)
+- ★ 12–16: restrained (EoT)
+- ✦ 17+: no effect
 
 ### STATBLOCKS
 
@@ -2602,7 +2591,6 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
-
 Effect: The runner can shift 2 before making the attack.
 
 **Masking Glamor**  
@@ -2688,7 +2676,6 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17: 7 damage  
-
 Effect: Taunted (EoT). The greenskeeper can shift 3 after making the attack.  
 2 Malice: The distance increases to Melee 5.
 
@@ -2696,7 +2683,6 @@ Effect: Taunted (EoT). The greenskeeper can shift 3 after making the attack.
 Keywords: Area, Ranged  
 Distance: 3 cube within 10  
 Target: All enemies in the cube  
-
 Effect: The affected area is overgrown with heavy brush and bramble. It provides cover and concealment for the greenskeeper and all allies, and is considered difficult terrain for enemies. An enemy that starts their turn in an affected square takes 3 damage.
 
 **Masking Glamor**  
@@ -2726,7 +2712,6 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage; I1 restrained (save ends)  
 - ★ 12–16: 5 damage; I2 restrained (save ends)  
 - ✸ 17: 7 damage; I3 restrained (save ends)  
-
 Effect: A creature restrained by this ability can’t search for hidden creatures until the condition ends.
 
 **The Natural Cycle (Maneuver)** ◆ PRS RR ◆ 3 Malice  
@@ -2773,7 +2758,6 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage; A2 marked (save ends)  
 - ★ 12–16: 5 damage; A3 marked (save ends)  
 - ✸ 17: 7 damage; marked (save ends)  
-
 Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.  
 3 Malice: The sentry targets two additional creatures or objects.
 
@@ -2781,7 +2765,6 @@ Effect: Allies have **+1** on attacks and abilities against marked creatures and
 Keywords: Area, Weapon  
 Distance: 5 burst  
 Target: All marked enemies  
-
 Effect: 3 damage.
 
 **Masking Glamor**  
@@ -2811,7 +2794,6 @@ Target: All enemies in the cube
 - ✦ ≤11: 3 damage; pull 1; M1 slowed (save ends)  
 - ★ 12–16: 5 damage; pull 3; M2 slowed (save ends)  
 - ✸ 17: 7 damage; pull 5; M3 slowed (save ends)  
-
 Effect: A creature slowed by this ability can’t search for hidden creatures until the condition ends.  
 3 Malice: The area of the cube and the potency of the effect both increase by 1.
 
@@ -2819,7 +2801,6 @@ Effect: A creature slowed by this ability can’t search for hidden creatures un
 Keywords: Magic  
 Distance: Self and Ranged 5  
 Target: Self and 3 allies  
-
 Effect: Each target teleports to a square within 10 that has cover or concealment from all enemies.
 
 **Masking Glamor**  
@@ -2849,7 +2830,6 @@ Target: 1 creature or object
 - ✦ ≤11: 4 damage; push 1  
 - ★ 12–16: 7 damage; push 3  
 - ✸ 17: 10 damage; push 5  
-
 Effect: The tree chirurgeon can make a ranged free strike before attacking.  
 5 Malice: The tree chirurgeon uses this ability again.
 
@@ -2857,7 +2837,6 @@ Effect: The tree chirurgeon can make a ranged free strike before attacking.
 Keywords: Magic  
 Distance: Self and Ranged 5  
 Target: Self and 3 allies  
-
 Effect: Each target teleports to a square within 10 that has cover or concealment from all enemies.
 
 **Masking Glamor**  
@@ -2887,7 +2866,6 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; M1 bleeding (save ends)  
 - ★ 12–16: 9 damage; M2 bleeding (save ends)  
 - ✸ 17: 12 damage; M3 bleeding (save ends)  
-
 Effect: The tree guerilla can teleport 3 after making the attack.  
 5 Malice: The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
 
@@ -2926,7 +2904,6 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; A1 restrained (save ends)  
 - ★ 12–16: 9 damage; A2 restrained (save ends)  
 - ✸ 17: 12 damage; A3 restrained (save ends)  
-
 Effect: The tree gweiadur can shift 3 after making the attack.  
 3 Malice: If this attack restrains the target, an enemy within 1 of the target is also restrained (save ends).
 
@@ -2938,7 +2915,6 @@ Target: All enemies in the cube
 - ✦ ≤11: 2 damage; R1 marked (save ends)  
 - ★ 12–16: 4 damage; R2 slowed and marked (save ends)  
 - ✸ 17: 6 damage; R3 slowed and marked (save ends)  
-
 Effect: Allies have **+1** on attacks and abilities against marked creatures and objects.
 
 **Masking Glamor**  
@@ -2968,7 +2944,6 @@ Target: 3 creatures or objects
 - ✦ ≤11: 5 damage; M2 restrained (save ends)  
 - ★ 12–16: 9 damage; M3 restrained (save ends)  
 - ✸ 17: 12 damage; M4 restrained (save ends)  
-
 Effect: The penteulu deals damage to each target one at a time and can teleport 3 squares after damaging a target.  
 3 Malice: Targets restrained by this ability take an additional **+1**.
 
@@ -2976,7 +2951,6 @@ Effect: The penteulu deals damage to each target one at a time and can teleport 
 Keywords: Area  
 Distance: 10 burst  
 Target: All allies in the burst  
-
 Effect: Each target can make a free strike and then shifts 3. A target immediately hides at the end of the penteulu’s turn while in cover or concealment.
 
 **Wode Sickness (Triggered Action)**  
@@ -2984,7 +2958,6 @@ Keywords: —
 Trigger: An ally ends their turn.  
 Distance: Ranged 10  
 Target: 1 enemy  
-
 Effect: The target must take their turn now, if they have not already taken it. **P3** The target is bleeding and has a bane on their attacks until the end of their turn.
 
 **End Effect**  
@@ -2997,21 +2970,18 @@ The penteulu immediately hides at the end of their turn, even if they are observ
 Keywords: Area  
 Distance: 5 burst  
 Target: All enemies in the burst  
-
 Effect: The penteulu makes a Wodeblade attack against each target with **+1**.
 
 **Suppressing Volley (Villain Action 2)**  
 Keywords: Area  
 Distance: 5 burst  
 Target: All allies in the burst  
-
 Effect: The penteulu makes a Wodeblade attack against a single creature or object. Each target then makes a free strike.
 
 **Is it Now or is it Then? Where are We? (Villain Action 3)**  
 Keywords: Area  
 Distance: Self and 5 burst  
 Target: Self and all allies in the burst  
-
 Effect: Each target becomes invisible until the start of the next round. The penteulu then makes a Wodeblade attack.
 
 #### WODENELG
@@ -3026,9 +2996,9 @@ Effect: Each target becomes invisible until the start of the next round. The pen
 
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** 0  
-- **Presence** −1  
+- **Presence** -1  
 
 **Gore (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -3038,7 +3008,6 @@ Target: 1 creature or object
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17: 6 damage  
-
 Effect: The wodenelg’s rider can make a free strike at any point during the charge.
 
 **Sure Footed**  
@@ -3048,7 +3017,6 @@ The wodenelg ignores all difficult terrain, including enemy squares, and doesn�
 Keywords: —  
 Distance: Self  
 Target: Self  
-
 Effect: The wodenelg and their rider become invisible until the start of their next turn.
 
 **Mounted Stability**  
@@ -3082,9 +3050,9 @@ At the start of any cryptic’s turn, you can spend malice to activate one of th
 - **Stone Pillars (5 Malice)**: Two pillars of stone that are 1 square wide thrust 5 squares up out of the ground anywhere on the encounter map. Any creature in the area of a pillar before it rises falls prone on top of it.
   
 - **Choking Dust (7 Malice)**: The air across the area of the encounter map becomes thick with dust until the end of the encounter. Each enemy in the dust must immediately make a Might resistance roll, then repeat that resistance roll at the start of each of their turns:
-  - ✸ ≤11: Slowed (EoT); the target’s stability is reduced by 3 (EoT).
-  - ★ 12–16: The target’s speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT).
-  - ✦ 17+: No effect
+- ✸ ≤11: Slowed (EoT); the target’s stability is reduced by 3 (EoT).
+- ★ 12–16: The target’s speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT).
+- ✦ 17+: No effect
 
 ### STATBLOCKS
 
@@ -3123,7 +3091,6 @@ Target: One creature or object
 - ✦ ≤11: 5 damage; A2 prone  
 - ★ 12–16: 9 damage; A3 prone and can’t stand (EoT)  
 - ✸ 17+: 12 damage; A4 prone and can’t stand (save ends)  
-
 Effect: Each enemy within 1 square of the target takes 2 damage.
 
 **Stone Bone Storm (Action)** ◆ 2d10 + 3  
@@ -3134,14 +3101,12 @@ Target: Each enemy in the line
 - ✦ ≤11: 2 damage; M2 push 2  
 - ★ 12–16: 3 damage; M3 prone  
 - ✸ 17+: 4 damage; M4 prone  
-
 Effect: The cryptic reforms their body and appears in an unoccupied space within the line.
 
 **Shatterstone (Action)** ◆ 2d10 + 3 ◆ 5 Malice  
 Keywords: Area  
 Distance: 4 burst  
 Target: Each enemy in the burst  
-
 Effect: The cryptic burrows up to half their speed, then creates the burst when they breach the surface.  
 - ✦ ≤11: 2 damage; push 2  
 - ★ 12–16: 3 damage; push 3; prone  
@@ -3155,7 +3120,6 @@ Target: One creature or object on the ground
 - ✸ ≤11: Slide 3  
 - ★ 12–16: Slide 2  
 - ✦ 17+: Slide 1  
-
 2 Malice: The distance of the slide is doubled.
 
 **Dissipate (Triggered Action)** ◆ 1 Malice  
@@ -3163,7 +3127,6 @@ Keywords: —
 Distance: Self  
 Target: Self  
 Trigger: The cryptic takes damage  
-
 Effect: The cryptic halves the damage, doesn’t suffer any additional effect associated with it, and shifts up to 3 squares.
 
 **First Warning Quake (Villain Action 1)** ◆ MGT RR  
@@ -3174,7 +3137,6 @@ Target: Each enemy on the ground in the burst
 - ✸ ≤11: The target is prone and can’t stand (EoT)  
 - ★ 12–16: Prone  
 - ✦ 17+: No effect  
-
 Effect: The area becomes difficult terrain.
 
 **Final Warning Fissure (Villain Action 2)** ◆ AGL RR  
@@ -3185,12 +3147,10 @@ Target: Each enemy on the ground in the burst
 - ✸ ≤11: 4 damage; prone  
 - ★ 12–16: 2 damage  
 - ✦ 17+: The target moves to the nearest unoccupied space outside the area.  
-
 Effect: The area drops 2 squares. Each enemy in the area falls, while all allies of the fossil cryptic drop safely. The affected area then becomes difficult terrain.
 
 **No Escape (Villain Action 3)** ◆ 2d10 + 3  
 Keywords: Ranged  
-
 Effect: The cryptic makes an initial attack that calls down stone pillars from the ceiling.  
 Distance: Ranged 10  
 Target: Two creatures or objects  
@@ -3198,7 +3158,6 @@ Target: Two creatures or objects
 - ✦ ≤11: 2 damage; prone; M2 restrained (save ends)  
 - ★ 12–16: 3 damage; prone; M3 restrained (save ends)  
 - ✸ 17+: 4 damage; prone; M4 restrained (save ends)  
-
 Effect: The cryptic makes a final attack that raises stone pillars from the floor.  
 Distance: Ranged 10  
 Target: Two creatures or objects on the ground  
@@ -3242,9 +3201,9 @@ Most gnolls speak Anjal.
 At the start of a gnoll’s turn, you can spend malice to activate one of the following features:
 
 - **Iron Jaws (3 Malice):** One gnoll acting this turn drops an iron-jawed snare into an unoccupied square while moving. If an enemy steps into a square with the snare in it, they must make an Agility resistance roll. If the creature was unaware of the snare, they make the roll with a bane:
-  - ✸ ≤11: 5 damage; bleeding (save ends)
-  - ★ 12–16: 3 damage; bleeding (EoT)
-  - ✦ 17: no effect
+- ✸ ≤11: 5 damage; bleeding (save ends)
+- ★ 12–16: 3 damage; bleeding (EoT)
+- ✦ 17: no effect
   
   While a creature is bleeding from the snare, gnolls have edge on attacks made against the creature.
 
@@ -3266,9 +3225,9 @@ At the start of a gnoll’s turn, you can spend malice to activate one of the fo
 
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −3  
+- **Reason** -3  
 - **Intuition** 0  
-- **Presence** −2  
+- **Presence** -2  
 
 **Snapjaw (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -3296,7 +3255,7 @@ When the abyssal hyena is reduced to 0 Stamina, they make a free strike before d
 - **Agility** 0  
 - **Reason** +1  
 - **Intuition** 0  
-- **Presence** −2  
+- **Presence** -2  
 
 **Chain Shotput (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Ranged, Weapon  
@@ -3322,7 +3281,7 @@ Whenever an ally within 5 is reduced to 0 Stamina, the flingflail archer moves u
 
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** 0  
 - **Presence** 0  
 
@@ -3334,7 +3293,6 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 acid damage  
 - ★ 12–16: 3 cold damage  
 - ✸ 17: 4 lightning damage; target can’t use magic abilities (EoT)  
-
 Effect: The target has a bane on their next resistance roll until the start of the mage-gorger’s next turn.
 
 **Death Frenzy**  
@@ -3354,7 +3312,7 @@ Whenever an ally within 5 is reduced to 0 Stamina, the mage-gorger moves up to t
 - **Agility** +2  
 - **Reason** 0  
 - **Intuition** 0  
-- **Presence** −2  
+- **Presence** -2  
 
 **Flail (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -3382,7 +3340,7 @@ Whenever an ally within 7 is reduced to 0 Stamina, the wildling moves up to thei
 - **Agility** +2  
 - **Reason** +1  
 - **Intuition** 0  
-- **Presence** −1  
+- **Presence** -1  
 
 **Dark Longbow (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Ranged, Weapon  
@@ -3392,14 +3350,12 @@ Target: 1 creature or object
 - ✦ ≤11: 4 corruption damage; M1 slowed (save ends)  
 - ★ 12–16: 7 corruption damage; M2 slowed (save ends)  
 - ✸ 17: 10 corruption damage; M3 slowed (save ends)  
-
 Effect: This attack has edge against creatures the abyssal archer has previously targeted.
 
 **Cackletongue (Maneuver)** ◆ 2 Malice  
 Keywords: —  
 Distance: Self and 2 burst  
 Target: Self and all allies  
-
 Effect: Each target has an edge on their next attack before the end of their next turn. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**  
@@ -3432,21 +3388,18 @@ Target: 1 creature or object
 - ✦ ≤11: 3 fire damage; I1 burning (save ends)  
 - ★ 12–16: 5 fire damage; I2 burning (save ends)  
 - ✸ 17: 7 fire damage; I3 burning (save ends)  
-
 Effect: A burning target takes 1d6 fire damage at the start of each of their turns until the condition ends.
 
 **Call Abyssal Hyenas (Maneuver)** ◆ 3 Malice  
 Keywords: —  
 Distance: Ranged 5  
 Target: Special  
-
 Effect: 2 abyssal hyenas claw out of the ground into unoccupied squares.
 
 **Cackletongue (Maneuver)** ◆ 4 Malice  
 Keywords: —  
 Distance: 2 burst  
 Target: All allies  
-
 Effect: 1 abyssal hyena target turns into a gnoll marauder, keeping their Stamina. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**  
@@ -3476,14 +3429,12 @@ Target: 1 creature or object
 - ✦ ≤11: 4 damage; push 2  
 - ★ 12–16: 7 damage; grabbed; M2 target has a bane on attempts to escape grab  
 - ✸ 17: 10 damage; grabbed; M3 target has a bane on attempts to escape grab  
-
 Effect: The bonesplitter can’t use three-tail flail on another target while the current target is grabbed.
 
 **Cackletongue (Maneuver)** ◆ 3 Malice  
 Keywords: —  
 Distance: Self and 2 burst  
 Target: Self and all allies  
-
 Effect: Each target makes a free strike. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**  
@@ -3513,7 +3464,6 @@ Target: 1 creature
 - ✦ ≤11: 3 psychic damage; I1 target makes a free strike against a creature of the cackler’s choice  
 - ★ 12–16: 5 psychic damage; I2 target makes a free strike against a creature of the cackler’s choice  
 - ✸ 17: 7 psychic damage; I3 target uses a signature ability against a creature of the cackler’s choice  
-
 Effect: An ally targeted by this ability makes a free strike instead of taking damage.
 
 **Cackletongue (Maneuver)** ◆ INU RR ◆ 4 Malice  
@@ -3524,7 +3474,6 @@ Target: All creatures
 - ✸ ≤11: Frightened of the cackler (save ends)  
 - ★ 12–16: Frightened of the cackler (EoT)  
 - ✦ 17: No effect  
-
 Effect: Allies targeted by this ability don’t make a resistance roll. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**  
@@ -3554,14 +3503,12 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage; A1 bleeding (save ends)  
 - ★ 12–16: 5 damage; A2 bleeding (save ends)  
 - ✸ 17: 7 damage; prone; A3 bleeding (save ends)  
-
 Effect: Shift 2.
 
 **Cackletongue (Maneuver)** ◆ 3 Malice  
 Keywords: —  
 Distance: Self and 2 burst  
 Target: Self and all allies  
-
 Effect: Each target shifts up to their speed. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Frenzy**  
@@ -3579,10 +3526,10 @@ Whenever an ally within 7 is reduced to 0 Stamina, the marauder moves up to thei
 **Free Strike**: 4  
 
 - **Might** +2  
-- **Agility** −1  
-- **Reason** −3  
+- **Agility** -1  
+- **Reason** -3  
 - **Intuition** 0  
-- **Presence** −1  
+- **Presence** -1  
 
 **Gore (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -3592,7 +3539,6 @@ Target: 1 creature or object
 - ✦ ≤11: 4 damage; push 1  
 - ★ 12–16: 7 damage; push 2  
 - ✸ 17: 10 damage; push 3; prone  
-
 Effect: This attack has edge while charging.
 
 **Vengeful Tusker (Triggered Action)**  
@@ -3600,7 +3546,6 @@ Keywords: —
 Trigger: An enemy within 7 deals damage to the tusker.  
 Distance: Self  
 Target: Self  
-
 Effect: The tusker demon charges the target using Gore.
 
 **Trample**  
@@ -3633,14 +3578,12 @@ Target: 2 creatures or objects
 - ✦ ≤11: 4 damage; A2 bleeding (save ends)  
 - ★ 12–16: 7 damage; A3 bleeding (save ends)  
 - ✸ 17: 10 damage; A4 bleeding and dazed (save ends)  
-
 Effect: An ally targeted by this ability makes a free strike instead of taking damage.
 
 **Cackletongue (Maneuver)** ◆ 4 Malice  
 Keywords: —  
 Distance: Self and 5 burst  
 Target: Self and all allies  
-
 Effect: Each target has edge until the start of the last laugh’s next turn. Targets who haven’t used a cackletongue maneuver on this turn use it immediately at no cost.
 
 **Death Rampage**  
@@ -3657,21 +3600,18 @@ Target: All enemies
 - ✦ ≤11: Frightened of the last laugh (save ends)  
 - ★ 12–16: Frightened of the last laugh (EoT)  
 - ✸ 17: No effect  
-
 Effect: While frightened by this ability, targets laugh uncontrollably and cannot use triggered actions.
 
 **Call Up From The Abyss (Villain Action 2)**  
 Keywords: —  
 Distance: Ranged 10  
 Target: Special  
-
 Effect: The last laugh summons 5 gnoll wildlings and 5 abyssal hyenas into unoccupied spaces.
 
 **Edacity (Villain Action 3)**  
 Keywords: Area  
 Distance: Self and 10 burst  
 Target: Self and all allies  
-
 Effect: Each target moves up to their speed and makes a free strike. Creatures that take damage from this villain action are also knocked prone.
 
 ## GOBLINS
@@ -3715,9 +3655,9 @@ At the start of any goblin’s turn, you can spend malice to activate one of the
 - **Goblin Mode (3 Malice):** Each goblin in the encounter gains a +2 bonus to speed until the end of the round.
 - **Tiny Stabs (5 Malice):** Each enemy in the encounter takes 1 damage for each goblin who is adjacent to them.
 - **Swamp Stink (7 Malice):** The encounter map becomes covered in a green mist that lasts until the end of the round, which can’t be dispersed by wind. All areas of the map become difficult terrain for non-goblins, and each non-goblin on the map must make a Might resistance roll.
-  - ✦ ≤11: 5 poison; weakened until mist disappears
-  - ★ 12–16: Weakened until mist disappears
-  - ✸ 17+: No effect
+- ✦ ≤11: 5 poison; weakened until mist disappears
+- ★ 12–16: Weakened until mist disappears
+- ✸ 17+: No effect
 
 ### STATBLOCKS
 
@@ -3731,11 +3671,11 @@ At the start of any goblin’s turn, you can spend malice to activate one of the
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
   
 **Club (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -3759,11 +3699,11 @@ The runner doesn’t provoke opportunity attacks by moving.
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
   
 **Bow (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Ranged, Weapon  
@@ -3773,7 +3713,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17+: 5 damage  
-  Effect: If the sniper doesn’t use a maneuver or a move action this turn, the ability has edge.  
+Effect: If the sniper doesn’t use a maneuver or a move action this turn, the ability has edge.  
   
 **Crafty**  
 The sniper doesn’t provoke opportunity attacks by moving.
@@ -3792,7 +3732,7 @@ The sniper doesn’t provoke opportunity attacks by moving.
 - **Agility** +0  
 - **Reason** +0  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
   
 **Axe (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -3816,11 +3756,11 @@ The spinecleaver doesn’t provoke opportunity attacks by moving.
 **Size**: 1T / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −5  
+- **Might** -5  
 - **Agility** +2  
-- **Reason** −4  
+- **Reason** -4  
 - **Intuition** +0  
-- **Presence** −2  
+- **Presence** -2  
   
 **Claws (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -3830,7 +3770,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 poison damage  
 - ★ 12–16: 3 poison damage  
 - ✸ 17+: 4 poison damage  
-  Effect: The target has a bane on their next attack.
+Effect: The target has a bane on their next attack.
   
 #### GOBLIN ASSASSIN  
   
@@ -3842,11 +3782,11 @@ Target: One creature or object per minion
 **Size**: 1S / Stability 0  
 **Free Strike**: 3  
   
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
-- **Presence** −2  
+- **Presence** -2  
   
 **Sword (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -3856,7 +3796,7 @@ Target: One creature or object
 - ✦ ≤11: 3 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 7 damage  
-  Effect: This ability has edge if the assassin has an edge on the power roll.  
+Effect: This ability has edge if the assassin has an edge on the power roll.  
   
 **Shadow Chains (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Magic, Ranged  
@@ -3883,7 +3823,7 @@ The assassin can take the Hide maneuver even while observed, though they still m
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −2  
+- **Might** -2  
 - **Agility** +1  
 - **Reason** +0  
 - **Intuition** +2  
@@ -3920,7 +3860,7 @@ The cursespitter doesn’t provoke opportunity attacks by moving.
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −2  
+- **Might** -2  
 - **Agility** +1  
 - **Reason** +0  
 - **Intuition** +0  
@@ -3934,13 +3874,12 @@ Target: Each enemy
 - ✦ ≤11: 1 poison damage; slide 1  
 - ★ 12–16: 2 poison damage; slide 2  
 - ✸ 17+: 3 poison damage; slide 3  
-  1 Malice: Increase the slide for one target by 2 squares.  
+1 Malice: Increase the slide for one target by 2 squares.  
   
 **Swamp Gas (Maneuver)**  
 Keywords: Area, Magic, Ranged  
 Distance: 3 cube within 10  
 Target: Special  
-  
 Effect: The area is filled with a green haze until the start of the stinker’s next turn or until the stinker is reduced to Stamina 0. The area is difficult terrain for non-goblin creatures, and each such creature who moves within the area takes 2 poison damage for each square moved. The haze can’t be dispersed by wind.  
   
 **Crafty**  
@@ -3956,7 +3895,7 @@ The stinker doesn’t provoke opportunity attacks by moving.
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −1  
+- **Might** -1  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
@@ -3970,13 +3909,12 @@ Target: One creature or object
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: One ally adjacent to the target can make a free strike against them.  
+Effect: One ally adjacent to the target can make a free strike against them.  
   
 **Get Reckless! (Maneuver)**  
 Keywords: Area  
 Distance: 5 burst  
 Target: All allies in the burst  
-  
 Effect: Until the start of the underboss’s next turn, each target has edge on attacks, and attacks against them have edge.  
 3 Malice: Attacks don’t have edge against a target.  
   
@@ -3993,11 +3931,11 @@ The underboss doesn’t provoke opportunity attacks by moving.
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
   
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
   
 **Spear (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -4032,9 +3970,9 @@ The warrior doesn’t provoke opportunity attacks by moving.
   
 - **Might** +3  
 - **Agility** +2  
-- **Reason** −4  
+- **Reason** -4  
 - **Intuition** +0  
-- **Presence** −3  
+- **Presence** -3  
   
 **Handaxe (Action)** ◆ 2d10 + 3 ◆ Signature  
 Keywords: Attack, Melee, Ranged, Weapon  
@@ -4044,13 +3982,12 @@ Target: Two creatures or objects
 - ✦ ≤11: 3 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 7 damage  
-  Effect: An ally within 10 of the monarch can make a free strike.  
+Effect: An ally within 10 of the monarch can make a free strike.  
   
 **Get in Here! (Maneuver)** ◆ 1 Malice  
 Keywords: —  
 Distance: Ranged 20  
 Target: Special  
-  
 Effect: Two goblin runners appear in unoccupied spaces.  
   
 **Meat Shield (Triggered Action)**  
@@ -4058,7 +3995,6 @@ Keywords: —
 Distance: Melee 1  
 Target: One ally  
 Trigger: A creature targets the monarch with an attack.  
-  
 Effect: The ally becomes the target of the triggering attack instead.  
   
 **End Effect**  
@@ -4071,21 +4007,18 @@ The monarch doesn’t provoke opportunity attacks by moving.
 Keywords: Area  
 Distance: 10 burst  
 Target: Each ally  
-  
 Effect: Each target can move up to their speed or make a free strike.  
   
 **Focus Fire (Villain Action 2)**  
 Keywords: —  
 Distance: Ranged 10  
 Target: One enemy  
-  
 Effect: Each ally within 10 squares of the enemy can move up to their speed toward the enemy.  
   
 **Kill! (Villain Action 3)**  
 Keywords: Area  
 Distance: 10 burst  
 Target: All allies in the burst  
-  
 Effect: Each target can make a free strike with edge.
   
 #### WAR SPIDER  
@@ -4100,9 +4033,9 @@ Effect: Each target can make a free strike with edge.
   
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −4  
+- **Reason** -4  
 - **Intuition** +0  
-- **Presence** −3  
+- **Presence** -3  
   
 **Bite (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -4126,7 +4059,6 @@ Target: Two creatures or objects
 Keywords: —  
 Distance: Self  
 Target: Self  
-  
 Effect: The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.  
   
 **Web (Maneuver)** ◆ AGL RR ◆ 2 Malice  
@@ -4156,9 +4088,9 @@ Two of the spider’s size 1 allies can occupy the same space while riding the s
   
 - **Might** +1  
 - **Agility** +2  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
   
 **Bite (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -4173,7 +4105,6 @@ Target: One creature or object
 Keywords: —  
 Distance: Self  
 Target: Self  
-  
 Effect: The warg moves up to their speed.  
   
 **Mounted Charger**  
@@ -4211,12 +4142,12 @@ At the start of a griffon’s turn, you can spend malice to activate one of the 
   Keywords: —  
   Distance: Self  
   Target: Self  
-  Effect: The griffon flies up to their speed. The griffon takes a free strike against each creature that makes an opportunity attack against the griffon.
+Effect: The griffon flies up to their speed. The griffon takes a free strike against each creature that makes an opportunity attack against the griffon.
   
 - **Piercing Cry (5 Malice):** A griffon acting this turn unleashes a hideous screech at an enemy within 5, forcing the creature to make an Intuition resistance roll:
-  - ✸ ≤11: Frightened of the griffon (save ends)
-  - ★ 12-16: Frightened of the griffon (EoT)
-  - ✦ 17+: No effect
+- ✸ ≤11: Frightened of the griffon (save ends)
+- ★ 12-16: Frightened of the griffon (EoT)
+- ✦ 17+: No effect
   
 - **Wildwinds (7 Malice):** Winds bluster and blow throughout the battle map. Until the end of the encounter, each creature that cannot fly or is not mounted on a flying creature has their stability reduced by 5, and forced movement effects targeting them increase by 3 squares.
 
@@ -4246,13 +4177,12 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage; shift 1  
 - ★ 12-16: 8 damage; shift 2  
 - ✸ 17+: 11 damage; shift 3  
-  Effect: If this ability is used while charging, the griffon grapples one of the targets.  
+Effect: If this ability is used while charging, the griffon grapples one of the targets.  
   
 **Crack the Earth (Maneuver)**  
 Keywords: Area, Ranged  
 Distance: 3 cube within 8 (while flying and grappling a creature or object)  
 Target: All enemies  
-  
 Effect: The griffon flies up to half their speed towards the ground and then sends the creature or object they’ve grappled hurtling towards the affected area.  
 - ✦ ≤11: 2 damage; A1 push 2  
 - ★ 12-16: 3 damage; A2 push 3  
@@ -4272,7 +4202,6 @@ Keywords: —
 Trigger: The griffon takes damage  
 Distance: Self  
 Target: Self  
-  
 Effect: The griffon halves the damage, doesn’t suffer any effect associated with it, and shifts 2 squares.  
   
 **Beast of Prey**  
@@ -4310,7 +4239,6 @@ Target: 2 creatures or objects
 Keywords: —  
 Distance: Self (while grounded)  
 Target: Self  
-  
 Effect: The griffon shifts up to their speed in a straight line. Each enemy within their reach during this movement can choose to either take 5 damage or be knocked prone.  
   
 **Wing Buffet (Maneuver)** ◆ MGT RR ◆ 3 Malice  
@@ -4331,7 +4259,7 @@ Target: Triggering creature
 - ✦ ≤11: Push 3  
 - ★ 12-16: A2 grabbed  
 - ✸ 17+: 5 damage; A3 grabbed  
-  Effect: The griffon falls down upon the target, taking no damage from falling. A creature who is grabbed by the griffon is prone and can’t stand until they are no longer grabbed.  
+Effect: The griffon falls down upon the target, taking no damage from falling. A creature who is grabbed by the griffon is prone and can’t stand until they are no longer grabbed.  
   
 **Beast of Prey**  
 Creatures have a double bane when using the Escape Grab maneuver to escape the griffon’s grab.  
@@ -4378,11 +4306,10 @@ At the start of a hag’s turn, you can spend malice to activate one of the foll
   Distance: 10 × 1 line within 1  
   Target: All enemies  
 
-  - ✦ ≤11: 4 fire damage; R2 frightened of the hag (save ends)  
-  - ★ 12–16: 7 fire damage; R3 frightened of the hag (save ends)  
-  - ✸ 17: 10 fire damage; R4 frightened of the hag (save ends)  
-
-  **Effect:** After rolling power, the hag can choose to replace the damage type and effect of the attack with lightning and dazed (save ends) or cold and slowed (save ends).
+- ✦ ≤11: 4 fire damage; R2 frightened of the hag (save ends)  
+- ★ 12–16: 7 fire damage; R3 frightened of the hag (save ends)  
+- ✸ 17: 10 fire damage; R4 frightened of the hag (save ends)  
+Effect: After rolling power, the hag can choose to replace the damage type and effect of the attack with lightning and dazed (save ends) or cold and slowed (save ends).
 
 - **House Call (7 Malice):** The hag’s hut springs to life. It enters the encounter map within 10 of the hag if it isn’t already there and takes a turn. The hut is Size-4, has 60 Stamina and Magic immunity 5, a speed of 8, and a set of powerful animal legs. This feature can’t be used if the hut is reduced to 0 Stamina. The house can only take the following action:
 
@@ -4391,9 +4318,9 @@ At the start of a hag’s turn, you can spend malice to activate one of the foll
   Distance: 2 cube within 2  
   Target: All enemies  
 
-  - ✦ ≤11: 6 damage; push 3; M2 prone  
-  - ★ 12–16: 10 damage; push 4; M3 prone  
-  - ✸ 17: 13 damage; push 5; M4 prone
+- ✦ ≤11: 6 damage; push 3; M2 prone  
+- ★ 12–16: 10 damage; push 4; M3 prone  
+- ✸ 17: 13 damage; push 5; M4 prone
 
 ### STATBLOCKS
 
@@ -4430,7 +4357,7 @@ Target: Two creatures or objects
 - ✦ ≤11: 6 corruption damage; A2 weakened (save ends)  
 - ★ 12–16: 10 corruption damage; A3 weakened (save ends)  
 - ✸ 17+: 13 corruption damage; A4 weakened (save ends)  
-  Effect: A creature weakened by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.  
+Effect: A creature weakened by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.  
   
 **Soul Steal (Action)** ◆ 2d10 + 3  
 Keywords: Area, Magic  
@@ -4440,7 +4367,7 @@ Target: All enemies in the cube
 - ✦ ≤11: 4 corruption damage  
 - ★ 12–16: 7 corruption damage; P2 target has a bane on power rolls (save ends)  
 - ✸ 17+: 10 corruption damage; P3 target has a double bane on power rolls (save ends)  
-  Effect: This ability has an edge against creatures with a soul. The hag regains Stamina equal to half the total damage dealt.  
+Effect: This ability has an edge against creatures with a soul. The hag regains Stamina equal to half the total damage dealt.  
   
 **Shapeshifter (Maneuver)**  
 Keywords: Magic  
@@ -4458,7 +4385,7 @@ Target: All enemies in the burst
 - ✸ ≤11: Vertical slide 5; restrained (EoT)  
 - ★ 12–16: Slide 3; slowed (EoT)  
 - ✦ 17+: Slide 2  
-  Effect: A creature restrained by this ability that is force moved vertically is suspended in midair until the condition ends.  
+Effect: A creature restrained by this ability that is force moved vertically is suspended in midair until the condition ends.  
   
 **Snackies for Sweeties (Villain Action 1)** ◆ 2d10 + 3  
 Keywords: Area, Magic  
@@ -4485,7 +4412,7 @@ Target: All creatures in the cube
 - ✦ ≤11: 6 fire damage; A2 weakened (save ends)  
 - ★ 12–16: 10 fire damage; A3 weakened (save ends)  
 - ✸ 17+: 13 fire damage; A4 weakened (save ends)  
-  Effect: The hag turns the affected area into a roiling oven. The hag gains one edge on attacks and abilities against a creature each time they enter an affected square or start their turn there.
+Effect: The hag turns the affected area into a roiling oven. The hag gains one edge on attacks and abilities against a creature each time they enter an affected square or start their turn there.
 
 ## HUMANS
 
@@ -4568,7 +4495,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 lightning damage  
 - ★ 12–16: 4 lightning damage  
 - ✸ 17+: 5 lightning damage  
-  Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is slowed (EoT).  
+Effect: If the apprentice mage doesn’t use a maneuver or a move action this turn, the target is slowed (EoT).  
   
 **Studied Supernatural Insight**  
 The apprentice can target supernatural creatures and objects within 10 squares, even if they don’t have line of effect.  
@@ -4627,7 +4554,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 corruption damage  
 - ★ 12–16: 4 corruption damage  
 - ✸ 17+: 5 corruption damage  
-  Effect: A creature within 5 squares of the death acolyte regains 1 Stamina.  
+Effect: A creature within 5 squares of the death acolyte regains 1 Stamina.  
   
 **Supernatural Insight**  
 The death acolyte can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.  
@@ -4657,7 +4584,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: If the guard is flanked, they can make a free strike against an additional target adjacent to them.  
+Effect: If the guard is flanked, they can make a free strike against an additional target adjacent to them.  
   
 **Supernatural Insight**  
 The guard can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.  
@@ -4687,7 +4614,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17+: 5 damage  
-  Effect: If this ability is used while Charging, the raider can make a ranged free strike with a distance of 5 before using the ability.  
+Effect: If this ability is used while Charging, the raider can make a ranged free strike with a distance of 5 before using the ability.  
   
 **Supernatural Insight**  
 The raider can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.  
@@ -4717,7 +4644,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: This attack has a double edge and an edge if the spy was disguised or hidden before using this ability.  
+Effect: This attack has a double edge and an edge if the spy was disguised or hidden before using this ability.  
   
 **Supernatural Insight**  
 The rogue can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.  
@@ -4747,7 +4674,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; M1 grabbed  
 - ★ 12–16: 7 damage; M2 grabbed  
 - ✸ 17+: 10 damage; M3 grabbed  
-  Effect: The target has a bane on attempts to escape the grab. The brawler has edge on this attack if the target is already grabbed.  
+Effect: The target has a bane on attempts to escape the grab. The brawler has edge on this attack if the target is already grabbed.  
   
 **Throw (Maneuver)** ◆ 1 Malice  
 Keywords: —  
@@ -4786,7 +4713,7 @@ Target: One creature or object
 - ✦ ≤11: 4 corruption damage; I1 weakened (save ends)  
 - ★ 12–16: 7 corruption damage; I2 weakened (save ends)  
 - ✸ 17+: 10 corruption damage; I3 weakened (save ends)  
-  2 Malice: The death cultist regains Stamina equal to half the damage dealt by this ability.  
+2 Malice: The death cultist regains Stamina equal to half the damage dealt by this ability.  
   
 **Rise, My Minions (Maneuver)** ◆ 1 Malice per minion  
 Keywords: Area  
@@ -4823,7 +4750,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage; M1 the target has a bane on their next attack  
 - ★ 12–16: 7 damage; M2 the target has a bane on their next attack  
 - ✸ 17+: 10 damage; M3 the target has a double bane on their next attack  
-  Effect: Taunted (EoT).  
+Effect: Taunted (EoT).  
   
 **I’m Your Enemy**  
 The knave can make a free strike against an adjacent creature they have taunted whenever the creature deals damage to a creature other than the knave.  
@@ -4859,7 +4786,7 @@ Target: One creature or object
 - ✦ ≤11: 4 damage  
 - ★ 12–16: 7 damage  
 - ✸ 17+: 10 damage  
-  Effect: This ability has double edge if the scoundrel has an edge on the power roll.  
+Effect: This ability has double edge if the scoundrel has an edge on the power roll.  
   
 **Dagger Storm (Action)** ◆ 5 Malice  
 The scoundrel makes a Rapier & Dagger attack against three creatures or objects. They can shift 2 squares before or after each attack.  
@@ -4892,7 +4819,7 @@ Target: One creature or object
 - ✦ ≤11: 5 lightning damage  
 - ★ 12–16: 8 lightning damage  
 - ✸ 17+: 11 lightning damage  
-  5 Malice: The ability takes the Area keyword and becomes a 10 × 1 line that targets each creature in the area.  
+5 Malice: The ability takes the Area keyword and becomes a 10 × 1 line that targets each creature in the area.  
   
 **Gust of Wind (Maneuver)** ◆ MGT RR ◆ 3 Malice  
 Keywords: Area, Magic, Resistance  
@@ -4902,7 +4829,7 @@ Target: All creatures and objects
 - ✸ ≤11: Slide 5; slowed (save ends)  
 - ★ 12–16: Slide 3; slowed (EoT)  
 - ✦ 17+: Slide 1  
-  Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.  
+Effect: The gust of wind disperses gas or vapor and extinguishes any flames, including persistent effects.  
   
 **Arcane Shield**  
 The mage has triple edge against melee attacks and abilities. Whenever the mage takes damage from an enemy adjacent to them, the enemy takes 1 lightning damage and is pushed 2 squares.  
@@ -4935,8 +4862,8 @@ Target: One creature or object
 - ✦ ≤11: 4 damage  
 - ★ 12–16: 7 damage  
 - ✸ 17+: 10 damage  
-  Effect: The trickshot ignores cover and concealment.  
-  3 Malice: The trickshot attacks an additional target.  
+Effect: The trickshot ignores cover and concealment.  
+3 Malice: The trickshot attacks an additional target.  
   
 **Supernatural Insight**  
 The trickshot can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.  
@@ -4966,8 +4893,8 @@ Target: All enemies in the burst
 - ✦ ≤11: 4 damage; M2 slowed (save ends)  
 - ★ 12–16: 7 damage; M3 slowed (save ends)  
 - ✸ 17+: 10 damage; M4 slowed (save ends)  
-  Effect: An ally within 10 squares of the blackguard can make a free strike.  
-  1 Malice: The ally can use their signature action instead.  
+Effect: An ally within 10 squares of the blackguard can make a free strike.  
+1 Malice: The ally can use their signature action instead.  
   
 **You! (Maneuver)**  
 Keywords: —  
@@ -5031,8 +4958,8 @@ Target: Two enemies or objects
 - ✦ ≤11: 5 damage; pull 1  
 - ★ 12–16: 9 damage; pull 2  
 - ✸ 17+: 12 damage; pull 3  
-  Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.  
-  2 Malice: The bandit chief attacks an additional target.  
+Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.  
+2 Malice: The bandit chief attacks an additional target.  
   
 **Kneel, Peasant! (Maneuver)** ◆ 2d10 + 3  
 Keywords: Attack, Melee, Weapon  
@@ -5042,7 +4969,7 @@ Target: One enemy or object
 - ✦ ≤11: Push 1; M2 prone  
 - ★ 12–16: Push 2; M3 prone  
 - ✸ 17+: Push 4; M4 prone  
-  2 Malice: This ability targets each enemy adjacent to the bandit chief.  
+2 Malice: This ability targets each enemy adjacent to the bandit chief.  
   
 **Bloodstones (Triggered Action)**  
 Keywords: Magic  
@@ -5087,9 +5014,9 @@ Effect: Shift 10 squares. During or after this movement, the bandit chief can at
   
 - **Might** +2  
 - **Agility** +2  
-- **Reason** −3  
+- **Reason** -3  
 - **Intuition** +1  
-- **Presence** −2  
+- **Presence** -2  
   
 **Talons (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -5162,7 +5089,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 1 damage  
 - ★ 12–16: 2 damage  
 - ✸ 17: 3 damage  
-  Effect: 1 ally within 3 can shift 2.  
+Effect: 1 ally within 3 can shift 2.  
   
 **Shield? Shield!**  
 The princeps has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.  
@@ -5191,7 +5118,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 3 damage  
 - ✸ 17: 4 damage  
-  Effect: The sagittarius has increased Stability while adjacent to an ally.  
+Effect: The sagittarius has increased Stability while adjacent to an ally.  
 
 **Shield? Shield!**  
 The sagittarius has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.  
@@ -5248,7 +5175,7 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 1 damage  
 - ★ 12–16: 2 damage  
 - ✸ 17: 3 damage  
-  Effect: All kobolds ignore opportunity attacks from the target until the start of the veles’ next turn.  
+Effect: All kobolds ignore opportunity attacks from the target until the start of the veles’ next turn.  
 
 **Shield? Shield!**  
 The veles has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.  
@@ -5277,7 +5204,7 @@ Target: 1 creature or object
 - ✦ ≤11: 2 lightning damage  
 - ★ 12–16: 5 lightning damage  
 - ✸ 17: 6 lightning damage  
-  Effect: The adeptus has an edge on the attack if the target is adjacent to another enemy. All enemies adjacent to the target take 1 lightning damage.  
+Effect: The adeptus has an edge on the attack if the target is adjacent to another enemy. All enemies adjacent to the target take 1 lightning damage.  
 
 **Arcane Telum (Maneuver)** ◆ 2d10 + 1 ◆ 3 Malice  
 Keywords: Attack, Magic, Ranged  
@@ -5287,7 +5214,7 @@ Target: 3 creatures or objects
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17: 6 damage  
-  Effect: This attack ignores all banes and hindrances.  
+Effect: This attack ignores all banes and hindrances.  
 
 **Shield? Shield!**  
 The adeptus has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.  
@@ -5316,14 +5243,14 @@ Target: 1 creature or object
 - ✦ ≤11: 2 damage; pull 1  
 - ★ 12–16: 4 damage; pull 2  
 - ✸ 17: 5 damage; pull 3  
-  Effect: If the target’s forced movement triggers a trap, the target has a bane on all resistance rolls against that trap.  
+Effect: If the target’s forced movement triggers a trap, the target has a bane on all resistance rolls against that trap.  
 
 **Activate Trap (Maneuver)**  
 Keywords: —  
 Distance: Ranged 10  
 Target: 1 trap or terrain object  
-  Effect: The trap or terrain object instantly triggers.  
-  3 Malice: The artifex can place a new trap in the encounter and instantly trigger it.  
+Effect: The trap or terrain object instantly triggers.  
+3 Malice: The artifex can place a new trap in the encounter and instantly trigger it.  
 
 **Shield? Shield!**  
 The artifex has increased Stability by 1 and can act as cover for allies when adjacent to an ally who also has this trait.  
@@ -5352,8 +5279,8 @@ Target: 1 creature or object
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17: 5 damage  
-  Effect: Taunted (EoT).  
-  3 Malice: The legionary and their squad can shift 2 before this attack is made.  
+Effect: Taunted (EoT).  
+3 Malice: The legionary and their squad can shift 2 before this attack is made.  
 
 **Shield Bash (Maneuver)**  
 Keywords: Attack, Melee, Weapon  
@@ -5391,14 +5318,14 @@ Target: 1 creature or object
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17: 5 damage  
-  Effect: An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.  
+Effect: An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.  
   2+ Malice: 1 additional ally can shift for every 2 malice spent.  
 
 **Glory to the Legion (Maneuver)** ◆ 5 Malice  
 Keywords: Area  
 Distance: 5 burst  
 Target: All allies in the burst  
-  Effect: Each target regains 5 Stamina.  
+Effect: Each target regains 5 Stamina.  
 
 **Upholding High Standards**  
 Allies within 5 of the signifier have an edge and resistance. If the signifier is killed, a minion from their squad can retrieve the signum and replace their stat block with the signifier stat block.  
@@ -5430,7 +5357,7 @@ Target: 1 creature or object
 - ✦ ≤11: 2 damage; 1 restrained (save ends)  
 - ★ 12–16: 5 damage; 2 restrained (save ends)  
 - ✸ 17: 6 damage; 3 restrained (save ends)  
-  3 Malice: Creatures and objects restrained by this ability take 2 fire damage at the start of each of their turns.  
+3 Malice: Creatures and objects restrained by this ability take 2 fire damage at the start of each of their turns.  
 
 **Lost in the Crowd**  
 If the venator is adjacent to an ally, they can use the hide maneuver, even if observed.  
@@ -5470,7 +5397,7 @@ Target: 1 creature or object
 Keywords: —  
 Distance: Self  
 Target: Self  
-  Effect: The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.  
+Effect: The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.  
 
 **Erupt (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Attack, Melee, Weapon  
@@ -5480,7 +5407,7 @@ Target: All creatures
 - ✦ ≤11: 4 damage; push 1; 1 prone  
 - ★ 12–16: 7 damage; push 3; 2 prone  
 - ✸ 17: 10 damage; push 5; 3 prone  
-  Effect: This attack has an edge against targets directly above the drangolin.  
+Effect: This attack has an edge against targets directly above the drangolin.  
 
 **Ash Shot**  
 An enemy adjacent to the drangolin has resistance and can’t be hidden.  
@@ -5510,15 +5437,15 @@ Target: 1 creature or object
 - ✦ ≤11: 3 acid damage; 1 dazed (save ends)  
 - ★ 12–16: 5 acid damage; 2 dazed (save ends)  
 - ✸ 17: 7 acid damage; 3 restrained (save ends)  
-  Effect: A size 2 or smaller creature restrained by this attack is pulled into one of the cube’s squares and moves with the cube. The creature takes 3 acid damage at the start of each of their turns while restrained. When restrained ends, the creature moves to the nearest unoccupied square adjacent to the cube.  
-  3 Malice: The cube attacks 1 additional target.  
+Effect: A size 2 or smaller creature restrained by this attack is pulled into one of the cube’s squares and moves with the cube. The creature takes 3 acid damage at the start of each of their turns while restrained. When restrained ends, the creature moves to the nearest unoccupied square adjacent to the cube.  
+3 Malice: The cube attacks 1 additional target.  
 
 **You Didn’t Pay Attention! (Free Triggered Action)**  
 Keywords: —  
 Trigger: A creature moves or is force moved into the cube.  
 Distance: Self  
 Target: Self  
-  Effect: The cube uses Engulf with a double edge.  
+Effect: The cube uses Engulf with a double edge.  
 
 **Translucent Cube**  
 The cube completely occupies its space, blocking line of effect on enemy attacks and abilities. The cube is hidden until revealed.  
@@ -5547,14 +5474,14 @@ Target: 2 creatures or objects
 - ✦ ≤11: 2 damage; 2 weakened (save ends)  
 - ★ 12–16: 5 damage; 3 weakened (save ends)  
 - ✸ 17: 6 damage; 4 weakened (save ends)  
-  Effect: Any allies adjacent to a target of this attack can make a free strike.  
-  3 Malice: Targets weakened by this attack are now restrained while they are weakened.  
+Effect: Any allies adjacent to a target of this attack can make a free strike.  
+3 Malice: Targets weakened by this attack are now restrained while they are weakened.  
 
 **Concentrate All Fire on That Hero! (Maneuver)**  
 Keywords: —  
 Distance: Ranged 10  
 Target: One enemy  
-  Effect: The target is marked until the start of the centurion’s next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.  
+Effect: The target is marked until the start of the centurion’s next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.  
   3+ Malice: The centurion targets 1 additional enemy for every 3 malice spent.  
 
 **Testudo! (Triggered Action)**  
@@ -5562,25 +5489,25 @@ Keywords: Weapon
 Trigger: A creature attacks the centurion or an ally.  
 Distance: 5 burst  
 Target: All allies in the burst  
-  Effect: Each target shifts 2 before the attack damage is resolved. All kobolds with *Shield? Shield!* gain increased resistance for this attack.  
+Effect: Each target shifts 2 before the attack damage is resolved. All kobolds with *Shield? Shield!* gain increased resistance for this attack.  
 
 **Firetail Pilum (Villain Action 1)**  
 Keywords: Area, Weapon  
 Distance: 1 × 10 line within 1  
 Target: All enemies  
-  Effect: The centurion makes a pilum attack against each target with advantage. Targets take 2 fire damage at the start of each of their turns while weakened.  
+Effect: The centurion makes a pilum attack against each target with advantage. Targets take 2 fire damage at the start of each of their turns while weakened.  
 
 **Boom Pilum! (Villain Action 2)**  
 Keywords: Area, Weapon  
 Distance: 5 cube within 10  
 Target: All enemies in the cube  
-  Effect: The centurion makes a pilum attack against each target with a double edge. Each target is then pushed 3.  
+Effect: The centurion makes a pilum attack against each target with a double edge. Each target is then pushed 3.  
 
 **Are You Not Entertained?! (Villain Action 3)**  
 Keywords: Attack, Ranged, Weapon  
 Distance: 10 burst  
 Target: All enemies in the burst  
-  Effect: Each target is taunted (3, save ends). For the rest of the encounter, the centurion has Weapon immunity 5. All allies within 10 of the centurion can make a free strike.  
+Effect: Each target is taunted (3, save ends). For the rest of the encounter, the centurion has Weapon immunity 5. All allies within 10 of the centurion can make a free strike.  
 
 **End Effect**  
 At the end of their turn, the centurion can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.  
@@ -5611,9 +5538,9 @@ At the start of a lightbender’s turn, you can spend Malice to activate one of 
 - **Silent Prowl (3 Malice)**: A lightbender acting this turn adds the teleport keyword to their movement and can hide as a free maneuver until the start of their next turn.
 - **Duplicate (5 Malice)**: A lightbender acting this turn creates a duplicate lightbender in an unoccupied space adjacent to them. The duplicate has 1 Stamina and shares the lightbender’s speed and turn. Once per round, the lightbender can instantly trade places with a duplicate before or after using an ability.
 - **Everything The Light Touches (7 Malice)**: All lightbenders in the encounter shine radiantly and distort the senses of each enemy within 5 of one. Affected enemies must make a Reason resistance roll:  
-  - ✸ ≤11: The target can’t establish line of effect with any lightbenders (save ends).  
-  - ★ 12–16: The target can’t establish line of effect with any lightbenders (EoT).  
-  - ✦ 17: No effect.  
+- ✸ ≤11: The target can’t establish line of effect with any lightbenders (save ends).  
+- ★ 12–16: The target can’t establish line of effect with any lightbenders (EoT).  
+- ✦ 17: No effect.  
 
 ### STATBLOCKS
 
@@ -5641,7 +5568,7 @@ Target: 1 creature or object
 - ✦ ≤11: 8 damage  
 - ★ 12–16: 12 damage  
 - ✸ 17: 16 damage  
-  Effect: The lightbender has advantage on the attack if they would make it with an edge.  
+Effect: The lightbender has advantage on the attack if they would make it with an edge.  
 
 **Piercing Tails (Action)** ◆ 2d10 + 2  
 Keywords: Attack, Melee, Weapon  
@@ -5651,7 +5578,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 6 damage; 1 bleeding (save ends)  
 - ★ 12–16: 10 damage; 2 bleeding (save ends)  
 - ✸ 17: 13 damage; 3 bleeding (save ends)  
-  Effect: A creature who is bleeding from this ability has a bane on tests to search for the lightbender until the condition ends.  
+Effect: A creature who is bleeding from this ability has a bane on tests to search for the lightbender until the condition ends.  
 
 **Hypnotic Mane (Maneuver)** ◆ INU RR ◆ 5 Malice  
 Keywords: Area, Magic, Resistance  
@@ -5661,14 +5588,14 @@ Target: All enemies in the burst
 - ✸ ≤11: Dazed (save ends)  
 - ★ 12–16: Dazed (EoT)  
 - ✦ 17: No effect  
-  Effect: Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.  
+Effect: Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.  
 
 **Stalker’s Afterimage (Triggered Action)**  
 Keywords: Magic  
 Trigger: The lightbender is damaged by an attack  
 Distance: Self  
 Target: Self  
-  Effect: The lightbender halves the damage, doesn’t suffer any associated effect, and teleports 5 squares. The lightbender immediately hides if they teleport into cover or concealment.  
+Effect: The lightbender halves the damage, doesn’t suffer any associated effect, and teleports 5 squares. The lightbender immediately hides if they teleport into cover or concealment.  
 
 **Avoidance**  
 The lightbender always treats a save-ends effect as an EoT effect.  
@@ -5697,7 +5624,7 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage; 1 prone  
 - ★ 12–16: 9 damage; 2 prone  
 - ✸ 17: 12 damage; 3 prone  
-  Effect: The pouncer makes a free strike against each target they have knocked prone.  
+Effect: The pouncer makes a free strike against each target they have knocked prone.  
 
 **Sparkling Tail Whip (Action)** ◆ 2d10 + 2  
 Keywords: Area, Magic  
@@ -5707,7 +5634,7 @@ Target: All enemies and objects in the burst
 - ✦ ≤11: 2 damage; 1 dazzled (save ends)  
 - ★ 12–16: 4 damage; 2 dazzled (save ends)  
 - ✸ 17: 6 damage; 3 dazzled (save ends)  
-  Effect: A dazzled creature has a bane on their attacks and can’t have line of effect to targets who aren’t adjacent to them.  
+Effect: A dazzled creature has a bane on their attacks and can’t have line of effect to targets who aren’t adjacent to them.  
 
 **Illusory Feint (Maneuver)** ◆ REA RR ◆ 5 Malice  
 Keywords: Area, Magic, Resistance  
@@ -5717,14 +5644,14 @@ Target: All enemies in the cube
 - ✸ ≤11: Dazed (save ends)  
 - ★ 12–16: Dazed (EoT)  
 - ✦ 17: No effect  
-  Effect: Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.  
+Effect: Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.  
 
 **Striking Afterimage (Triggered Action)**  
 Keywords: Magic  
 Trigger: The lightbender is damaged by an attack  
 Distance: Self  
 Target: Self  
-  Effect: The lightbender halves the damage, doesn’t suffer any associated effect, and teleports 5 squares. The pouncer makes a free strike if they teleport into a space adjacent to an enemy.  
+Effect: The lightbender halves the damage, doesn’t suffer any associated effect, and teleports 5 squares. The pouncer makes a free strike if they teleport into a space adjacent to an enemy.  
 
 **Avoidance**  
 The pouncer always treats a save-ends effect as an EoT effect.  
@@ -5758,10 +5685,10 @@ Most lizardfolk speak Caelian and Khamish.
 At the start of a lizardfolk’s turn, you can spend malice to activate one of the following features.
 
 - **Net Trap (3 Malice):** One lizardfolk acting this turn can drop a net trap on a square during their movement. The net is hidden from enemies not in line of effect when the net is placed. When an enemy moves into a square with a net in it, they must make an Agility resistance roll. If the creature was unaware of the net, they make the roll with a bane:
-  - ✸ ≤11 Restrained (save ends)
-  - ★ 12–16 Restrained (EoT)
-  - ✦ 17 No effect
-  - A creature can use an action to free an adjacent target restrained by the trap.
+- ✸ ≤11 Restrained (save ends)
+- ★ 12–16 Restrained (EoT)
+- ✦ 17 No effect
+- A creature can use an action to free an adjacent target restrained by the trap.
 
 - **Water Pit (5 Malice):** A lizardfolk acting this turn unearths a 2 × 2 pit in the ground that fills up with water. A lizardfolk that exits the pit gains 10 temporary Stamina, regrows their tail, and ends one save ends effect affecting them. A creature with the Nature skill or the ability to burrow can make a hard Might or Reason test when adjacent to a pit to drain it. Success empties the pit of water. Failure with a consequence causes the creature to fall into the pit prone.
 
@@ -5821,7 +5748,6 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17: 5 damage  
-
 Effect: All allies have **advantage** against the target’s next attack.  
 
 **Reptilian Escape**  
@@ -5851,7 +5777,6 @@ Target: 1 creature or object per minion
 - ✦ ≤11: 2 damage; pull 1 or shift 1 towards target  
 - ★ 12–16: 5 damage; pull 2 or shift 2 towards target  
 - ✸ 17: 6 damage; pull 3 or shift 3 towards target  
-
 Effect: If the target ends up in a space adjacent to the tonguer, they are also grabbed.  
 
 **Reptilian Escape**  
@@ -5919,7 +5844,6 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; A1 bleeding (save ends)  
 - ★ 12–16: 9 damage; A2 bleeding (save ends)  
 - ✸ 17: 12 damage; A3 bleeding (save ends)  
-
 Effect: The potency of this attack increases by 1 if the target is grabbed by the scaletooth.  
 
 **Tail Whip (Action)** ◆ 2d10 + 2 ◆ 2 Malice  
@@ -5930,7 +5854,6 @@ Target: 2 creatures or objects
 - ✦ ≤11: 3 damage; slide 1; M1 grappled  
 - ★ 12–16: 5 damage; slide 2; M2 grappled  
 - ✸ 17: 6 damage; slide 3; M3 grappled if within 2 of the scaletooth  
-
 Effect: The scaletooth needs their tail to use this ability. The scaletooth can’t grapple more than one creature or object with this ability.  
 
 **Reptilian Escape**  
@@ -5960,7 +5883,6 @@ Target: 1 creature or object
 - ✦ ≤11: 3 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17: 7 damage; prone  
-
 Effect: The terrorsoar can shift 4 after using this ability if they are flying.  
 
 **Poison Blowdart (Action)** ◆ 2d10 + 2  
@@ -5971,7 +5893,6 @@ Target: 1 creature or object
 - ✦ ≤11: 2 damage; M1 weakened (save ends)  
 - ★ 12–16: 5 damage; M2 weakened (save ends)  
 - ✸ 17: 6 damage; M3 weakened (save ends)  
-
 Effect: A creature that ends their turn adjacent to a creature or object weakened by this ability is weakened (EoT).  
 
 **Glider**  
@@ -6004,7 +5925,6 @@ Target: 3 creatures or objects
 - ✦ ≤11: 3 damage; pull 1; A2 bleeding (save ends)  
 - ★ 12–16: 7 damage; pull 1; A3 bleeding (save ends)  
 - ✸ 17: 10 damage; pull 2; A4 bleeding (save ends)  
-
 1 Malice: One target that is adjacent to the deathrex is grabbed by the deathrex’s mouth.  
 
 **Death Roll (Action)** ◆ 2d10 + 3 ◆ 3 Malice  
@@ -6015,14 +5935,12 @@ Target: 1 grabbed creature or object
 - ✦ ≤11: 5 damage; M2 dazed (save ends)  
 - ★ 12–16: 10 damage; M3 dazed (save ends)  
 - ✸ 17: 15 damage; M4 dazed (save ends)  
-
 Effect: The target is released from the grab and slides 5.  
 
 **Trundle (Maneuver)**  
 Keywords: —  
 Distance: Self  
 Target: Self  
-
 Effect: The deathrex moves up to their speed. The deathrex can make a free strike on each creature that makes an opportunity attack against them during this movement.  
 
 **Swat The Fly (Triggered Action)**  
@@ -6030,28 +5948,24 @@ Keywords: —
 Trigger: The target moves or shifts away from the deathrex.  
 Distance: Melee 1  
 Target: 1 adjacent creature or object  
-
 Effect: Slide 5.  
 
 **Snack Attack (Villain Action 1)**  
 Keywords: Area  
 Distance: Self and 10 burst  
 Target: Self and all allies in the burst  
-
 Effect: Each target moves up to their speed and makes a free strike. A target receives temporary Stamina equal to the amount of damage they dealt during this action.  
 
 **Shed Some Skin (Villain Action 2)**  
 Keywords: —  
 Distance: Self  
 Target: Self  
-
 Effect: The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex’s characteristics, and takes their turn at the same time as the deathrex.  
 
 **Thresher Thrasher (Villain Action 3)**  
 Keywords: Area  
 Distance: Self and 10 burst  
 Target: Self and all allies in the burst  
-
 Effect: Each target moves up to their speed. Until the end of the encounter, when a creature enters or starts their turn adjacent to a target, the target can make a free strike against them.  
 
 **Rex Reptilian Escape**  
@@ -6086,9 +6000,9 @@ At the start of a minotaur’s turn, you can spend malice to activate one of the
 - **Cut the Nonsense! (5 Malice):** Until the start of their next turn, a minotaur acting this turn has 🛡 and can use knockback as a free triggered action whenever an enemy enters a square adjacent to the minotaur.
 
 - **Bull’s Eye (7 Malice):** All minotaurs in the encounter fill the area with generations of feeling lost and isolated. Each enemy within 5 of a minotaur is teleported 5 and must make an Intuition resistance roll:
-  - ✸ ≤11: The target can’t establish line of effect beyond 3 squares and is frightened of all minotaurs (save ends).
-  - ★ 12-16: The target can’t establish line of effect beyond 3 squares (EoT).
-  - ✦ 17: No effect.
+- ✸ ≤11: The target can’t establish line of effect beyond 3 squares and is frightened of all minotaurs (save ends).
+- ★ 12-16: The target can’t establish line of effect beyond 3 squares (EoT).
+- ✦ 17: No effect.
 
 ### STATBLOCKS
 
@@ -6106,7 +6020,7 @@ At the start of a minotaur’s turn, you can spend malice to activate one of the
 - **Agility** +2  
 - **Reason** 0  
 - **Intuition** +  
-- **Presence** −1  
+- **Presence** -1  
 
 **Flail and Blade (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -6116,14 +6030,12 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage; push 1  
 - ★ 12–16: 9 damage; push 2  
 - ✸ 17: 12 damage; push 3  
-
 Effect: The minotaur shifts 3 after attacking.  
 
 **Primal Bay (Action)** ◆ 3 Malice  
 Keywords: —  
 Distance: Self  
 Target: Self  
-
 Effect: The minotaur has **resistance** and **advantage** until the end of their next turn. On their next turn, they have access to an additional maneuver.  
 
 **Goring Horns (Maneuver)** ◆ 2d10 + 2 ◆ 5 Malice  
@@ -6134,7 +6046,6 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage; I1 dazed (save ends)  
 - ★ 12–16: 9 damage; I2 dazed (save ends)  
 - ✸ 17: 12 damage; I3 dazed (save ends)  
-
 Effect: The potency of this ability increases by 1 if it’s used while charging.  
 
 **Retaliatory Gore (Triggered Action)**  
@@ -6142,7 +6053,6 @@ Keywords: —
 Trigger: The minotaur takes damage from a creature within 8.  
 Distance: Self  
 Target: Triggering creature  
-
 Effect: The minotaur charges the target using Flail and Blade or Goring Horns.  
 
 **Minotaur Sense**  
@@ -6162,7 +6072,7 @@ The minotaur cannot get a result lower than tier 2 when making Tests to navigate
 - **Agility** +1  
 - **Reason** 0  
 - **Intuition** +  
-- **Presence** −1  
+- **Presence** -1  
 
 **Spiked Maul (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -6172,7 +6082,6 @@ Target: 2 creatures or objects
 - ✦ ≤11: 6 damage; pull 1  
 - ★ 12–16: 10 damage; pull 2  
 - ✸ 17: 13 damage; pull 3  
-
 Effect: A target is grabbed if they are pulled adjacent to the sunderer.  
 
 **Fearsome Bay (Action)** ◆ INU RR ◆ 5 Malice  
@@ -6183,7 +6092,6 @@ Target: All enemies in the burst
 - ✸ ≤11: Frightened of the minotaur (save ends)  
 - ★ 12–16: Frightened of the minotaur (EoT)  
 - ✦ 17: No effect  
-
 Effect: The minotaur has **resistance** and **advantage** until the end of their next turn.  
 
 **Disemboweling Horns (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice  
@@ -6194,7 +6102,6 @@ Target: 1 grabbed creature
 - ✦ ≤11: 6 damage; push 1; M1 bleeding (save ends)  
 - ★ 12–16: 10 damage; push 3; M2 bleeding (save ends)  
 - ✸ 17: 13 damage; push 5; M3 bleeding (save ends)  
-
 Effect: The target takes 6 damage at the start of each of their turns while bleeding from this ability.  
 
 **Retaliatory Gore (Triggered Action)**  
@@ -6202,7 +6109,6 @@ Keywords: —
 Trigger: The sunderer takes damage from a creature within 6.  
 Distance: Self  
 Target: Triggering creature  
-
 Effect: The sunderer charges the target using Spiked Maul.  
 
 **Minotaur Sense**  
@@ -6235,9 +6141,9 @@ Most ogres speak Caelian and Kuric.
 At the start of an ogre’s turn, you can spend malice to activate one of the following features.
 
 - **Shockwave (3 Malice):** An ogre acting this turn jumps and lands on their rear, causing a 3 burst shockwave. Each size 1 creature in the affected area must make a Might or Agility resistance roll:
-  - ✸ ≤11: 5 damage; vertical push 3; prone
-  - ★ 12–16: 4 damage; vertical push 2
-  - ✦ 17: Push 1
+- ✸ ≤11: 5 damage; vertical push 3; prone
+- ★ 12–16: 4 damage; vertical push 2
+- ✦ 17: Push 1
 
 - **Bully (5 Malice):** All ogres shift up to their speed and make a free strike. The ogres prefer to gang up on the same target rather than pick different targets, if they can.
 
@@ -6257,9 +6163,9 @@ At the start of an ogre’s turn, you can spend malice to activate one of the fo
 
 - **Might** +2  
 - **Agility** 0  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** —  
-- **Presence** −1  
+- **Presence** -1  
 
 **Club Swing (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -6269,7 +6175,6 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage; push 2  
 - ★ 12–16: 9 damage; push 4  
 - ✸ 17: 12 damage; push 6; prone  
-
 Effect: This attack deals **additional damage** to each creature and object that takes damage from any forced movement it causes.  
 
 **Grabby Hand (Maneuver)** ◆ 2d10 + 2  
@@ -6280,7 +6185,6 @@ Target: 1 creature or object
 - ✦ ≤11: 5 damage  
 - ★ 12–16: 9 damage; grabbed  
 - ✸ 17: 12 damage; grabbed  
-
 Effect: The goon can only have one target grabbed at a time.  
 1 Malice: The target has a bane on escaping the grab while the goon crushes the target in their hand.  
 
@@ -6288,7 +6192,6 @@ Effect: The goon can only have one target grabbed at a time.
 Keywords: Area, Melee, Weapon  
 Distance: 6 × 1 Line (while grabbing a Size 1 creature or object)  
 Target: All creatures and objects  
-
 Effect: The goon hurls what’s in their hand down the line and rolls power. The hurled creature or object counts as a target and lands in the last square of the line (or nearest unoccupied square of the goon’s choice).  
 
 - ✦ ≤11: 3 damage  
@@ -6300,7 +6203,6 @@ Keywords: —
 Trigger: The target moves or shifts away from the goon.  
 Distance: Melee 1  
 Target: 1 adjacent creature or object  
-
 Effect: Slide 5.  
 
 **Defiant Anger**  
@@ -6318,9 +6220,9 @@ The goon has Weapon immunity 2 while they are winded.
 
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** —  
-- **Presence** −1  
+- **Presence** -1  
 
 **Pitchfork Catapult (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -6330,14 +6232,12 @@ Target: 2 creatures or objects
 - ✦ ≤11: 5 damage; A1 vertical slide 2  
 - ★ 12–16: 8 damage; A2 vertical push 3  
 - ✸ 17: 11 damage; A3 vertical slide 5  
-
 1 Malice: Each target is M2 bleeding (save ends).  
 
 **Earth Breaking Jump (Action)** ◆ 2d10 + 2  
 Keywords: Area, Melee, Weapon  
 Distance: 3 burst  
 Target: All creatures in the burst  
-
 Effect: The juggernaut leaps up to 6 squares before making the attack.  
 
 - ✦ ≤11: 3 damage; M1 prone  
@@ -6352,7 +6252,6 @@ Target: All enemies in the burst
 - ✸ ≤11: Frightened (save ends)  
 - ★ 12–16: Frightened (EoT)  
 - ✦ 17: No effect  
-
 Effect: Ogres have **advantage** on attacks against creatures frightened by this ability.  
 
 **Hrraaaaaagh! (Triggered Action)**  
@@ -6360,7 +6259,6 @@ Keywords: —
 Trigger: The juggernaut takes damage.  
 Distance: Melee 1  
 Target: 1 creature or object  
-
 Effect: The juggernaut moves up to their speed and makes a free strike.  
 
 **Destructive Path**  
@@ -6399,19 +6297,18 @@ At the start of any radenwight’s turn, you can spend malice to activate one of
   Distance: Melee 1  
   Target: One creature  
 
-  - ✦ ≤11: 5 damage; push 3  
-  - ★ 12–16: 10 damage; push 3; taunted (EoT)  
-  - ✸ 17+: 12 damage; push 5; taunted (EoT)  
-
-  Effect: If a target is wearing clothing covering the lower half of their body, they must use a maneuver to pull that clothing up before they can move.
+- ✦ ≤11: 5 damage; push 3  
+- ★ 12–16: 10 damage; push 3; taunted (EoT)  
+- ✸ 17+: 12 damage; push 5; taunted (EoT)  
+Effect: If a target is wearing clothing covering the lower half of their body, they must use a maneuver to pull that clothing up before they can move.
 
 - **Rat Race (5 Malice)**: Each radenwight shifts up to their speed. Wherever a radenwight ends this movement adjacent to at least one other radenwight, they can make a melee free strike against each adjacent enemy.
 
 - **Song of the Rat Wall (7 Malice)**: A radenwight uses music to coordinate rats to form a 10' wall of living rats scurrying atop one another into unoccupied spaces anywhere on the encounter map. The wall doesn’t block line of effect for radenwights and their allies, but it does for other creatures, as the rats coordinate their movements with the radenwights. Each square of the wall has 10 Stamina. If the last radenwight in the encounter dies and the wall is still standing, the rats let out a hideous screech as they disperse. Each enemy on the encounter map must then make an Intuition resistance roll.
 
-  - ✸ ≤11: 10 sonic damage  
-  - ★ 12–16: 5 sonic damage  
-  - ✦ 17+: No effect  
+- ✸ ≤11: 10 sonic damage  
+- ★ 12–16: 5 sonic damage  
+- ✦ 17+: No effect  
 
 ### STATBLOCKS
 
@@ -6425,7 +6322,7 @@ At the start of any radenwight’s turn, you can spend malice to activate one of
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
 
-- **Might** −1  
+- **Might** -1  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
@@ -6439,7 +6336,7 @@ Target: One creature per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: If the mischief is hidden when they use this ability, they can target two creatures.  
+Effect: If the mischief is hidden when they use this ability, they can target two creatures.  
 
 **Ready Rodent (Triggered Action)**  
 Keywords: Melee, Weapon  
@@ -6458,7 +6355,7 @@ Effect: The mischief makes a free strike against the target.
 **Size**: 1S / Stability 0  
 **Free Strike**: 2  
 
-- **Might** −1  
+- **Might** -1  
 - **Agility** +1  
 - **Reason** +0  
 - **Intuition** +0  
@@ -6494,7 +6391,7 @@ Effect: The ratagast makes a free strike against the target.
 - **Agility** +2  
 - **Reason** +1  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
 
 **Rapier Flunge (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -6524,7 +6421,7 @@ Effect: The swiftpaw makes a free strike against the target.
 
 - **Might** +1  
 - **Agility** +2  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** +0  
 - **Presence** +0  
 
@@ -6536,7 +6433,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: An ally of the redeye within 2 squares of the target can shift up to 2 squares.  
+Effect: An ally of the redeye within 2 squares of the target can shift up to 2 squares.  
 
 **Ready Rodent (Triggered Action)**  
 Keywords: Melee, Weapon  
@@ -6557,7 +6454,7 @@ Effect: The redeye makes a free strike against the target.
 
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** +0  
 - **Presence** +0  
 
@@ -6569,7 +6466,7 @@ Target: One creature or object
 - ✦ ≤11: 5 damage; M2 grabbed  
 - ★ 12–16: 9 damage; M3 grabbed  
 - ✸ 17+: 12 damage; grabbed  
-  Effect: While the target is grabbed, they take 2 damage at the start of each of the bruxer’s turns.  
+Effect: While the target is grabbed, they take 2 damage at the start of each of the bruxer’s turns.  
 
 **Flurry of Bites (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area, Weapon  
@@ -6614,7 +6511,7 @@ Target: One creature or object
 - ✦ ≤11: 3 sonic damage; push 1  
 - ★ 12–16: 5 sonic damage; push 3  
 - ✸ 17+: 7 sonic damage; push 4  
-  Effect: The piper or an ally within distance regains Stamina equal to half the damage dealt.  
+Effect: The piper or an ally within distance regains Stamina equal to half the damage dealt.  
 
 **Vivace Vivace! (Maneuver)** ◆ 3 Malice  
 Keywords: Area, Magic  
@@ -6642,7 +6539,7 @@ At the end of the piper’s turn, they can choose an adjacent creature and slide
 **Size**: 1S / Stability 0  
 **Free Strike**: 5  
 
-- **Might** −1  
+- **Might** -1  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
@@ -6656,7 +6553,7 @@ Target: Two creatures or objects
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.  
+Effect: The ratcrobat can shift up to 2 squares after attacking the first target, then can shift 1 square after attacking the second target.  
 
 **Over Here, Thanks (Maneuver)**  
 Keywords: Melee  
@@ -6684,7 +6581,7 @@ The ratcrobat has an edge on attacks against larger creatures.
 **Size**: 1S / Stability 1  
 **Free Strike**: 5  
 
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
 - **Reason** +0  
 - **Intuition** +0  
@@ -6698,7 +6595,7 @@ Target: All enemies in the burst
 - ✦ ≤11: 3 sonic damage; slide 1; the maestro can shift 1 square  
 - ★ 12–16: 5 sonic damage; slide 3; the maestro can shift 3 squares  
 - ✸ 17+: 7 sonic damage; slide 5; the maestro can shift 5 squares  
-  Effect: Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.  
+Effect: Each ally within distance can use Ready Rodent as a free triggered action once before the end of the round.  
 
 **Tempo Change (Maneuver)** ◆ PRS RR  
 Keywords: Magic, Ranged, Resistance  
@@ -6708,7 +6605,7 @@ Target: Two enemies
 - ✸ ≤11: Slowed (save ends)  
 - ★ 12–16: Slowed (EoT)  
 - ✦ 17+: No effect  
-  3 Malice: Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.  
+3 Malice: Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.  
 
 **Ever Ready Rodent (Free Triggered Action)** ◆ 2 Malice  
 Keywords: Magic, Melee, Ranged  
@@ -6781,9 +6678,9 @@ At the start of any undead creature’s turn, you can spend malice to activate o
 
 - **The Grasping, The Hungry (5 Malice)**: Ravenous and rotting undead arms burst forth from 9 connected squares of a vertical or horizontal surface. A creature who ends their turn adjacent to an affected vertical surface or within 1 square of an affected horizontal surface must make an Agility resistance roll:  
 
-  - ✸ ≤11: 5 damage; restrained (save ends)  
-  - ★ 12–16: 5 damage; restrained (EoT)  
-  - ✦ 17+: 5 damage  
+- ✸ ≤11: 5 damage; restrained (save ends)  
+- ★ 12–16: 5 damage; restrained (EoT)  
+- ✦ 17+: 5 damage  
 
   Any creature who starts their turn restrained by the arms takes 1d6 damage.
 
@@ -6810,9 +6707,9 @@ At the end of each round, keep an intensity tally of the number of living heroes
 
 - **Might** 0  
 - **Agility** +2  
-- **Reason** −5  
-- **Intuition** −1  
-- **Presence** −1  
+- **Reason** -5  
+- **Intuition** -1  
+- **Presence** -1  
 
 **Fingernails (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -6822,7 +6719,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 1 damage  
 - ★ 12–16: 2 damage  
 - ✸ 17+: 3 damage  
-  Effect: The crawling claw shifts a number of squares equal to the damage dealt.  
+Effect: The crawling claw shifts a number of squares equal to the damage dealt.  
 
 **Disorganized**  
 The crawling claw can’t grant the flanking benefit to allies.  
@@ -6835,14 +6732,14 @@ The crawling claw can’t grant the flanking benefit to allies.
 **Stamina**: 4  
 **Immunity**: Corruption 2, Poison 2  
 **Speed**: 5  
-**Size**: 1M / Stability −2  
+**Size**: 1M / Stability -2  
 **Free Strike**: 2  
 
 - **Might** 0  
 - **Agility** +2  
-- **Reason** −2  
+- **Reason** -2  
 - **Intuition** +0  
-- **Presence** −2  
+- **Presence** -2  
 
 **Bone Bow (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Ranged, Weapon  
@@ -6852,7 +6749,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 3 damage  
 - ✸ 17+: 4 damage  
-  Effect: The decrepit skeleton chooses one other target within distance to take 1 damage.  
+Effect: The decrepit skeleton chooses one other target within distance to take 1 damage.  
 
 **Bonetrops**  
 When the decrepit skeleton is reduced to Stamina 0, its space becomes difficult terrain. The first time any enemy enters this space, they take 1 damage.  
@@ -6869,10 +6766,10 @@ When the decrepit skeleton is reduced to Stamina 0, its space becomes difficult 
 **Free Strike**: 2  
 
 - **Might** +2  
-- **Agility** −2  
-- **Reason** −5  
-- **Intuition** −2  
-- **Presence** −3  
+- **Agility** -2  
+- **Reason** -5  
+- **Intuition** -2  
+- **Presence** -3  
 
 **Rotting Fist (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Weapon  
@@ -6897,7 +6794,7 @@ If the rotting zombie’s captain has the Arise trait, the zombie also gains the
 **Size**: 1M / Stability 1  
 **Free Strike**: 2  
 
-- **Might** −5  
+- **Might** -5  
 - **Agility** +1  
 - **Reason** 0  
 - **Intuition** +0  
@@ -6928,9 +6825,9 @@ The shade can move through other creatures and objects at normal speed. The firs
 
 - **Might** 0  
 - **Agility** +2  
-- **Reason** −2  
+- **Reason** -2  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
 
 **Razor Claws (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Charge, Melee, Weapon  
@@ -6961,14 +6858,14 @@ The first time the ghoul is reduced to Stamina 0 by damage that isn’t fire dam
 **Stamina**: 12  
 **Immunity**: Corruption 3, Poison 3  
 **Speed**: 5  
-**Size**: 1M / Stability −2  
+**Size**: 1M / Stability -2  
 **Free Strike**: 4  
 
 - **Might** 0  
 - **Agility** +1  
 - **Reason** +1  
 - **Intuition** +0  
-- **Presence** −1  
+- **Presence** -1  
 
 **Bone Shards (Action)** ◆ 2d10 + 2 ◆ Signature  
 Keywords: Attack, Melee, Ranged, Weapon  
@@ -6978,7 +6875,7 @@ Target: One creature or object
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 6 damage  
-  Effect: Until the start of the skeleton’s next turn, the target takes 2 damage the first time they move on their turn.  
+Effect: Until the start of the skeleton’s next turn, the target takes 2 damage the first time they move on their turn.  
 
 **Bone Spur (Maneuver)** ◆ 2d10 + 2 ◆ 2 Malice  
 Keywords: Area, Weapon  
@@ -6988,7 +6885,7 @@ Target: Each enemy in the burst
 - ✦ ≤11: 1 damage; M1 bleeding (save ends)  
 - ★ 12–16: 2 damage; M2 bleeding (save ends)  
 - ✸ 17+: 3 damage; M3 bleeding (save ends)  
-  Effect: Each target has a bane on their next attack until the start of the skeleton’s next turn.  
+Effect: Each target has a bane on their next attack until the start of the skeleton’s next turn.  
 
 **Arise**  
 The first time the skeleton is reduced to Stamina 0 by damage that isn’t fire damage or holy damage and their body isn’t destroyed, they regain half their Stamina and fall prone.  
@@ -7004,7 +6901,7 @@ The first time the skeleton is reduced to Stamina 0 by damage that isn’t fire 
 **Size**: 1M / Stability 1  
 **Free Strike**: 2  
 
-- **Might** −5  
+- **Might** -5  
 - **Agility** +1  
 - **Reason** 0  
 - **Intuition** +0  
@@ -7018,8 +6915,7 @@ Target: One creature
 - ✦ ≤11: 2 corruption damage; P1 weakened (save ends)  
 - ★ 12–16: 4 corruption damage; P2 weakened (save ends)  
 - ✸ 17+: 5 corruption damage; P3 weakened (save ends)  
-
-  2 Malice: The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target’s space under the Director's control.  
+2 Malice: The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target’s space under the Director's control.  
 
 **Hidden Movement (Maneuver)**  
 Keywords: —  
@@ -7055,7 +6951,7 @@ Target: One creature or object
 - ✦ ≤11: 2 cold damage  
 - ★ 12–16: 5 cold damage  
 - ✸ 17+: 6 cold damage  
-  Effect: The shadow can shift up to 2 squares before or after this attack.  
+Effect: The shadow can shift up to 2 squares before or after this attack.  
 
 **Freezing Dark (Action)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area, Magic, Ranged  
@@ -7065,7 +6961,7 @@ Target: Each enemy in the cube
 - ✦ ≤11: 1 cold damage  
 - ★ 12–16: 2 cold damage  
 - ✸ 17+: 3 cold damage  
-  Effect: Until the end of the umbral stalker’s next turn, the area is concealed and blocks line of effect for all enemies.  
+Effect: Until the end of the umbral stalker’s next turn, the area is concealed and blocks line of effect for all enemies.  
 
 **Shadow Jump (Free Maneuver)** ◆ 1 Malice  
 The umbral stalker teleports to an unoccupied space in concealment within 10 squares.  
@@ -7098,8 +6994,7 @@ Target: One creature or object
 - ✦ ≤11: 2 corruption damage  
 - ★ 12–16: 4 corruption damage; M1 slowed (save ends)  
 - ✸ 17+: 5 corruption damage; M2 slowed and weakened (save ends)  
-
-  Effect: The target appears to rapidly age each time they take damage from this attack. The target regains their former appearance when the wight is destroyed.  
+Effect: The target appears to rapidly age each time they take damage from this attack. The target regains their former appearance when the wight is destroyed.  
 
 **Raise (Maneuver)** ◆ 3 Malice  
 Keywords: Magic, Ranged  
@@ -7123,8 +7018,8 @@ The first time the wight is reduced to Stamina 0 by damage that isn’t fire dam
 
 - **Might** +2  
 - **Agility** +1  
-- **Reason** −5  
-- **Intuition** −2  
+- **Reason** -5  
+- **Intuition** -2  
 - **Presence** +1  
 
 **Clobber and Clutch (Action)** ◆ 2d10 + 2 ◆ Signature  
@@ -7135,8 +7030,7 @@ Target: One creature or object
 - ✦ ≤11: 2 damage; M1 grabbed  
 - ★ 12–16: 5 damage; M2 grabbed  
 - ✸ 17+: 6 damage; grabbed  
-
-  Effect: A target who starts their turn grabbed by the zombie takes 2 corruption damage. If a creature takes 5 or more corruption damage this way, they become insatiably hungry for flesh. The target must complete the Find a Cure project to end this effect.  
+Effect: A target who starts their turn grabbed by the zombie takes 2 corruption damage. If a creature takes 5 or more corruption damage this way, they become insatiably hungry for flesh. The target must complete the Find a Cure project to end this effect.  
 
 **Breakfall (Maneuver)** ◆ 2d10 + 2 ◆ 3 Malice  
 Keywords: Area, Resistance  
@@ -7164,7 +7058,7 @@ The zombie can take advantage of their Arise trait twice.
 **Size**: 1M / Stability 1  
 **Free Strike**: 2  
 
-- **Might** −2  
+- **Might** -2  
 - **Agility** +2  
 - **Reason** 0  
 - **Intuition** +0  
@@ -7178,15 +7072,14 @@ Target: Two creatures
 - ✦ ≤11: 2 cold damage; P2 slowed (save ends)  
 - ★ 12–16: 5 cold damage; P3 slowed (save ends)  
 - ✸ 17+: 6 cold damage; P2 slowed (save ends)  
-
-  Effect: The next attack made against a target has edge.  
+Effect: The next attack made against a target has edge.  
 
 **Haunt (Maneuver)**  
 Keywords: Ranged  
 Distance: Ranged 8  
 Target: Self or one incorporeal ally  
 Effect: The target shifts up to their speed.  
-  2 Malice: The ghost chooses one additional target.  
+2 Malice: The ghost chooses one additional target.  
 
 **Shriek (Triggered Action)** ◆ 1 Malice  
 Keywords: Magic  
@@ -7212,8 +7105,7 @@ Target: Each enemy in the burst
 - ✸ ≤11: Levitated (EoE) (see effect)  
 - ★ 12–16: Levitated (EoT)  
 - ✦ 17+: No effect  
-
-  Effect: A levitated target floats 1 square off the ground when they are first affected, then rises 1 square at the end of each of their turns. If a levitated target can’t already fly, they can fly but are slowed and weakened while flying in this way.  
+Effect: A levitated target floats 1 square off the ground when they are first affected, then rises 1 square at the end of each of their turns. If a levitated target can’t already fly, they can fly but are slowed and weakened while flying in this way.  
 
 **Awful Wail (Villain Action 3)** ◆ 2d10 + 3  
 Keywords: Area, Magic, Resistance  
@@ -7223,8 +7115,7 @@ Target: Each enemy in the burst
 - ✦ ≤11: 2 sonic damage  
 - ★ 12–16: 5 sonic damage  
 - ✸ 17+: 5 sonic damage  
-
-  Effect: P3: The target is reduced to 1 Stamina if they have 2 or more Stamina after taking damage.  
+Effect: P3: The target is reduced to 1 Stamina if they have 2 or more Stamina after taking damage.  
 
 **Corruptive Phasing**  
 The ghost can move through other creatures and objects at normal speed. The first time in a round that the ghost passes through a creature, that creature takes 2 corruption damage.  
@@ -7247,13 +7138,13 @@ At the start of any war dog’s turn, you can spend malice to activate one of th
 
 - **Reconstitute (3 Malice)**: One war dog acting this turn tears apart a nearby corpse of a humanoid and incorporates its body parts into their own. The war dog regains Stamina equal to 5 times their level.
 - **Fire for Effect (5 Malice)**: One war dog acting this turn can use the following maneuver:
-  - **Fire for Effect (Maneuver)** ◆ AGL RR  
+- **Fire for Effect (Maneuver)** ◆ AGL RR  
     Keywords: Area, Magic, Ranged, Resistance  
     Distance: 4 cube within 10  
     Target: Each creature in the cube  
-    - ✸ ≤11: 7 fire damage; slowed (save ends)  
-    - ★ 12–16: 6 fire damage; slowed (EoT)  
-    - ✦ 17+: 3 fire damage  
+- ✸ ≤11: 7 fire damage; slowed (save ends)  
+- ★ 12–16: 6 fire damage; slowed (EoT)  
+- ✦ 17+: 3 fire damage  
 - **Fodder Run (7 Malice)**: Each war dog minion in the battle can shift up to their speed, make a free strike, and then die.
 
 ### STATBLOCKS
@@ -7282,7 +7173,7 @@ Target: One creature per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 4 damage  
 - ✸ 17+: 5 damage  
-  Effect: The commando can use the Hide maneuver, even if observed.  
+Effect: The commando can use the Hide maneuver, even if observed.  
   
 **Loyalty Collar**  
 When the commando dies, they explode, dealing 1d6 damage to each adjacent enemy.
@@ -7311,7 +7202,7 @@ Target: One creature per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 3 damage  
 - ✸ 17+: 4 damage  
-  Effect: If this ability is used as part of the Charge action, the conscript has **edge** on the attack.  
+Effect: If this ability is used as part of the Charge action, the conscript has **edge** on the attack.  
   
 **Loyalty Collar**  
 When the conscript dies, they explode, dealing 1d6 damage to each adjacent enemy.
@@ -7340,7 +7231,7 @@ Target: One creature or object per minion
 - ✦ ≤11: 2 damage  
 - ★ 12–16: 3 damage  
 - ✸ 17+: 4 damage  
-  Effect: This ability ignores cover and concealment.  
+Effect: This ability ignores cover and concealment.  
   
 **Loyalty Collar**  
 When the sharpshooter dies, they explode, dealing 1d6 damage to each adjacent enemy.
@@ -7441,8 +7332,8 @@ Target: All creatures and objects
 - ✦ ≤11: 2 fire damage  
 - ★ 12–16: 5 fire damage  
 - ✸ 17+: 6 fire damage  
-  Effect: The area is covered in sticky fire until the start of the crucibite’s next turn. Whenever a creature enters the area for the first time in a round or starts their turn there, they take 2 fire damage.  
-  - 3 Malice: The area increases to a 10 × 1 line, and if any ally of the crucibite is in the area when it is created, the crucibite has **edge** on the ability.  
+Effect: The area is covered in sticky fire until the start of the crucibite’s next turn. Whenever a creature enters the area for the first time in a round or starts their turn there, they take 2 fire damage.  
+- 3 Malice: The area increases to a 10 × 1 line, and if any ally of the crucibite is in the area when it is created, the crucibite has **edge** on the ability.  
 
 **Posthumous Promotion (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -7477,7 +7368,7 @@ Target: One creature or object
 - ✦ ≤11: 3 damage  
 - ★ 12–16: 5 damage; pull 1  
 - ✸ 17+: 7 damage; pull 2  
-  Effect: The eviscerite can grab a target pulled adjacent to them by this ability.  
+Effect: The eviscerite can grab a target pulled adjacent to them by this ability.  
 
 **Posthumous Promotion (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -7512,8 +7403,8 @@ Target: One creature or object
 - ✦ ≤11: 3 damage; slide 1  
 - ★ 12–16: 5 damage; slide 2  
 - ✸ 17+: 7 damage; slide 3  
-  Effect: The portalite has **edge** on the attack if an ally is adjacent to the target.  
-  - 1 Malice: The portalite teleports the target 3 squares before sliding them.  
+Effect: The portalite has **edge** on the attack if an ally is adjacent to the target.  
+- 1 Malice: The portalite teleports the target 3 squares before sliding them.  
 
 **Posthumous Promotion (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -7555,7 +7446,7 @@ Target: Two creatures or objects
 - ★ 12–16: 4 damage; A2 grabbed  
 - ✸ 17+: 5 damage; A3 grabbed  
   Special: The amalgamite can grab up to four creatures.  
-  - 5 Malice: The amalgamite deals an additional 4 damage to each creature they have grabbed and regains Stamina equal to the damage dealt.  
+- 5 Malice: The amalgamite deals an additional 4 damage to each creature they have grabbed and regains Stamina equal to the damage dealt.  
 
 **Posthumous Promotion (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -7627,7 +7518,7 @@ Target: One creature or object
 - ✦ ≤11: 3 damage  
 - ★ 12–16: 5 damage  
 - ✸ 17+: 7 damage  
-  Effect: An ally within 5 squares of the subcommander can make a free strike against the target.  
+Effect: An ally within 5 squares of the subcommander can make a free strike against the target.  
 
 **Posthumous Promotion (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -7666,7 +7557,7 @@ Target: Each creature in the cube
 - ✦ ≤11: 2 poison damage; I1 frightened (save ends)  
 - ★ 12–16: 5 poison damage; I2 frightened (save ends)  
 - ✸ 17+: 8 poison damage; I3 frightened (save ends)  
-  Effect: The area is covered in a cloud of pestilence that lasts until the start of the pestilite’s next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 poison damage.  
+Effect: The area is covered in a cloud of pestilence that lasts until the start of the pestilite’s next turn. Any creature who enters the area for the first time in a round or starts their turn there takes 2 poison damage.  
 
 **Posthumous Promotion (Maneuver)**  
 Keywords: Magic, Ranged  
@@ -7701,8 +7592,8 @@ Target: Two creatures or objects
 - ✦ ≤11: 5 damage; pull 1  
 - ★ 12–16: 8 damage; pull 2  
 - ✸ 17+: 11 damage; pull 3  
-  Effect: One ally within 10 squares of the commander can make a free strike.  
-  - 1 Malice: A target who is adjacent to the ground commander after this ability is resolved is I3 grabbed (save ends). This grab can’t be escaped using the Escape Grab maneuver. The ground commander can grab up to two creatures at a time.  
+Effect: One ally within 10 squares of the commander can make a free strike.  
+- 1 Malice: A target who is adjacent to the ground commander after this ability is resolved is I3 grabbed (save ends). This grab can’t be escaped using the Escape Grab maneuver. The ground commander can grab up to two creatures at a time.  
 
 **Highest Posthumous Promotion (Maneuver)**  
 Keywords: Area, Magic  
@@ -7784,7 +7675,7 @@ At the start of a werewolf’s turn, you can spend malice to activate one of the
 
 - **Might** +3  
 - **Agility** +2  
-- **Reason** −1  
+- **Reason** -1  
 - **Intuition** +0  
 - **Presence** +1  
 
@@ -7806,8 +7697,8 @@ Target: 1 creature or object
 - ✦ ≤11: 7 damage; 2 ferocity  
 - ★ 12–16: 10 damage; 4 ferocity  
 - ✸ 17: 13 damage; 5 ferocity  
-  - 2 Malice: The target has P0 lycanthropy. The potency of this attack increases by 1 each time the werewolf forces the same target to resist it.  
-  Effect: A creature afflicted with lycanthropy accumulates 2 ferocity at the end of each of their turns whenever they’re in combat. Their ferocity does not disappear after completing a respite; they must complete the Find a Cure project to end this condition.  
+- 2 Malice: The target has P0 lycanthropy. The potency of this attack increases by 1 each time the werewolf forces the same target to resist it.  
+Effect: A creature afflicted with lycanthropy accumulates 2 ferocity at the end of each of their turns whenever they’re in combat. Their ferocity does not disappear after completing a respite; they must complete the Find a Cure project to end this condition.  
 
 **Claws (Action)** ◆ 2d10 + 3  
 Keywords: Attack, Melee, Weapon  
@@ -7848,7 +7739,7 @@ Target: All enemies in the burst
 - ✸ ≤11: Target moves up to their speed away from the werewolf; frightened (save ends)  
 - ★ 12–16: Frightened (EoT)  
 - ✦ 17: no effect  
-  Effect: Enemies that have 1 or more ferocity gain 4 ferocity and howl along with the werewolf.  
+Effect: Enemies that have 1 or more ferocity gain 4 ferocity and howl along with the werewolf.  
 
 **Full Wolf (Villain Action 2)**  
 Keywords: —  
@@ -7864,4 +7755,4 @@ Target: All creatures in the burst
 - ✦ ≤11: 3 damage; 2 ferocity  
 - ★ 12–16: 4 damage; 4 ferocity  
 - ✸ 17: 5 damage; 8 ferocity; prone  
-  Effect: The werewolf shifts up to twice their speed either before or after the attack.
+Effect: The werewolf shifts up to twice their speed either before or after the attack.
