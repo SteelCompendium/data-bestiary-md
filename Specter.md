@@ -25,13 +25,13 @@
 - ✸ 17+: 5 corruption damage; P3 weakened (save ends)
 
 **2 Malice**
-The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target’s space under the Director's control.
+The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target's space under the Director's control.
 
 **Hidden Movement**
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: —    | Type: Maneuver |
+| Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 Effect: The specter turns invisible, moves up to their speed, and becomes visible again.

@@ -60,7 +60,7 @@ Effect: The target takes half damage from the attack. The attacker takes 5 damag
 
 Effect: The marauder lord uses Levitating Axes against each target. The marauder lord makes one power roll against all targets.
 
-**Don’t Let Them Escape!**
+**Don't Let Them Escape!**
 
 |                   |                                 |
 | :---------------- | :------------------------------ |
@@ -73,11 +73,11 @@ Effect: Each target shifts up to their speed. The marauder lord then uses Levita
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: —         | Type: Villain Action 3 |
+| Keywords: -         | Type: Villain Action 3 |
 | Distance: Ranged 10 | Target: special        |
 
 Effect: The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.
 
 **End Effect**
 
-At the end of their turn, the marauder lord can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the marauder lord can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.

@@ -57,7 +57,7 @@ Effect: A shapechanged creature becomes plant-like with bark skin and leafy hair
 | Keywords: Attack, Melee | Type: Maneuver                                        |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the channeler |
 
-Effect: Vertical push 3; ally targets don’t take damage from being force moved.
+Effect: Vertical push 3; ally targets don't take damage from being force moved.
 
 **Brambleguard (1 Malice)**
 
@@ -72,4 +72,4 @@ Effect: The channeler covers the target in thorns and halves the damage. If the 
 
 **Catcher (Free Triggered Action)**
 
-Keywords: — Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the channeler. Effect: The target is grabbed by the channeler.
+Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the channeler. Effect: The target is grabbed by the channeler.

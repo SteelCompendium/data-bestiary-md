@@ -61,7 +61,7 @@ Effect: The ground around the ankheg becomes difficult terrain. While the ankheg
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature damages the ankheg
@@ -81,7 +81,7 @@ Effect: The ground within the area is covered in a puddle of acid that lasts unt
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 2 |
+| Keywords: -    | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
 Effect: The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
@@ -101,7 +101,7 @@ A prone creature gains an edge on melee attacks against the ankheg instead of ta
 
 **Earthwalk**
 
-Difficult terrain composed of earth or loose rock doesn’t cost the ankheg extra movement.
+Difficult terrain composed of earth or loose rock doesn't cost the ankheg extra movement.
 
 **Tunneler**
 

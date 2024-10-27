@@ -72,15 +72,15 @@ Effect: Each target shifts up to their speed. Until the end of the encounter, th
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Villain Action 3 |
+| Keywords: -    | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
 Effect: Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a free strike against them.
 
 **End Effect**
 
-At the end of their turn, the bandit chief can take 5 damage to end one "save ends" effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the bandit chief can take 5 damage to end one "save ends" effect affecting them. This damage can't be reduced in any way.
 
 **Heightened Supernatural Insight**
 
-The bandit chief can target supernatural creatures and objects within 15 squares, even if they don’t have line of effect.
+The bandit chief can target supernatural creatures and objects within 15 squares, even if they don't have line of effect.

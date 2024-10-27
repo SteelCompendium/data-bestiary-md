@@ -28,7 +28,7 @@
 
 |                                 |              |
 | :------------------------------ | :----------- |
-| Keywords: —                     | Type: Action |
+| Keywords: -                     | Type: Action |
 | Distance: Self (while grounded) | Target: Self |
 
 Effect: The [[Griffon|griffon]] shifts up to their speed in a straight line. Each enemy within their reach during this movement can choose to either take 5 damage or be knocked prone.
@@ -50,16 +50,16 @@ Effect: The [[Griffon|griffon]] shifts up to their speed in a straight line. Eac
 
 |                |                             |
 | :------------- | :-------------------------- |
-| Keywords: —    | Type: Triggered Action      |
+| Keywords: -    | Type: Triggered Action      |
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The [[Griffon|griffon]] flies above a creature on the ground within 10
 
-Effect: The [[Griffon|griffon]] falls down upon the target, taking no damage from falling. A creature who is grabbed by the [[Griffon|griffon]] is prone and can’t stand until they are no longer grabbed.
+Effect: The [[Griffon|griffon]] falls down upon the target, taking no damage from falling. A creature who is grabbed by the [[Griffon|griffon]] is prone and can't stand until they are no longer grabbed.
 
 **Beast of Prey**
 
-Creatures have a double bane when using the Escape Grab maneuver to escape the [[Griffon|griffon]]’s grab.
+Creatures have a double bane when using the Escape Grab maneuver to escape the [[Griffon|griffon]]'s grab.
 
 **Steady**
 

@@ -41,4 +41,4 @@ While winded, the muceron has an edge on attacks, and attacks have an edge again
 
 **Soulsight**
 
-Each creature within 2 of the muceron can’t be hidden from them.
+Each creature within 2 of the muceron can't be hidden from them.

@@ -32,13 +32,13 @@ The tree guerilla targets an additional creature or object. The tree guerilla ha
 
 |                          |                             |
 | :----------------------- | :-------------------------- |
-| Keywords: —              | Type: Free Triggered Action |
+| Keywords: -              | Type: Free Triggered Action |
 | Distance: Self and Squad | Target: Self and Squad      |
 
-Trigger: An ally ends their turn while the tree guerilla hasn’t acted this round.
+Trigger: An ally ends their turn while the tree guerilla hasn't acted this round.
 
 Effect: The targets take their turn immediately. Each target has **+1** until the end of their turn.
 
-**Hunter’s Glamor**
+**Hunter's Glamor**
 
 The tree guerilla immediately hides at the end of their turn, even if they are observed.

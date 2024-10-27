@@ -31,4 +31,4 @@ The trickshot attacks an additional target.
 
 **Supernatural Insight**
 
-The trickshot can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The trickshot can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

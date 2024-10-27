@@ -35,13 +35,13 @@ Targets restrained by this ability take an additional **+1**.
 | Keywords: Area     | Type: Maneuver                  |
 | Distance: 10 burst | Target: All allies in the burst |
 
-Effect: Each target can make a free strike and then shifts 3. A target immediately hides at the end of the penteulu’s turn while in cover or concealment.
+Effect: Each target can make a free strike and then shifts 3. A target immediately hides at the end of the penteulu's turn while in cover or concealment.
 
 **Wode Sickness**
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: —         | Type: Triggered Action |
+| Keywords: -         | Type: Triggered Action |
 | Distance: Ranged 10 | Target: 1 enemy        |
 
 Trigger: An ally ends their turn.
@@ -77,8 +77,8 @@ Effect: Each target becomes invisible until the start of the next round. The pen
 
 **End Effect**
 
-At the end of their turn, the penteulu can take 5 damage to end one save ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the penteulu can take 5 damage to end one save ends effect affecting them. This damage can't be reduced in any way.
 
-**Hunter’s Glamor**
+**Hunter's Glamor**
 
 The penteulu immediately hides at the end of their turn, even if they are observed.

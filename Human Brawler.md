@@ -30,7 +30,7 @@ Effect: The target has a bane on attempts to escape the grab. The brawler has ed
 
 |                   |                                             |
 | :---------------- | :------------------------------------------ |
-| Keywords: —       | Type: Maneuver                              |
+| Keywords: -       | Type: Maneuver                              |
 | Distance: Melee 1 | Target: One creature grabbed by the brawler |
 
 Effect: Push 5.
@@ -41,4 +41,4 @@ The brawler takes half damage from attacks if they have a creature or object gra
 
 **Supernatural Insight**
 
-The brawler can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The brawler can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

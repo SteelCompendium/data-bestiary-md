@@ -25,7 +25,7 @@
 - ✸ 17+: 10 damage; the remasch teleports 5 squares
 
 **5 Malice**
-The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch’s destination.
+The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch's destination.
 
 **Grasping Shadow (3 Malice)**
 
@@ -42,4 +42,4 @@ While winded, the remasch has an edge on attacks, and attacks have an edge again
 
 **Soulsight**
 
-Each creature within 2 of the remasch can’t be hidden from them.
+Each creature within 2 of the remasch can't be hidden from them.

@@ -29,14 +29,14 @@ Effect: Shift 2.
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: —    | Type: Maneuver |
+| Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 Effect: The zephyr moves up to their speed through the air. They must end this movement on solid ground or immediately fall prone.
 
 **Like the Wind**
 
-All of the zephyr’s movement is considered shifting.
+All of the zephyr's movement is considered shifting.
 
 **Otherworldly Grace**
 

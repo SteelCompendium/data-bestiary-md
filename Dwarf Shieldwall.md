@@ -32,12 +32,12 @@ The shieldwall targets an additional creature or object.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature attacks an adjacent ally.
 
-Effect: The shieldwall becomes the attack’s target and has +3 defense against it.
+Effect: The shieldwall becomes the attack's target and has +3 defense against it.
 
 **Call to the Wall**
 

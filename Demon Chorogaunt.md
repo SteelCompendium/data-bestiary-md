@@ -75,7 +75,7 @@ Effect: The chorogaunt shifts up to their speed, makes an Agonizing Harmony atta
 
 **End Effect**
 
-At the end of their turn, the chorogaunt can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the chorogaunt can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
 
 **Lethe**
 
@@ -83,4 +83,4 @@ While winded, the chorogaunt has an edge on attacks, and attacks have an edge ag
 
 **Soulsight**
 
-Each creature within 2 of the chorogaunt can’t be hidden from them.
+Each creature within 2 of the chorogaunt can't be hidden from them.

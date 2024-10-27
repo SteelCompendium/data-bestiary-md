@@ -24,7 +24,7 @@
 - ★ 12–16: 9 damage; A3 grabbed
 - ✸ 17+: 12 damage; grabbed
 
-Effect: The target can’t use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.
+Effect: The target can't use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.
 
 **Dirt Devil (3 Malice)**
 
@@ -48,7 +48,7 @@ Effect: The sneak shifts up to their speed and hides after using this ability.
 | Keywords: Attack, Ranged, Weapon | Type: Action                   |
 | Distance: Ranged 8               | Target: 2 creatures or objects |
 
-Effect: Targets can’t hide from the sneak or their allies while bleeding from this ability.
+Effect: Targets can't hide from the sneak or their allies while bleeding from this ability.
 
 **Throw**
 
@@ -57,13 +57,13 @@ Effect: Targets can’t hide from the sneak or their allies while bleeding from 
 | Keywords: Attack, Melee | Type: Maneuver                                    |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the sneak |
 
-Effect: Vertical push 4. Ally targets don’t take damage from being force moved.
+Effect: Vertical push 4. Ally targets don't take damage from being force moved.
 
 **Misdirection (1 Malice)**
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: —       | Type: Triggered Action |
+| Keywords: -       | Type: Triggered Action |
 | Distance: Special | Target: 1 enemy        |
 
 Trigger: A target attacks the sneak.
@@ -72,4 +72,4 @@ Effect: The sneak chooses an enemy within distance of the attack. The attack tar
 
 **Catcher (Free Triggered Action)**
 
-Keywords: — Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the sneak. Effect: The target is grabbed by the sneak.
+Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the sneak. Effect: The target is grabbed by the sneak.

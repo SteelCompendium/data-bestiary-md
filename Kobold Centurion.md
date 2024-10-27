@@ -32,10 +32,10 @@ Targets weakened by this attack are now restrained while they are weakened.
 
 |                     |                   |
 | :------------------ | :---------------- |
-| Keywords: —         | Type: Maneuver    |
+| Keywords: -         | Type: Maneuver    |
 | Distance: Ranged 10 | Target: One enemy |
 
-Effect: The target is marked until the start of the centurion’s next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.
+Effect: The target is marked until the start of the centurion's next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.
 
 **3+ Malice**
 The centurion targets 1 additional enemy for every 3 malice spent.
@@ -80,7 +80,7 @@ Effect: Each target is taunted (3, save ends). For the rest of the encounter, th
 
 **End Effect**
 
-At the end of their turn, the centurion can take 5 damage to end one save-ends effect affecting them. This damage can’t be reduced in any way.
+At the end of their turn, the centurion can take 5 damage to end one save-ends effect affecting them. This damage can't be reduced in any way.
 
 **Shield? Shield!**
 

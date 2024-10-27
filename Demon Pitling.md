@@ -26,8 +26,8 @@
 
 **Horrid Stench**
 
-Any enemy who has three or more pitlings within 2 squares of them can’t regain Stamina.
+Any enemy who has three or more pitlings within 2 squares of them can't regain Stamina.
 
 **Soulsight**
 
-Each creature within 2 of the pitling can’t be hidden from them.
+Each creature within 2 of the pitling can't be hidden from them.

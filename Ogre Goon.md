@@ -49,13 +49,13 @@ The target has a bane on escaping the grab while the goon crushes the target in 
 - ✦ ≤11: 3 damage
 - ★ 12–16: 4 damage
 
-Effect: The goon hurls what’s in their hand down the line and rolls power. The hurled creature or object counts as a target and lands in the last square of the line (or nearest unoccupied square of the goon’s choice).
+Effect: The goon hurls what's in their hand down the line and rolls power. The hurled creature or object counts as a target and lands in the last square of the line (or nearest unoccupied square of the goon's choice).
 
 **Swat The Fly**
 
 |                   |                                       |
 | :---------------- | :------------------------------------ |
-| Keywords: —       | Type: Triggered Action                |
+| Keywords: -       | Type: Triggered Action                |
 | Distance: Melee 1 | Target: 1 adjacent creature or object |
 
 Trigger: The target moves or shifts away from the goon.

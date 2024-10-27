@@ -33,7 +33,7 @@ Effect: This attack has an edge against targets that the basilisk has previously
 | Keywords: Magic, Ranged, Resistance  | Type: Maneuver  |
 | Distance: Ranged 5 × 2 line within 1 | Target: Special |
 
-Effect: The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can’t be reduced in any way and ending the effect.
+Effect: The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 
 **Poison Fumes (5 Malice)**
 
@@ -52,7 +52,7 @@ Effect: The basilisk targets the first unobstructed creature in each column of t
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
-| Keywords: —       | Type: Triggered Action           |
+| Keywords: -       | Type: Triggered Action           |
 | Distance: 1 burst | Target: All enemies in the burst |
 
 Trigger: The basilisk takes Weapon damage.

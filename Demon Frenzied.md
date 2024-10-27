@@ -26,4 +26,4 @@
 
 **Soulsight**
 
-Each creature within 2 of the frenzied can’t be hidden from them.
+Each creature within 2 of the frenzied can't be hidden from them.

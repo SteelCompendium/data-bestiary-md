@@ -49,13 +49,13 @@ Effect: The roughneck moves up to their speed, dragging the target across the gr
 | Keywords: Attack, Melee | Type: Maneuver                                        |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the roughneck |
 
-Effect: Vertical push 5. Ally targets don’t take damage from being force moved.
+Effect: Vertical push 5. Ally targets don't take damage from being force moved.
 
 **Flying Sawblade**
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: The roughneck is vertically moved by another creature.
@@ -64,4 +64,4 @@ Effect: The roughneck uses their Haymaker ability against a creature or object w
 
 **Catcher (Free Triggered Action)**
 
-Keywords: — Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the roughneck. Effect: The target is grabbed by the roughneck.
+Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the roughneck. Effect: The target is grabbed by the roughneck.

@@ -28,4 +28,4 @@ Effect: If this ability is used while Charging, the raider can make a ranged fre
 
 **Supernatural Insight**
 
-The raider can target supernatural creatures and objects within 5 squares, even if they don’t have line of effect.
+The raider can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

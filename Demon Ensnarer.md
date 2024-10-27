@@ -28,4 +28,4 @@ Effect: If the target is pulled adjacent to the ensnarer, the ensnarer takes a f
 
 **Soulsight**
 
-Each creature within 2 of the ensnarer can’t be hidden from them.
+Each creature within 2 of the ensnarer can't be hidden from them.

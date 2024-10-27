@@ -33,7 +33,7 @@ Effect: If this ability is used while charging, the griffon grapples one of the 
 | Keywords: Area, Ranged                                                      | Type: Maneuver      |
 | Distance: 3 cube within 8 (while flying and grappling a creature or object) | Target: All enemies |
 
-Effect: The griffon flies up to half their speed towards the ground and then sends the creature or object they’ve grappled hurtling towards the affected area.
+Effect: The griffon flies up to half their speed towards the ground and then sends the creature or object they've grappled hurtling towards the affected area.
 
 **Wing Buffet (3 Malice)**
 
@@ -52,16 +52,16 @@ Effect: The griffon flies up to half their speed towards the ground and then sen
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: The griffon takes damage
 
-Effect: The griffon halves the damage, doesn’t suffer any effect associated with it, and shifts 2 squares.
+Effect: The griffon halves the damage, doesn't suffer any effect associated with it, and shifts 2 squares.
 
 **Beast of Prey**
 
-Creatures have a double bane on escaping the griffon’s grab.
+Creatures have a double bane on escaping the griffon's grab.
 
 **Steady**
 

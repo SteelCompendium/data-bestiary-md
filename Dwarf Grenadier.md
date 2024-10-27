@@ -41,4 +41,4 @@ Effect: A creature dazed by this ability has -1 to all characteristics while res
 
 **Indirect Fire**
 
-The grenadier ignores cover and concealment and doesn’t need to establish line of effect for their abilities.
+The grenadier ignores cover and concealment and doesn't need to establish line of effect for their abilities.

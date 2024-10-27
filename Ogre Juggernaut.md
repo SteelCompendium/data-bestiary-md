@@ -53,7 +53,7 @@ Effect: Ogres have **advantage** on attacks against creatures frightened by this
 
 |                   |                              |
 | :---------------- | :--------------------------- |
-| Keywords: —       | Type: Triggered Action       |
+| Keywords: -       | Type: Triggered Action       |
 | Distance: Melee 1 | Target: 1 creature or object |
 
 Trigger: The juggernaut takes damage.

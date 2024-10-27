@@ -24,8 +24,8 @@
 - ★ 12–16: 4 damage
 - ✸ 17+: 5 damage
 
-Effect: If the sniper doesn’t use a maneuver or a move action this turn, the ability has edge.
+Effect: If the sniper doesn't use a maneuver or a move action this turn, the ability has edge.
 
 **Crafty**
 
-The sniper doesn’t provoke opportunity attacks by moving.
+The sniper doesn't provoke opportunity attacks by moving.

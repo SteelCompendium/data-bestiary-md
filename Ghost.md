@@ -65,7 +65,7 @@ Effect: Each target floats 1 square into the air and is pulled 5 squares toward 
 | Keywords: Area, Magic, Resistance | Type: Villain Action 2          |
 | Distance: 5 burst                 | Target: Each enemy in the burst |
 
-Effect: A levitated target floats 1 square off the ground when they are first affected, then rises 1 square at the end of each of their turns. If a levitated target can’t already fly, they can fly but are slowed and weakened while flying in this way.
+Effect: A levitated target floats 1 square off the ground when they are first affected, then rises 1 square at the end of each of their turns. If a levitated target can't already fly, they can fly but are slowed and weakened while flying in this way.
 
 **Awful Wail (2d10 + 3)**
 

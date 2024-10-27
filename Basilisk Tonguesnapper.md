@@ -33,7 +33,7 @@ Effect: This attack can pull targets restrained by Petrifying Eye Beams.
 | Keywords: Magic, Ranged, Resistance  | Type: Maneuver  |
 | Distance: Ranged 5 × 2 line within 1 | Target: Special |
 
-Effect: The tonguesnapper targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can’t be reduced in any way and ending the effect.
+Effect: The tonguesnapper targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 
 **Wink (2 Malice)**
 
@@ -48,13 +48,13 @@ Effect: The tonguesnapper targets the first unobstructed creature in each column
 - ★ 12–16: 8 corruption damage; R2 dazed (save ends)
 - ✸ 17+: 12 corruption damage; R3 dazed and slowed (save ends)
 
-Effect: A creature dazed by this ability can’t benefit from edges or concealment until the condition ends.
+Effect: A creature dazed by this ability can't benefit from edges or concealment until the condition ends.
 
 **Neurotoxin Splash**
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
-| Keywords: —       | Type: Triggered Action           |
+| Keywords: -       | Type: Triggered Action           |
 | Distance: 2 burst | Target: All enemies in the burst |
 
 Trigger: The tonguesnapper takes Weapon damage.

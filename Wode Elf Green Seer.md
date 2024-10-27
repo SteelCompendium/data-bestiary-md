@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | --------------- |
 |             |                |              |                  |                 |
 
-**The Forest’s Embrace (Signature)**
+**The Forest's Embrace (Signature)**
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -23,7 +23,7 @@
 - ✦ ≤11: 3 damage; I1 restrained (save ends)
 - ★ 12–16: 5 damage; I2 restrained (save ends)
 
-Effect: A creature restrained by this ability can’t search for hidden creatures until the condition ends.
+Effect: A creature restrained by this ability can't search for hidden creatures until the condition ends.
 
 **The Natural Cycle (3 Malice)**
 
@@ -40,7 +40,7 @@ Effect: A creature restrained by this ability can’t search for hidden creature
 
 **Foreseen Punishment (Free Triggered Action)**
 
-Keywords: — Distance: Ranged 5 Target: 1 creature  Trigger: The triggering creature uses a triggered action targeting the green seer or an ally within distance. Effect: The green seer makes a free strike against the target.
+Keywords: - Distance: Ranged 5 Target: 1 creature  Trigger: The triggering creature uses a triggered action targeting the green seer or an ally within distance. Effect: The green seer makes a free strike against the target.
 
 **Masking Glamor**
 

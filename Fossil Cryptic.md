@@ -21,8 +21,8 @@
 **2d10 + 3**
 
 - ✦ ≤11: 5 damage; A2 prone
-- ★ 12–16: 9 damage; A3 prone and can’t stand (EoT)
-- ✸ 17+: 12 damage; A4 prone and can’t stand (save ends)
+- ★ 12–16: 9 damage; A3 prone and can't stand (EoT)
+- ✸ 17+: 12 damage; A4 prone and can't stand (save ends)
 
 Effect: Each enemy within 1 square of the target takes 2 damage.
 
@@ -64,12 +64,12 @@ The distance of the slide is doubled.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: —    | Type: Triggered Action |
+| Keywords: -    | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: The cryptic takes damage
 
-Effect: The cryptic halves the damage, doesn’t suffer any additional effect associated with it, and shifts up to 3 squares.
+Effect: The cryptic halves the damage, doesn't suffer any additional effect associated with it, and shifts up to 3 squares.
 
 **First Warning Quake (MGT RR)**
 

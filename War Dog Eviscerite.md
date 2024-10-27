@@ -33,7 +33,7 @@ Effect: The eviscerite can grab a target pulled adjacent to them by this ability
 | Keywords: Magic, Ranged | Type: Maneuver                            |
 | Distance: Ranged 10     | Target: One war dog with a loyalty collar |
 
-Effect: The target’s loyalty collar detonates, killing them instantly.
+Effect: The target's loyalty collar detonates, killing them instantly.
 
 **Loyalty Collar**
 
