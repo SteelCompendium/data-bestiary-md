@@ -22,7 +22,10 @@
 
 - ✦ ≤11: 4 damage; the remasch teleports 2 squares
 - ★ 12–16: 7 damage; the remasch teleports 3 squares
-- ✸ 17+: 10 damage; the remasch teleports 5 squares 5 Malice: The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch’s destination.
+- ✸ 17+: 10 damage; the remasch teleports 5 squares
+
+**5 Malice**
+The remasch takes an adjacent creature with them when they teleport. The creature appears in an unoccupied space adjacent to the remasch’s destination.
 
 **Grasping Shadow (3 Malice)**
 

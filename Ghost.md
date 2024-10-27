@@ -33,7 +33,10 @@ Effect: The next attack made against a target has edge.
 | Keywords: Ranged   | Type: Maneuver                       |
 | Distance: Ranged 8 | Target: Self or one incorporeal ally |
 
-Effect: The target shifts up to their speed. 2 Malice: The ghost chooses one additional target.
+Effect: The target shifts up to their speed.
+
+**2 Malice**
+The ghost chooses one additional target.
 
 **Shriek (1 Malice)**
 

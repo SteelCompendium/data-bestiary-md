@@ -23,7 +23,10 @@
 - ✦ ≤11: 2 damage; 2 weakened (save ends)
 - ★ 12–16: 5 damage; 3 weakened (save ends)
 
-Effect: Any allies adjacent to a target of this attack can make a free strike. 3 Malice: Targets weakened by this attack are now restrained while they are weakened.
+Effect: Any allies adjacent to a target of this attack can make a free strike.
+
+**3 Malice**
+Targets weakened by this attack are now restrained while they are weakened.
 
 **Concentrate All Fire on That Hero!**
 
@@ -32,7 +35,10 @@ Effect: Any allies adjacent to a target of this attack can make a free strike. 3
 | Keywords: —         | Type: Maneuver    |
 | Distance: Ranged 10 | Target: One enemy |
 
-Effect: The target is marked until the start of the centurion’s next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion. 3+ Malice: The centurion targets 1 additional enemy for every 3 malice spent.
+Effect: The target is marked until the start of the centurion’s next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.
+
+**3+ Malice**
+The centurion targets 1 additional enemy for every 3 malice spent.
 
 **Testudo!**
 

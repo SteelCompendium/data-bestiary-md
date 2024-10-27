@@ -23,6 +23,9 @@
 - ✦ ≤11: 3 damage; pull 1; A2 bleeding (save ends)
 - ★ 12–16: 7 damage; pull 1; A3 bleeding (save ends)
 
+**1 Malice**
+One target that is adjacent to the deathrex is grabbed by the deathrex’s mouth.
+
 **Death Roll (3 Malice)**
 
 |                                 |                                      |

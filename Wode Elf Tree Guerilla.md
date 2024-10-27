@@ -23,7 +23,10 @@
 - ✦ ≤11: 5 damage; M1 bleeding (save ends)
 - ★ 12–16: 9 damage; M2 bleeding (save ends)
 
-Effect: The tree guerilla can teleport 3 after making the attack. 5 Malice: The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
+Effect: The tree guerilla can teleport 3 after making the attack.
+
+**5 Malice**
+The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
 
 **Do Not Hesitate in the Wode (3 Malice)**
 

@@ -8,7 +8,7 @@ At the start of any [[Ankheg|ankheg]]'s turn, you can spend malice to activate o
 
 - ✸ ≤11: 3 damage; vertical push 5; prone
 
-- ★ 12–16: 3 damage; vertical push 2
+- ★ 12-16: 3 damage; vertical push 2
 
 - ✦ 17+: The target shifts to the nearest unoccupied space outside the area.
 

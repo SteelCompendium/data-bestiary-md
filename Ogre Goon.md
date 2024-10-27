@@ -32,7 +32,10 @@ Effect: This attack deals **additional damage** to each creature and object that
 | Keywords: Attack, Melee, Weapon | Type: Maneuver               |
 | Distance: Melee 1               | Target: 1 creature or object |
 
-Effect: The goon can only have one target grabbed at a time. 1 Malice: The target has a bane on escaping the grab while the goon crushes the target in their hand.
+Effect: The goon can only have one target grabbed at a time.
+
+**1 Malice**
+The target has a bane on escaping the grab while the goon crushes the target in their hand.
 
 **People Bowling (3 Malice)**
 

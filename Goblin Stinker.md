@@ -22,7 +22,10 @@
 
 - ✦ ≤11: 1 poison damage; slide 1
 - ★ 12–16: 2 poison damage; slide 2
-- ✸ 17+: 3 poison damage; slide 3 1 Malice: Increase the slide for one target by 2 squares.
+- ✸ 17+: 3 poison damage; slide 3
+
+**1 Malice**
+Increase the slide for one target by 2 squares.
 
 **Swamp Gas**
 

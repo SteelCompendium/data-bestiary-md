@@ -8,7 +8,7 @@ At the start of any undead creature's turn, you can spend malice to activate one
 
 - ✸ ≤11: 5 damage; restrained (save ends)
 
-- ★ 12–16: 5 damage; restrained (EoT)
+- ★ 12-16: 5 damage; restrained (EoT)
 
 - ✦ 17+: 5 damage
 

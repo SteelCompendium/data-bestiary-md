@@ -10,6 +10,6 @@ At the start of any cryptic's turn, you can spend malice to activate one of the 
 
 - ✸ ≤11: Slowed (EoT); the target's stability is reduced by 3 (EoT).
 
-- ★ 12–16: The target's speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT).
+- ★ 12-16: The target's speed is reduced by 2 (EoT) and their stability is reduced by 1 (EoT).
 
 - ✦ 17+: No effect

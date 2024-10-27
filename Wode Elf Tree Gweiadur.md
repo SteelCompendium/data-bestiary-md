@@ -23,7 +23,10 @@
 - ✦ ≤11: 5 damage; A1 restrained (save ends)
 - ★ 12–16: 9 damage; A2 restrained (save ends)
 
-Effect: The tree gweiadur can shift 3 after making the attack. 3 Malice: If this attack restrains the target, an enemy within 1 of the target is also restrained (save ends).
+Effect: The tree gweiadur can shift 3 after making the attack.
+
+**3 Malice**
+If this attack restrains the target, an enemy within 1 of the target is also restrained (save ends).
 
 **You Activated My Trap! (3 Malice)**
 

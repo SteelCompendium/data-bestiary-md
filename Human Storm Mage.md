@@ -22,7 +22,10 @@
 
 - ✦ ≤11: 5 lightning damage
 - ★ 12–16: 8 lightning damage
-- ✸ 17+: 11 lightning damage 5 Malice: The ability takes the Area keyword and becomes a 10 × 1 line that targets each creature in the area.
+- ✸ 17+: 11 lightning damage
+
+**5 Malice**
+The ability takes the Area keyword and becomes a 10 × 1 line that targets each creature in the area.
 
 **Gust of Wind (3 Malice)**
 

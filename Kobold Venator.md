@@ -23,6 +23,9 @@
 - ✦ ≤11: 2 damage; 1 restrained (save ends)
 - ★ 12–16: 5 damage; 2 restrained (save ends)
 
+**3 Malice**
+Creatures and objects restrained by this ability take 2 fire damage at the start of each of their turns.
+
 **Lost in the Crowd**
 
 If the venator is adjacent to an ally, they can use the hide maneuver, even if observed.

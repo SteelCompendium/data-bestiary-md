@@ -33,6 +33,9 @@ Effect: Each ally within distance can use Ready Rodent as a free triggered actio
 | Keywords: Magic, Ranged, Resistance | Type: Maneuver      |
 | Distance: Ranged 10                 | Target: Two enemies |
 
+**3 Malice**
+Each ally within 3 of a target has their speed increased by 2 until the end of their next turn.
+
 **Ever Ready Rodent (2 Malice)**
 
 |                                |                             |

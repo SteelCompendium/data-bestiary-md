@@ -24,7 +24,10 @@
 - ★ 12–16: 9 damage; pull 2
 - ✸ 17+: 12 damage; pull 3
 
-Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage. 2 Malice: The bandit chief attacks an additional target.
+Effect: A target who is adjacent to the bandit chief after the attack is resolved takes double edge corruption damage.
+
+**2 Malice**
+The bandit chief attacks an additional target.
 
 **Kneel, Peasant! (2d10 + 3)**
 
@@ -32,6 +35,9 @@ Effect: A target who is adjacent to the bandit chief after the attack is resolve
 | :------------------------------ | :-------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver              |
 | Distance: Melee 1               | Target: One enemy or object |
+
+**2 Malice**
+This ability targets each enemy adjacent to the bandit chief.
 
 **Bloodstones**
 

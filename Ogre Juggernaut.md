@@ -23,6 +23,9 @@
 - ✦ ≤11: 5 damage; A1 vertical slide 2
 - ★ 12–16: 8 damage; A2 vertical push 3
 
+**1 Malice**
+Each target is M2 bleeding (save ends).
+
 **Earth Breaking Jump (2d10 + 2)**
 
 |                               |                                    |

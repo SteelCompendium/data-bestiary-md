@@ -32,7 +32,10 @@ Effect: If the target’s forced movement triggers a trap, the target has a bane
 | Keywords: —         | Type: Maneuver                   |
 | Distance: Ranged 10 | Target: 1 trap or terrain object |
 
-Effect: The trap or terrain object instantly triggers. 3 Malice: The artifex can place a new trap in the encounter and instantly trigger it.
+Effect: The trap or terrain object instantly triggers.
+
+**3 Malice**
+The artifex can place a new trap in the encounter and instantly trigger it.
 
 **Shield? Shield!**
 

@@ -21,6 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; shift 1
+- ★ 12–16: 8 damage; shift 2
 - ✸ 17+: 11 damage; shift 3
 
 Effect: If this ability is used while charging, the griffon grapples one of the targets.
@@ -44,6 +45,7 @@ Effect: The griffon flies up to half their speed towards the ground and then sen
 **MGT RR**
 
 - ✦ ≤11: Vertical push 4
+- ★ 12–16: Push 3
 - ✸ 17+: Push 2
 
 **Juke (1 Malice)**

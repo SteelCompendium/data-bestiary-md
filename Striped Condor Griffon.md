@@ -21,6 +21,7 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; push 1
+- ★ 12–16: 9 damage; one target is pushed 2; other target is vertically pushed 2
 - ✸ 17+: 12 damage; one target is pushed 2 and prone; other target is vertically pushed 3
 
 **Bound Ahead (5 Malice)**
@@ -42,6 +43,7 @@ Effect: The [[Griffon|griffon]] shifts up to their speed in a straight line. Eac
 **MGT RR**
 
 - ✦ ≤11: Vertical push 5
+- ★ 12–16: Push 4
 - ✸ 17+: Push 3
 
 **Circle and Strike (2d10 + 2)**

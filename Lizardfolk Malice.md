@@ -6,7 +6,7 @@ At the start of a lizardfolk's turn, you can spend malice to activate one of the
 
 - ✸ ≤11 Restrained (save ends)
 
-- ★ 12–16 Restrained (EoT)
+- ★ 12-16 Restrained (EoT)
 
 - ✦ 17 No effect
 

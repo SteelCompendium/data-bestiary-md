@@ -57,6 +57,9 @@ Effect: The cryptic burrows up to half their speed, then creates the burst when 
 | Keywords: Ranged, Resistance | Type: Maneuver                               |
 | Distance: Ranged 5           | Target: One creature or object on the ground |
 
+**2 Malice**
+The distance of the slide is doubled.
+
 **Dissipate (1 Malice)**
 
 |                |                        |
@@ -88,13 +91,14 @@ Effect: The area drops 2 squares. Each enemy in the area falls, while all allies
 
 **No Escape (2d10 + 3)**
 
-|                  |                        |
-| :--------------- | :--------------------- |
-| Keywords: Ranged | Type: Villain Action 3 |
+|                     |                                                |
+| :------------------ | :--------------------------------------------- |
+| Keywords: Ranged    | Type: Villain Action 3                         |
+| Distance: Ranged 10 | Target: Two creatures or objects on the ground |
 
-Effect: The cryptic makes an initial attack that calls down stone pillars from the ceiling. Distance: Ranged 10 Target: Two creatures or objects
+Effect: The cryptic makes an initial attack that calls down stone pillars from the ceiling.
 
-Effect: The cryptic makes a final attack that raises stone pillars from the floor. Distance: Ranged 10 Target: Two creatures or objects on the ground
+Effect: The cryptic makes a final attack that raises stone pillars from the floor.
 
 **Solo Monster**
 

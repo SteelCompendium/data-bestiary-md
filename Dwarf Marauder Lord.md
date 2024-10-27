@@ -23,7 +23,10 @@
 - ✦ ≤11: 5 damage; slide 1
 - ★ 12–16: 9 damage; slide 3
 
-Effect: A target restrained by a dwarf can be slid by this attack. 3 Malice: A target that is force moved adjacent to an ally with this ability is restrained (EoT).
+Effect: A target restrained by a dwarf can be slid by this attack.
+
+**3 Malice**
+A target that is force moved adjacent to an ally with this ability is restrained (EoT).
 
 **Magnetomancy**
 
@@ -32,7 +35,10 @@ Effect: A target restrained by a dwarf can be slid by this attack. 3 Malice: A t
 | Keywords: Magic, Ranged | Type: Maneuver               |
 | Distance: Ranged 10     | Target: 1 creature or object |
 
-Effect: Vertical slide 5. A target restrained by a dwarf can be slid by this ability. 5 Malice: This ability gains the Area keyword, its distance becomes 10 burst, and it now targets restrained creatures.
+Effect: Vertical slide 5. A target restrained by a dwarf can be slid by this ability.
+
+**5 Malice**
+This ability gains the Area keyword, its distance becomes 10 burst, and it now targets restrained creatures.
 
 **Your Weapon is Useless**
 

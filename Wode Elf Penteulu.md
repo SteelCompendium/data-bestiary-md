@@ -23,7 +23,10 @@
 - ✦ ≤11: 5 damage; M2 restrained (save ends)
 - ★ 12–16: 9 damage; M3 restrained (save ends)
 
-Effect: The penteulu deals damage to each target one at a time and can teleport 3 squares after damaging a target. 3 Malice: Targets restrained by this ability take an additional **+1**.
+Effect: The penteulu deals damage to each target one at a time and can teleport 3 squares after damaging a target.
+
+**3 Malice**
+Targets restrained by this ability take an additional **+1**.
 
 **Fairness is a Human Concept (5 Malice)**
 
