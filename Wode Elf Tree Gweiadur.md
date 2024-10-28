@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 5 damage; A1 restrained (save ends)
 - ★ 12-16: 9 damage; A2 restrained (save ends)
+- ✸ 17+: 12 damage; A3 restrained (save ends)
 
 **Effect:** The tree gweiadur can shift 3 after making the attack.
 
@@ -38,6 +39,7 @@
 
 - ✦ ≤11: 2 damage; R1 marked (save ends)
 - ★ 12-16: 4 damage; R2 slowed and marked (save ends)
+- ✸ 17+: 6 damage; R3 slowed and marked (save ends)
 
 **Effect:** Allies have **+1** on attacks and abilities against marked creatures and objects.
 

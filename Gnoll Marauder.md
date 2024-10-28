@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage; A1 bleeding (save ends)
 - ★ 12-16: 5 damage; A2 bleeding (save ends)
+- ✸ 17+: 7 damage; prone; A3 bleeding (save ends)
 
 **Effect:** Shift 2.
 

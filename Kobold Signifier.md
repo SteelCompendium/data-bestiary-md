@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
+- ✸ 17+: 5 damage
 
 **Effect:** An ally within 10 can shift their speed, as long as they end their movement adjacent to an ally.
 

@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 6 damage; pull 1
 - ★ 12-16: 10 damage; pull 2
+- ✸ 17+: 13 damage; pull 3
 
 **Effect:** A target is grabbed if they are pulled adjacent to the sunderer.
 
@@ -36,6 +37,7 @@
 
 - ✦ ≤11: Frightened of the [[Minotaur|minotaur]] (save ends)
 - ★ 12-16: Frightened of the [[Minotaur|minotaur]] (EoT)
+- ✸ 17+: No effect
 
 **Effect:** The [[Minotaur|minotaur]] has **resistance** and **advantage** until the end of their next turn.
 
@@ -50,6 +52,7 @@
 
 - ✦ ≤11: 6 damage; push 1; M1 bleeding (save ends)
 - ★ 12-16: 10 damage; push 3; M2 bleeding (save ends)
+- ✸ 17+: 13 damage; push 5; M3 bleeding (save ends)
 
 **Effect:** The target takes 6 damage at the start of each of their turns while bleeding from this ability.
 

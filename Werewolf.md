@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 7 damage; 2 ferocity
 - ★ 12-16: 10 damage; 4 ferocity
+- ✸ 17+: 13 damage; 5 ferocity
 
 **2 Malice:** The target has P0 lycanthropy. The potency of this attack increases by 1 each time the werewolf forces the same target to resist it.
 

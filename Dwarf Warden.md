@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 5 damage; push 1; M1 slowed (save ends)
 - ★ 12-16: 8 damage; push 3; M2 slowed (save ends)
+- ✸ 17+: 11 damage; push 5; M3 restrained (save ends)
 
 **Effect:** A target restrained by a dwarf can be pushed by this attack.
 
@@ -36,6 +37,7 @@
 
 - ✦ ≤11: 2 damage; push 2; A1 slowed (save ends)
 - ★ 12-16: 4 damage; push 4; A2 slowed (save ends)
+- ✸ 17+: 5 damage; push 6; A3 dazed (save ends)
 
 **Effect:** A target restrained by a dwarf can be pushed by this ability.
 

@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 4 damage; M1 slowed (save ends)
 - ★ 12-16: 7 damage; M2 slowed (save ends)
+- ✸ 17+: 10 damage; M3 restrained (save ends)
 
 **Effect:** Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.
 
@@ -36,6 +37,7 @@
 
 - ✦ ≤11: 2 lightning damage; A1 slowed (save ends)
 - ★ 12-16: 3 lightning damage; A2 slowed (save ends)
+- ✸ 17+: 5 lightning damage; A3 slowed (save ends)
 
 **Cupola**
 

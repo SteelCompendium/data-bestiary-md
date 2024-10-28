@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; slide 2
+- ✸ 17+: 5 damage; slide 4
 
 **Reptilian Escape**
 

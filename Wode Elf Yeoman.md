@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage; push 1
 - ★ 12-16: 4 damage; push 2
+- ✸ 17+: 5 damage; push 3
 
 **Masking Glamor**
 

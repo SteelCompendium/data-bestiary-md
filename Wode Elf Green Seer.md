@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage; I1 restrained (save ends)
 - ★ 12-16: 5 damage; I2 restrained (save ends)
+- ✸ 17+: 7 damage; I3 restrained (save ends)
 
 **Effect:** A creature restrained by this ability can't search for hidden creatures until the condition ends.
 

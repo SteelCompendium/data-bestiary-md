@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage; pull 1; M1 slowed (save ends)
 - ★ 12-16: 5 damage; pull 3; M2 slowed (save ends)
+- ✸ 17+: 7 damage; pull 5; M3 slowed (save ends)
 
 **Effect:** A creature slowed by this ability can't search for hidden creatures until the condition ends.
 

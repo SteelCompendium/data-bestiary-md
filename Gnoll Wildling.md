@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 3 damage
+- ✸ 17+: 4 damage; wildling takes a free strike on a creature adjacent to the target
 
 **Death Frenzy**
 

@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 3
+- ✸ 17+: 10 damage; push 5
 
 **Effect:** The tree chirurgeon can make a ranged free strike before attacking.
 

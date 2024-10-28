@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 5 damage; M1 bleeding (save ends)
 - ★ 12-16: 9 damage; M2 bleeding (save ends)
+- ✸ 17+: 12 damage; M3 bleeding (save ends)
 
 **Effect:** The tree guerilla can teleport 3 after making the attack.
 

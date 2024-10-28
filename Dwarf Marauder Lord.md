@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 5 damage; slide 1
 - ★ 12-16: 9 damage; slide 3
+- ✸ 17+: 12 damage; slide 5
 
 **Effect:** A target restrained by a dwarf can be slid by this attack.
 

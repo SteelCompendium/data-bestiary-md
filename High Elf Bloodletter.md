@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 4 damage; R1 bleeding (save ends)
 - ★ 12-16: 7 damage; R2 bleeding (save ends)
+- ✸ 17+: 10 damage; R3 bleeding (save ends)
 
 **Effect:** A creature bleeding from this ability takes edge from attacks.
 

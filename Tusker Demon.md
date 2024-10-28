@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 2
+- ✸ 17+: 10 damage; push 3; prone
 
 **Effect:** This attack has edge while charging.
 

@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 5 damage
+- ✸ 17+: 7 damage
 
 **Effect:** Taunted (EoT). The greenskeeper can shift 3 after making the attack.
 

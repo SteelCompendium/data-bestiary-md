@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 5 damage; R1 deathtouched (save ends)
 - ★ 12-16: 8 damage; R2 deathtouched (save ends)
+- ✸ 17+: 11 damage; R3 deathtouched (save ends)
 
 **Effect:** A creature gains a new condition at the end of each turn while deathtouched, receiving bleeding at the end of their first turn, slowed at the end of their second turn, and restrained at the end of their third turn. When no longer deathtouched, all the conditions imposed by it end.
 

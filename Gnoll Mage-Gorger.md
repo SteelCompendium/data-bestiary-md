@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 acid damage
 - ★ 12-16: 3 cold damage
+- ✸ 17+: 4 lightning damage; target can't use magic abilities (EoT)
 
 **Effect:** The target has a bane on their next resistance roll until the start of the mage-gorger's next turn.
 

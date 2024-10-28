@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; the target gains Magic weakness 1 (EoT)
+- ✸ 17+: 5 damage; the target gains Magic weakness 3 (EoT)
 
 **Cradle Heart**
 

@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 4 damage; push 1
 - ★ 12-16: 7 damage; push 3
+- ✸ 17+: 10 damage; push 5
 
 **Effect:** If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.
 

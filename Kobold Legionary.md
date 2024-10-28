@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
+- ✸ 17+: 5 damage
 
 **Effect:** Taunted (EoT).
 

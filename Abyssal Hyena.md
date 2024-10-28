@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage; grabbed
+- ✸ 17+: 5 damage; grabbed
 
 **Death Snap**
 

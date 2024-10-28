@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 psychic damage; I1 weakened (save ends)
 - ★ 12-16: 5 psychic damage; I2 weakened (save ends)
+- ✸ 17+: 7 psychic damage; I3 weakened (save ends)
 
 **2 Malice:** The potency of this ability increases by 1. If the target is still weakened by this ability at the end of the encounter, they cannot take a respite activity during their next respite.
 

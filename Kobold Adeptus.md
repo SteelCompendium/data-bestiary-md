@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 2 lightning damage
 - ★ 12-16: 5 lightning damage
+- ✸ 17+: 6 lightning damage
 
 **Effect:** The adeptus has an edge on the attack if the target is adjacent to another enemy. All enemies adjacent to the target take 1 lightning damage.
 
@@ -36,6 +37,7 @@
 
 - ✦ ≤11: 2 damage
 - ★ 12-16: 5 damage
+- ✸ 17+: 6 damage
 
 **Effect:** This attack ignores all banes and hindrances.
 

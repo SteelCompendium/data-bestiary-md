@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 fire damage; I1 burning (save ends)
 - ★ 12-16: 5 fire damage; I2 burning (save ends)
+- ✸ 17+: 7 fire damage; I3 burning (save ends)
 
 **Effect:** A burning target takes 1d6 fire damage at the start of each of their turns until the condition ends.
 

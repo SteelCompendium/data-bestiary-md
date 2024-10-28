@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 8 damage
 - ★ 12-16: 12 damage
+- ✸ 17+: 16 damage
 
 **Effect:** The lightbender has advantage on the attack if they would make it with an edge.
 
@@ -45,6 +46,7 @@
 
 - ✦ ≤11: Dazed (save ends)
 - ★ 12-16: Dazed (EoT)
+- ✸ 17+: No effect
 
 **Effect:** Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 

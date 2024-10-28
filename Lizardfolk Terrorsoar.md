@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 3 damage
 - ★ 12-16: 5 damage
+- ✸ 17+: 7 damage; prone
 
 **Effect:** The terrorsoar can shift 4 after using this ability if they are flying.
 

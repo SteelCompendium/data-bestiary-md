@@ -22,6 +22,7 @@
 
 - ✦ ≤11: 1 damage
 - ★ 12-16: 2 damage; shift 1
+- ✸ 17+: 3 damage; shift 2
 
 **Shield? Shield!**
 
