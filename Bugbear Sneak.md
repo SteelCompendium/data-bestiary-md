@@ -59,6 +59,17 @@
 
 **Effect:** Vertical push 4. Ally targets don't take damage from being force moved.
 
+#### Catcher
+
+|                   |                                     |
+| :---------------- | :---------------------------------- |
+| Keywords: -       | Type: Free Triggered Action         |
+| Distance: Melee 1 | Target: 1 size 1 creature or object |
+
+Trigger: The target is force moved into a square adjacent to the sneak.
+
+**Effect:** The target is grabbed by the sneak.
+
 #### Misdirection (1 Malice)
 
 |                   |                        |
@@ -69,7 +80,3 @@
 Trigger: A target attacks the sneak.
 
 **Effect:** The sneak chooses an enemy within distance of the attack. The attack targets that enemy instead.
-
-**Catcher (Free Triggered Action)**
-
-Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the sneak. Effect: The target is grabbed by the sneak.

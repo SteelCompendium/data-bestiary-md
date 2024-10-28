@@ -28,9 +28,16 @@
 
 **3 Malice:** The cube attacks 1 additional target.
 
-**You Didn't Pay Attention! (Free Triggered Action)**
+#### You Didn't Pay Attention!
 
-Keywords: - Trigger: A creature moves or is force moved into the cube. Distance: Self Target: Self Effect: The cube uses Engulf with a double edge.
+|                |                             |
+| :------------- | :-------------------------- |
+| Keywords: -    | Type: Free Triggered Action |
+| Distance: Self | Target: Self                |
+
+Trigger: A creature moves or is force moved into the cube.
+
+**Effect:** The cube uses Engulf with a double edge.
 
 **Translucent Cube**
 

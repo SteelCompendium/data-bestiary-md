@@ -59,6 +59,17 @@
 
 **Effect:** Vertical push 3; ally targets don't take damage from being force moved.
 
+#### Catcher
+
+|                   |                                     |
+| :---------------- | :---------------------------------- |
+| Keywords: -       | Type: Free Triggered Action         |
+| Distance: Melee 1 | Target: 1 size 1 creature or object |
+
+Trigger: The target is force moved into a square adjacent to the channeler.
+
+**Effect:** The target is grabbed by the channeler.
+
 #### Brambleguard (1 Malice)
 
 |                         |                        |
@@ -69,7 +80,3 @@
 Trigger: The target takes non-fire damage.
 
 **Effect:** The channeler covers the target in thorns and halves the damage. If the damage was caused by a melee attack, the attacker takes 5 damage.
-
-**Catcher (Free Triggered Action)**
-
-Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the channeler. Effect: The target is grabbed by the channeler.

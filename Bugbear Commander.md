@@ -53,9 +53,16 @@
 
 **Effect:** Vertical push 4; ally targets don't take damage from being force moved.
 
-**Catcher (Free Triggered Action)**
+#### Catcher
 
-Keywords: - Distance: Melee 1 Target: 1 size 1 creature or object Trigger: The target is force moved into a square adjacent to the commander. Effect: The target is grabbed by the commander.
+|                   |                                     |
+| :---------------- | :---------------------------------- |
+| Keywords: -       | Type: Free Triggered Action         |
+| Distance: Melee 1 | Target: 1 size 1 creature or object |
+
+Trigger: The target is force moved into a square adjacent to the commander.
+
+**Effect:** The target is grabbed by the commander.
 
 **The Commander's Watching**
 

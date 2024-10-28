@@ -39,9 +39,16 @@
 - ★ 12-16: Target has a bane on their attacks (save ends)
 - ✸ 17+: No effect
 
-**Foreseen Punishment (Free Triggered Action)**
+#### Foreseen Punishment
 
-Keywords: - Distance: Ranged 5 Target: 1 creature  Trigger: The triggering creature uses a triggered action targeting the green seer or an ally within distance. Effect: The green seer makes a free strike against the target.
+|                    |                             |
+| :----------------- | :-------------------------- |
+| Keywords: -        | Type: Free Triggered Action |
+| Distance: Ranged 5 | Target: 1 creature          |
+
+Trigger: The triggering creature uses a triggered action targeting the green seer or an ally within distance.
+
+**Effect:** The green seer makes a free strike against the target.
 
 **Masking Glamor**
 
