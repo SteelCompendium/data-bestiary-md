@@ -1,4 +1,4 @@
-#### CRADLE CROW
+### CRADLE CROW
 
 | CRADLE CROW           | **Level 1 Harrier Minion** |
 | :-------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Heckle (Signature)**
+#### Heckle (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,6 +21,6 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage; taunted (EoT)
+- ★ 12-16: 4 damage; taunted (EoT)
 
-Effect: The cradle crow ignores opportunity attacks from the target until the end of its turn.
+**Effect:** The cradle crow ignores opportunity attacks from the target until the end of its turn.

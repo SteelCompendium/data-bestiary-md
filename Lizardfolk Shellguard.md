@@ -1,4 +1,4 @@
-#### LIZARDFOLK SHELLGUARD
+### LIZARDFOLK SHELLGUARD
 
 | LIZARDFOLK SHELLGUARD  | **Level 1 Defender Minion** |
 | :--------------------- | --------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | -------------- |
 |              |                |              |               |                |
 
-**Shield Smash (Signature)**
+#### Shield Smash (Signature)
 
 |                                 |                                         |
 | :------------------------------ | :-------------------------------------- |
@@ -21,9 +21,9 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
 
-Effect: All allies have **advantage** against the target's next attack.
+**Effect:** All allies have **advantage** against the target's next attack.
 
 **Reptilian Escape**
 

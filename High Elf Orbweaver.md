@@ -1,4 +1,4 @@
-#### HIGH ELF ORBWEAVER
+### HIGH ELF ORBWEAVER
 
 | HIGH ELF ORBWEAVER        |          **Level 3 Hexer** |
 | :------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | ------------- | ------------- | ---------------- | --------------- |
 |             |               |               |                  |                 |
 
-**Awash (Signature)**
+#### Awash (Signature)
 
 |                           |                                   |
 | :------------------------ | :-------------------------------- |
@@ -21,16 +21,16 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; M1 slowed (EoT)
-- ★ 12–16: 4 damage; M2 slowed (EoT)
+- ★ 12-16: 4 damage; M2 slowed (EoT)
 
-**Aetherweb (2d10 + 2)**
+#### Aetherweb (2d10 + 2)
 
 |                         |                              |
 | :---------------------- | :--------------------------- |
 | Keywords: Magic, Ranged | Type: Action                 |
 | Distance: Ranged 8      | Target: 2 enemies or objects |
 
-Effect: Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
+**Effect:** Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
 
 **Otherworldly Grace**
 

@@ -1,4 +1,4 @@
-#### WODE ELF GREEN SEER
+### WODE ELF GREEN SEER
 
 | WODE ELF GREEN SEER       |      **Level 1 Hexer** |
 | :------------------------ | ---------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | --------------- |
 |             |                |              |                  |                 |
 
-**The Forest's Embrace (Signature)**
+#### The Forest's Embrace (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,11 +21,11 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; I1 restrained (save ends)
-- ★ 12–16: 5 damage; I2 restrained (save ends)
+- ★ 12-16: 5 damage; I2 restrained (save ends)
 
-Effect: A creature restrained by this ability can't search for hidden creatures until the condition ends.
+**Effect:** A creature restrained by this ability can't search for hidden creatures until the condition ends.
 
-**The Natural Cycle (3 Malice)**
+#### The Natural Cycle (3 Malice)
 
 |                                     |                     |
 | :---------------------------------- | :------------------ |
@@ -35,7 +35,7 @@ Effect: A creature restrained by this ability can't search for hidden creatures 
 **PRS RR**
 
 - ✦ ≤11: Target is bleeding and has a bane on their attacks (save ends)
-- ★ 12–16: Target has a bane on their attacks (save ends)
+- ★ 12-16: Target has a bane on their attacks (save ends)
 - ✸ 17+: No effect
 
 **Foreseen Punishment (Free Triggered Action)**

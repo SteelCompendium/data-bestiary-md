@@ -1,4 +1,4 @@
-#### BUGBEAR COMMANDER
+### BUGBEAR COMMANDER
 
 | BUGBEAR COMMANDER           |        **Level 2 SUPPORT** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | -------------- |
 |              |                |               |                 |                |
 
-**Inspiring Swordplay (Signature)**
+#### Inspiring Swordplay (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,37 +21,37 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage
-- ★ 12–16: 8 damage
+- ★ 12-16: 8 damage
 - ✸ 17+: 11 damage; one target is grabbed
 
-Effect: 1 ally within 5 of the commander has an edge on their next attack until the start of the commander's next turn.
+**Effect:** 1 ally within 5 of the commander has an edge on their next attack until the start of the commander's next turn.
 
-**You Next!**
+#### You Next!
 
 |                    |                |
 | :----------------- | :------------- |
 | Keywords: -        | Type: Action   |
 | Distance: Ranged 8 | Target: 1 ally |
 
-Effect: The target moves up to their speed and uses a signature action.
+**Effect:** The target moves up to their speed and uses a signature action.
 
-**Fall Back! (5 Malice)**
+#### Fall Back! (5 Malice)
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
 | Keywords: -                | Type: Action                |
 | Distance: Self and 5 burst | Target: Self and all allies |
 
-Effect: Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.
+**Effect:** Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.
 
-**Throw**
+#### Throw
 
 |                         |                                                       |
 | :---------------------- | :---------------------------------------------------- |
 | Keywords: Attack, Melee | Type: Maneuver                                        |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the commander |
 
-Effect: Vertical push 4; ally targets don't take damage from being force moved.
+**Effect:** Vertical push 4; ally targets don't take damage from being force moved.
 
 **Catcher (Free Triggered Action)**
 

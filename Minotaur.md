@@ -1,4 +1,4 @@
-#### MINOTAUR
+### MINOTAUR
 
 | MINOTAUR            |       **Level 3 Harrier** |
 | :------------------ | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | --------------- |
 |              |                |              |               |                 |
 
-**Flail and Blade (Signature)**
+#### Flail and Blade (Signature)
 
 |                                         |                                |
 | :-------------------------------------- | :----------------------------- |
@@ -21,20 +21,20 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; push 1
-- ★ 12–16: 9 damage; push 2
+- ★ 12-16: 9 damage; push 2
 
-Effect: The minotaur shifts 3 after attacking.
+**Effect:** The minotaur shifts 3 after attacking.
 
-**Primal Bay (3 Malice)**
+#### Primal Bay (3 Malice)
 
 |                |              |
 | :------------- | :----------- |
 | Keywords: -    | Type: Action |
 | Distance: Self | Target: Self |
 
-Effect: The minotaur has **resistance** and **advantage** until the end of their next turn. On their next turn, they have access to an additional maneuver.
+**Effect:** The minotaur has **resistance** and **advantage** until the end of their next turn. On their next turn, they have access to an additional maneuver.
 
-**Goring Horns (5 Malice)**
+#### Goring Horns (5 Malice)
 
 |                                         |                              |
 | :-------------------------------------- | :--------------------------- |
@@ -44,11 +44,11 @@ Effect: The minotaur has **resistance** and **advantage** until the end of their
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; I1 dazed (save ends)
-- ★ 12–16: 9 damage; I2 dazed (save ends)
+- ★ 12-16: 9 damage; I2 dazed (save ends)
 
-Effect: The potency of this ability increases by 1 if it's used while charging.
+**Effect:** The potency of this ability increases by 1 if it's used while charging.
 
-**Retaliatory Gore**
+#### Retaliatory Gore
 
 |                |                             |
 | :------------- | :-------------------------- |
@@ -57,7 +57,7 @@ Effect: The potency of this ability increases by 1 if it's used while charging.
 
 Trigger: The minotaur takes damage from a creature within 8.
 
-Effect: The minotaur charges the target using Flail and Blade or Goring Horns.
+**Effect:** The minotaur charges the target using Flail and Blade or Goring Horns.
 
 **Minotaur Sense**
 

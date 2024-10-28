@@ -1,4 +1,4 @@
-#### RADENWIGHT BRUXER
+### RADENWIGHT BRUXER
 
 | RADENWIGHT BRUXER      |          **Level 1 Brute** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | -------------- |
 |              |                |               |                 |                |
 
-**Lockjaw (Signature)**
+#### Lockjaw (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,12 +21,12 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; M2 grabbed
-- ★ 12–16: 9 damage; M3 grabbed
+- ★ 12-16: 9 damage; M3 grabbed
 - ✸ 17+: 12 damage; grabbed
 
-Effect: While the target is grabbed, they take 2 damage at the start of each of the bruxer's turns.
+**Effect:** While the target is grabbed, they take 2 damage at the start of each of the bruxer's turns.
 
-**Flurry of Bites (3 Malice)**
+#### Flurry of Bites (3 Malice)
 
 |                        |                                  |
 | :--------------------- | :------------------------------- |
@@ -36,10 +36,10 @@ Effect: While the target is grabbed, they take 2 damage at the start of each of 
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; A1 bleeding (save ends)
-- ★ 12–16: 5 damage; A2 bleeding (save ends)
+- ★ 12-16: 5 damage; A2 bleeding (save ends)
 - ✸ 17+: 6 damage; A3 bleeding (save ends)
 
-**Ready Rodent**
+#### Ready Rodent
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -48,7 +48,7 @@ Effect: While the target is grabbed, they take 2 damage at the start of each of 
 
 Trigger: An ally deals damage to the target.
 
-Effect: The bruxer makes a free strike against the target.
+**Effect:** The bruxer makes a free strike against the target.
 
 **Lockdown**
 

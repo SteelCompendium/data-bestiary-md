@@ -1,4 +1,4 @@
-#### LIZARDFOLK SCALETOOTH
+### LIZARDFOLK SCALETOOTH
 
 | LIZARDFOLK SCALETOOTH  |          **Level 1 Brute** |
 | :--------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | -------------- |
 |              |                |              |               |                |
 
-**Razor Bite (Signature)**
+#### Razor Bite (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,11 +21,11 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; A1 bleeding (save ends)
-- ★ 12–16: 9 damage; A2 bleeding (save ends)
+- ★ 12-16: 9 damage; A2 bleeding (save ends)
 
-Effect: The potency of this attack increases by 1 if the target is grabbed by the scaletooth.
+**Effect:** The potency of this attack increases by 1 if the target is grabbed by the scaletooth.
 
-**Tail Whip (2 Malice)**
+#### Tail Whip (2 Malice)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -35,9 +35,9 @@ Effect: The potency of this attack increases by 1 if the target is grabbed by th
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; slide 1; M1 grappled
-- ★ 12–16: 5 damage; slide 2; M2 grappled
+- ★ 12-16: 5 damage; slide 2; M2 grappled
 
-Effect: The scaletooth needs their tail to use this ability. The scaletooth can't grapple more than one creature or object with this ability.
+**Effect:** The scaletooth needs their tail to use this ability. The scaletooth can't grapple more than one creature or object with this ability.
 
 **Reptilian Escape**
 

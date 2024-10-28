@@ -1,4 +1,4 @@
-#### SERVITOR BATTLE WALKER
+### SERVITOR BATTLE WALKER
 
 | SERVITOR BATTLE WALKER |         **Level 1 Mount** |
 | :--------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------- | --------------- | --------------- |
 |              |               |               |                 |                 |
 
-**Grasping Claws (Signature)**
+#### Grasping Claws (Signature)
 
 |                                         |                                |
 | :-------------------------------------- | :----------------------------- |
@@ -21,11 +21,11 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; M1 slowed (save ends)
-- ★ 12–16: 7 damage; M2 slowed (save ends)
+- ★ 12-16: 7 damage; M2 slowed (save ends)
 
-Effect: Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.
+**Effect:** Restrained targets and targets restrained by this ability are pulled 3. A target restrained by a dwarf can be pulled by this attack.
 
-**Stunning Blast (3 Malice)**
+#### Stunning Blast (3 Malice)
 
 |                      |                                  |
 | :------------------- | :------------------------------- |
@@ -35,7 +35,7 @@ Effect: Restrained targets and targets restrained by this ability are pulled 3. 
 **2d10 + 2**
 
 - ✦ ≤11: 2 lightning damage; A1 slowed (save ends)
-- ★ 12–16: 3 lightning damage; A2 slowed (save ends)
+- ★ 12-16: 3 lightning damage; A2 slowed (save ends)
 
 **Cupola**
 

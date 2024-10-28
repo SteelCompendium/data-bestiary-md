@@ -1,4 +1,4 @@
-#### BUGBEAR ROUGHNECK
+### BUGBEAR ROUGHNECK
 
 | BUGBEAR ROUGHNECK           |          **Level 2 BRUTE** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Haymaker (Signature)**
+#### Haymaker (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,37 +21,39 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage
-- ★ 12–16: 9 damage; one target is grabbed; one target gets push 2
+- ★ 12-16: 9 damage; one target is grabbed; one target gets push 2
 - ✸ 17+: 12 damage; one target is grabbed; one target gets vertical push 3
 
-**Leaping Fury (2d10 + 3)**
+**5 Malice:** The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.
+
+#### Leaping Fury (2d10 + 3)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                 |
 | Distance: Melee 1                | Target: 1 creature or object |
 
-Effect: The roughneck leaps 5 to an unoccupied space adjacent to the target before making the attack.
+**Effect:** The roughneck leaps 5 to an unoccupied space adjacent to the target before making the attack.
 
-**Drag Through Hell (3 Malice)**
+#### Drag Through Hell (3 Malice)
 
 |                   |                                                       |
 | :---------------- | :---------------------------------------------------- |
 | Keywords: Melee   | Type: Maneuver                                        |
 | Distance: Melee 1 | Target: 1 creature or object grabbed by the roughneck |
 
-Effect: The roughneck moves up to their speed, dragging the target across the ground. The target takes 1 damage for each square they were dragged through before being released prone. Each square the target was dragged through becomes difficult terrain.
+**Effect:** The roughneck moves up to their speed, dragging the target across the ground. The target takes 1 damage for each square they were dragged through before being released prone. Each square the target was dragged through becomes difficult terrain.
 
-**Throw**
+#### Throw
 
 |                         |                                                       |
 | :---------------------- | :---------------------------------------------------- |
 | Keywords: Attack, Melee | Type: Maneuver                                        |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the roughneck |
 
-Effect: Vertical push 5. Ally targets don't take damage from being force moved.
+**Effect:** Vertical push 5. Ally targets don't take damage from being force moved.
 
-**Flying Sawblade**
+#### Flying Sawblade
 
 |                |                        |
 | :------------- | :--------------------- |
@@ -60,7 +62,7 @@ Effect: Vertical push 5. Ally targets don't take damage from being force moved.
 
 Trigger: The roughneck is vertically moved by another creature.
 
-Effect: The roughneck uses their Haymaker ability against a creature or object within reach at the end of the movement.
+**Effect:** The roughneck uses their Haymaker ability against a creature or object within reach at the end of the movement.
 
 **Catcher (Free Triggered Action)**
 

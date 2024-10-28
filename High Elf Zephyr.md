@@ -1,4 +1,4 @@
-#### HIGH ELF ZEPHYR
+### HIGH ELF ZEPHYR
 
 | HIGH ELF ZEPHYR           |        **Level 1 Harrier** |
 | :------------------------ | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | --------------- | --------------- |
 |             |                |              |                 |                 |
 
-**Sweeping Blade (Signature)**
+#### Sweeping Blade (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,18 +21,18 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; A1 prone
-- ★ 12–16: 5 damage; A2 prone
+- ★ 12-16: 5 damage; A2 prone
 
-Effect: Shift 2.
+**Effect:** Shift 2.
 
-**Windwalk**
+#### Windwalk
 
 |                |                |
 | :------------- | :------------- |
 | Keywords: -    | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
-Effect: The zephyr moves up to their speed through the air. They must end this movement on solid ground or immediately fall prone.
+**Effect:** The zephyr moves up to their speed through the air. They must end this movement on solid ground or immediately fall prone.
 
 **Like the Wind**
 

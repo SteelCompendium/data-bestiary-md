@@ -1,4 +1,4 @@
-#### BUGBEAR CHANNELER
+### BUGBEAR CHANNELER
 
 | BUGBEAR CHANNELER           |     **Level 2 CONTROLLER** |
 | :-------------------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------- | --------------- | --------------- |
 |              |                |               |                 |                 |
 
-**Shape Earth (Signature)**
+#### Shape Earth (Signature)
 
 |                                 |                                              |
 | :------------------------------ | :------------------------------------------- |
@@ -21,21 +21,21 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; pull 2
-- ★ 12–16: 8 damage; pull 3
+- ★ 12-16: 8 damage; pull 3
 - ✸ 17+: 11 damage; pull 4
 
-Effect: Each square that a target is pulled through becomes difficult terrain.
+**Effect:** Each square that a target is pulled through becomes difficult terrain.
 
-**Blistering Element (2d10 + 2)**
+#### Blistering Element (2d10 + 2)
 
 |                       |                                  |
 | :-------------------- | :------------------------------- |
 | Keywords: Area, Magic | Type: Action                     |
 | Distance: 3 burst     | Target: All enemies in the burst |
 
-Effect: The channeler chooses one of the following damage types for the damage: cold, fire, corruption, lightning, or poison.
+**Effect:** The channeler chooses one of the following damage types for the damage: cold, fire, corruption, lightning, or poison.
 
-**Green Reshape (5 Malice)**
+#### Green Reshape (5 Malice)
 
 |                                     |                    |
 | :---------------------------------- | :----------------- |
@@ -45,21 +45,21 @@ Effect: The channeler chooses one of the following damage types for the damage: 
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; P1 slowed (save ends)
-- ★ 12–16: 8 damage; P2 shapechanged (save ends)
+- ★ 12-16: 8 damage; P2 shapechanged (save ends)
 - ✸ 17+: 11 damage; P3 shapechanged (save ends)
 
-Effect: A shapechanged creature becomes plant-like with bark skin and leafy hair. They are slowed and have fire weakness 10 while they have this effect.
+**Effect:** A shapechanged creature becomes plant-like with bark skin and leafy hair. They are slowed and have fire weakness 10 while they have this effect.
 
-**Throw**
+#### Throw
 
 |                         |                                                       |
 | :---------------------- | :---------------------------------------------------- |
 | Keywords: Attack, Melee | Type: Maneuver                                        |
 | Distance: Melee 1       | Target: 1 creature or object grabbed by the channeler |
 
-Effect: Vertical push 3; ally targets don't take damage from being force moved.
+**Effect:** Vertical push 3; ally targets don't take damage from being force moved.
 
-**Brambleguard (1 Malice)**
+#### Brambleguard (1 Malice)
 
 |                         |                        |
 | :---------------------- | :--------------------- |
@@ -68,7 +68,7 @@ Effect: Vertical push 3; ally targets don't take damage from being force moved.
 
 Trigger: The target takes non-fire damage.
 
-Effect: The channeler covers the target in thorns and halves the damage. If the damage was caused by a melee attack, the attacker takes 5 damage.
+**Effect:** The channeler covers the target in thorns and halves the damage. If the damage was caused by a melee attack, the attacker takes 5 damage.
 
 **Catcher (Free Triggered Action)**
 

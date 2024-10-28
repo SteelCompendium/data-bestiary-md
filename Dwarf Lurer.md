@@ -1,4 +1,4 @@
-#### DWARF LURER
+### DWARF LURER
 
 | DWARF LURER       | **Level 1 Defender Minion** |
 | :---------------- | --------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | ---------------- | -------------- |
 |              |               |              |                  |                |
 
-**Whistling Axes (Signature)**
+#### Whistling Axes (Signature)
 
 |                                         |                                         |
 | :-------------------------------------- | :-------------------------------------- |
@@ -21,6 +21,6 @@
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage
-- ★ 12–16: 4 damage
+- ★ 12-16: 4 damage
 
-Effect: The target can't use triggered actions until the start of the next round.
+**Effect:** The target can't use triggered actions until the start of the next round.

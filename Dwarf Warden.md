@@ -1,4 +1,4 @@
-#### DWARF WARDEN
+### DWARF WARDEN
 
 | DWARF WARDEN      |          **Level 2 Brute** |
 | :---------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | ------------- | ------------ | ---------------- | -------------- |
 |              |               |              |                  |                |
 
-**Concussive Maul (Signature)**
+#### Concussive Maul (Signature)
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
@@ -21,11 +21,11 @@
 **2d10 + 2**
 
 - ✦ ≤11: 5 damage; push 1; M1 slowed (save ends)
-- ★ 12–16: 8 damage; push 3; M2 slowed (save ends)
+- ★ 12-16: 8 damage; push 3; M2 slowed (save ends)
 
-Effect: A target restrained by a dwarf can be pushed by this attack.
+**Effect:** A target restrained by a dwarf can be pushed by this attack.
 
-**Concussive Shockwave (5 Malice)**
+#### Concussive Shockwave (5 Malice)
 
 |                           |                                 |
 | :------------------------ | :------------------------------ |
@@ -35,9 +35,9 @@ Effect: A target restrained by a dwarf can be pushed by this attack.
 **2d10 + 2**
 
 - ✦ ≤11: 2 damage; push 2; A1 slowed (save ends)
-- ★ 12–16: 4 damage; push 4; A2 slowed (save ends)
+- ★ 12-16: 4 damage; push 4; A2 slowed (save ends)
 
-Effect: A target restrained by a dwarf can be pushed by this ability.
+**Effect:** A target restrained by a dwarf can be pushed by this ability.
 
 **Escort the Prisoners**
 

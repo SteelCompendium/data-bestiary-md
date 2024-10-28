@@ -1,4 +1,4 @@
-#### HUMAN BRAWLER
+### HUMAN BRAWLER
 
 | HUMAN BRAWLER     |          **Level 1 Brute** |
 | :---------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | -------------- |
 |              |                |              |                 |                |
 
-**Haymaker (Signature)**
+#### Haymaker (Signature)
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
@@ -21,19 +21,19 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; M1 grabbed
-- ★ 12–16: 7 damage; M2 grabbed
+- ★ 12-16: 7 damage; M2 grabbed
 - ✸ 17+: 10 damage; M3 grabbed
 
-Effect: The target has a bane on attempts to escape the grab. The brawler has edge on this attack if the target is already grabbed.
+**Effect:** The target has a bane on attempts to escape the grab. The brawler has edge on this attack if the target is already grabbed.
 
-**Throw (1 Malice)**
+#### Throw (1 Malice)
 
 |                   |                                             |
 | :---------------- | :------------------------------------------ |
 | Keywords: -       | Type: Maneuver                              |
 | Distance: Melee 1 | Target: One creature grabbed by the brawler |
 
-Effect: Push 5.
+**Effect:** Push 5.
 
 **Shoot the Hostage**
 

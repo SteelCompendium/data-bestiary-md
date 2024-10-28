@@ -1,4 +1,4 @@
-#### DWARF GUNNER
+### DWARF GUNNER
 
 | DWARF GUNNER      |      **Level 1 Artillery** |
 | :---------------- | -------------------------: |
@@ -11,7 +11,7 @@
 | ----------- | -------------- | ------------ | ---------------- | -------------- |
 |             |                |              |                  |                |
 
-**Portable Ballista (Signature)**
+#### Portable Ballista (Signature)
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
@@ -21,21 +21,20 @@
 **2d10 + 2**
 
 - ✦ ≤11: 4 damage; push 1
-- ★ 12–16: 7 damage; push 3
+- ★ 12-16: 7 damage; push 3
 
-Effect: If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.
+**Effect:** If the target is adjacent to a wall or object after the power roll is resolved, they are restrained (EoT). A target restrained by a dwarf can be pushed by this attack.
 
-**5 Malice**
-If the target is pushed into another creature, both the target and the creature are restrained (EoT).
+**5 Malice:** If the target is pushed into another creature, both the target and the creature are restrained (EoT).
 
-**Ensnaring Chains (5 Malice)**
+#### Ensnaring Chains (5 Malice)
 
 |                          |                                               |
 | :----------------------- | :-------------------------------------------- |
 | Keywords: Ranged, Weapon | Type: Maneuver                                |
 | Distance: Ranged 10      | Target: 1 restrained, slowed, or prone target |
 
-Effect: The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).
+**Effect:** The gunner makes a free strike against the target. The target loses any restrained, slowed, or prone conditions and gains restrained (save ends).
 
 **Split Shot**
 

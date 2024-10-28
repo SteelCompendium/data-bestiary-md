@@ -1,4 +1,4 @@
-#### MINOTAUR SUNDERER
+### MINOTAUR SUNDERER
 
 | [[Minotaur\|MINOTAUR]] SUNDERER |         **Level 3 Brute** |
 | :------------------------------ | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | ------------- | --------------- |
 |              |                |              |               |                 |
 
-**Spiked Maul (Signature)**
+#### Spiked Maul (Signature)
 
 |                                         |                                |
 | :-------------------------------------- | :----------------------------- |
@@ -21,11 +21,11 @@
 **2d10 + 2**
 
 - ✦ ≤11: 6 damage; pull 1
-- ★ 12–16: 10 damage; pull 2
+- ★ 12-16: 10 damage; pull 2
 
-Effect: A target is grabbed if they are pulled adjacent to the sunderer.
+**Effect:** A target is grabbed if they are pulled adjacent to the sunderer.
 
-**Fearsome Bay (5 Malice)**
+#### Fearsome Bay (5 Malice)
 
 |                            |                                  |
 | :------------------------- | :------------------------------- |
@@ -35,11 +35,11 @@ Effect: A target is grabbed if they are pulled adjacent to the sunderer.
 **INU RR**
 
 - ✦ ≤11: Frightened of the [[Minotaur|minotaur]] (save ends)
-- ★ 12–16: Frightened of the [[Minotaur|minotaur]] (EoT)
+- ★ 12-16: Frightened of the [[Minotaur|minotaur]] (EoT)
 
-Effect: The [[Minotaur|minotaur]] has **resistance** and **advantage** until the end of their next turn.
+**Effect:** The [[Minotaur|minotaur]] has **resistance** and **advantage** until the end of their next turn.
 
-**Disemboweling Horns (3 Malice)**
+#### Disemboweling Horns (3 Malice)
 
 |                                         |                            |
 | :-------------------------------------- | :------------------------- |
@@ -49,11 +49,11 @@ Effect: The [[Minotaur|minotaur]] has **resistance** and **advantage** until the
 **2d10 + 2**
 
 - ✦ ≤11: 6 damage; push 1; M1 bleeding (save ends)
-- ★ 12–16: 10 damage; push 3; M2 bleeding (save ends)
+- ★ 12-16: 10 damage; push 3; M2 bleeding (save ends)
 
-Effect: The target takes 6 damage at the start of each of their turns while bleeding from this ability.
+**Effect:** The target takes 6 damage at the start of each of their turns while bleeding from this ability.
 
-**Retaliatory Gore**
+#### Retaliatory Gore
 
 |                |                             |
 | :------------- | :-------------------------- |
@@ -62,7 +62,7 @@ Effect: The target takes 6 damage at the start of each of their turns while blee
 
 Trigger: The sunderer takes damage from a creature within 6.
 
-Effect: The sunderer charges the target using Spiked Maul.
+**Effect:** The sunderer charges the target using Spiked Maul.
 
 **[[Minotaur]] Sense**
 

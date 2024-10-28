@@ -1,4 +1,4 @@
-#### CRADLE HORSE
+### CRADLE HORSE
 
 | CRADLE HORSE          |         **Level 1 Mount** |
 | :-------------------- | ------------------------: |
@@ -11,7 +11,7 @@
 | ------------ | -------------- | ------------ | --------------- | --------------- |
 |              |                |              |                 |                 |
 
-**Radiant Charge (Signature)**
+#### Radiant Charge (Signature)
 
 |                                         |                              |
 | :-------------------------------------- | :--------------------------- |
@@ -21,25 +21,25 @@
 **2d10 + 2**
 
 - ✦ ≤11: 3 damage; M1 prone
-- ★ 12–16: 5 fire damage; M2 prone
+- ★ 12-16: 5 fire damage; M2 prone
 
-**Stomp (2d10 + 2)**
+#### Stomp (2d10 + 2)
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
 | Distance: 1 burst               | Target: All enemies in the burst |
 
-Effect: This attack has edge against prone targets.
+**Effect:** This attack has edge against prone targets.
 
-**Buck (2 Malice)**
+#### Buck (2 Malice)
 
 |                |                           |
 | :------------- | :------------------------ |
 | Keywords: -    | Type: Maneuver            |
 | Distance: Self | Target: The horse's rider |
 
-Effect: Vertical slide 3; The rider can use a ranged ability at any point during the movement and then fall without taking damage.
+**Effect:** Vertical slide 3; The rider can use a ranged ability at any point during the movement and then fall without taking damage.
 
 **Shared Otherworldly Grace**
 
