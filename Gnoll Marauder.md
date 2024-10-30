@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; A2 bleeding (save ends)
 - ✸ 17+: 7 damage; prone; A3 bleeding (save ends)
 
+**:**
+
 **Effect:** Shift 2.
 
 #### Cackletongue (3 Malice)

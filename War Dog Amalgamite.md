@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; A2 grabbed
 - ✸ 17+: 5 damage; A3 grabbed
 
+**:**
+
 **Special:** The amalgamite can grab up to four creatures.
 
 **5 Malice:** The amalgamite deals an additional 4 damage to each creature they have grabbed and regains Stamina equal to the damage dealt.

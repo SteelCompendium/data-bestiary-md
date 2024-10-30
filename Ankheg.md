@@ -24,6 +24,8 @@
 - ★ 12-16: 8 damage; grabbed
 - ✸ 17+: 11 damage; grabbed
 
+**:**
+
 **Effect:** A size 1 target grabbed this way takes 8 acid damage at the start of each of their turns.
 
 #### Claws (2d10 + 3)
@@ -47,6 +49,8 @@
 - ✦ ≤11: 4 damage
 - ★ 12-16: 6 damage
 - ✸ 17+: 7 damage; push 2
+
+**:**
 
 **Effect:** The ankheg burrows up to their speed, then creates the burst when they breach the surface.
 

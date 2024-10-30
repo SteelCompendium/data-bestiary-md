@@ -24,6 +24,8 @@
 - ★ 12-16: 7 poison damage; M2 weakened (save ends)
 - ✸ 17+: 10 poison damage; M3 weakened (save ends)
 
+**:**
+
 #### Leg Blade (2d10 + 2)
 
 |                                 |                                  |
@@ -52,6 +54,8 @@
 - ✦ ≤11: Restrained (AGL ends)
 - ★ 12-16: Restrained (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Ride Launcher**
 

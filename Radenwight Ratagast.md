@@ -24,6 +24,8 @@
 - ★ 12-16: 4 poison damage; taunted (EoT)
 - ✸ 17+: 5 poison damage; taunted (EoT)
 
+**:**
+
 #### Ready Rodent
 
 |                         |                        |

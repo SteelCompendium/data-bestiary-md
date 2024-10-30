@@ -24,6 +24,8 @@
 - ★ 12-16: 5 fire damage; M2 prone
 - ✸ 17+: 7 lightning damage; M3 prone
 
+**:**
+
 #### Stomp (2d10 + 2)
 
 |                                 |                                  |

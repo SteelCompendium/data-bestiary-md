@@ -24,6 +24,8 @@
 - ★ 12-16: 8 acid damage; pull 2
 - ✸ 17+: 12 acid damage; pull 3
 
+**:**
+
 **Effect:** This attack can pull targets restrained by Petrifying Eye Beams.
 
 **3 Malice:** The tonguesnapper targets two additional creatures or objects.
@@ -49,6 +51,8 @@
 - ✦ ≤11: 6 corruption damage; R1 dazed (save ends)
 - ★ 12-16: 8 corruption damage; R2 dazed (save ends)
 - ✸ 17+: 12 corruption damage; R3 dazed and slowed (save ends)
+
+**:**
 
 **Effect:** A creature dazed by this ability can't benefit from edges or concealment until the condition ends.
 

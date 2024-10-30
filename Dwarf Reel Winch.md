@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; M2 slowed (save ends)
 - ✸ 17+: 7 damage; M3 restrained (save ends)
 
+**:**
+
 **2 Malice:** Pull 5. A target restrained by a dwarf, including by this ability, can be pulled this way.
 
 #### Reel Them In (3 Malice)

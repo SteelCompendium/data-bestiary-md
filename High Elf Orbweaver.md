@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; M2 slowed (EoT)
 - ✸ 17+: 5 cold damage; M3 prone
 
+**:**
+
 #### Aetherweb (2d10 + 2)
 
 |                         |                              |

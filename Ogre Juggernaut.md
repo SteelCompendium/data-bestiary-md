@@ -24,6 +24,8 @@
 - ★ 12-16: 8 damage; A2 vertical push 3
 - ✸ 17+: 11 damage; A3 vertical slide 5
 
+**:**
+
 **1 Malice:** Each target is M2 bleeding (save ends).
 
 #### Earth Breaking Jump (2d10 + 2)
@@ -47,6 +49,8 @@
 - ✦ ≤11: Frightened (save ends)
 - ★ 12-16: Frightened (EoT)
 - ✸ 17+: No effect
+
+**:**
 
 **Effect:** Ogres have **advantage** on attacks against creatures frightened by this ability.
 

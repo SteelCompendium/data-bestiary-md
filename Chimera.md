@@ -24,6 +24,8 @@
 - ★ 12-16: 10 damage
 - ✸ 17+: 13 damage
 
+**:**
+
 **Effect:** This attack has an edge if the chimera has an edge on the attack.
 
 #### Dragon's Eruption (7 Malice)
@@ -38,6 +40,8 @@
 - ✦ ≤11: 13 fire damage
 - ★ 12-16: 10 fire damage
 - ✸ 17+: 6 fire damage
+
+**:**
 
 #### Lion's Toss (2d10 + 3)
 
@@ -58,6 +62,8 @@
 - ✦ ≤11: 4 psychic damage
 - ★ 12-16: 8 psychic damage; I2 frightened (save ends)
 - ✸ 17+: 10 psychic damage; I3 frightened (save ends)
+
+**:**
 
 #### Ram's Defiance (2d10 + 3)
 

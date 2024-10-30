@@ -24,6 +24,8 @@
 - ★ 12-16: 8 damage; pull 3
 - ✸ 17+: 11 damage; pull 4
 
+**:**
+
 **Effect:** Each square that a target is pulled through becomes difficult terrain.
 
 #### Blistering Element (2d10 + 2)
@@ -47,6 +49,8 @@
 - ✦ ≤11: 5 damage; P1 slowed (save ends)
 - ★ 12-16: 8 damage; P2 shapechanged (save ends)
 - ✸ 17+: 11 damage; P3 shapechanged (save ends)
+
+**:**
 
 **Effect:** A shapechanged creature becomes plant-like with bark skin and leafy hair. They are slowed and have fire weakness 10 while they have this effect.
 

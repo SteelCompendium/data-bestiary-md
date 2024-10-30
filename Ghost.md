@@ -24,6 +24,8 @@
 - ★ 12-16: 5 cold damage; P3 slowed (save ends)
 - ✸ 17+: 6 cold damage; P2 slowed (save ends)
 
+**:**
+
 **Effect:** The next attack made against a target has edge.
 
 #### Haunt

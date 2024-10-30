@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; A3 grabbed
 - ✸ 17+: 12 damage; grabbed
 
+**:**
+
 **Effect:** The target can't use triggered actions until the start of the next round. This attack has double edge if the sneak started their turn hidden from the target.
 
 #### Dirt Devil (3 Malice)
@@ -38,6 +40,8 @@
 - ✦ ≤11: 2 damage; I1 sneak is concealed from the target (save ends)
 - ★ 12-16: 3 damage; I2 sneak is concealed from the target (save ends)
 - ✸ 17+: 4 damage; I3 sneak is concealed from the target (save ends)
+
+**:**
 
 **Effect:** The sneak shifts up to their speed and hides after using this ability.
 

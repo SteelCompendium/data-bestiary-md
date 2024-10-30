@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; M2 bleeding (save ends)
 - ✸ 17+: 12 damage; M3 bleeding (save ends)
 
+**:**
+
 **Effect:** The tree guerilla can teleport 3 after making the attack.
 
 **5 Malice:** The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.

@@ -24,6 +24,8 @@
 - ★ 12-16: 7 damage; grabbed; M2 target has a bane on attempts to escape grab
 - ✸ 17+: 10 damage; grabbed; M3 target has a bane on attempts to escape grab
 
+**:**
+
 **Effect:** The bonesplitter can't use three-tail flail on another target while the current target is grabbed.
 
 #### Cackletongue (3 Malice)

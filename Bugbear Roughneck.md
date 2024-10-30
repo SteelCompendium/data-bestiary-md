@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; one target is grabbed; one target gets push 2
 - ✸ 17+: 12 damage; one target is grabbed; one target gets vertical push 3
 
+**:**
+
 **5 Malice:** The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.
 
 #### Leaping Fury (2d10 + 3)

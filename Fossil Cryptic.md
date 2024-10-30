@@ -24,6 +24,8 @@
 - ★ 12-16: 9 damage; A3 prone and can't stand (EoT)
 - ✸ 17+: 12 damage; A4 prone and can't stand (save ends)
 
+**:**
+
 **Effect:** Each enemy within 1 square of the target takes 2 damage.
 
 #### Stone Bone Storm (2d10 + 3)
@@ -47,6 +49,8 @@
 - ✦ ≤11: 2 damage; push 2
 - ★ 12-16: 3 damage; push 3; prone
 - ✸ 17+: 4 damage; push 4; prone
+
+**:**
 
 **Effect:** The cryptic burrows up to half their speed, then creates the burst when they breach the surface.
 

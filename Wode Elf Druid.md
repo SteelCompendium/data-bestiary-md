@@ -24,6 +24,8 @@
 - ★ 12-16: 5 damage; pull 3; M2 slowed (save ends)
 - ✸ 17+: 7 damage; pull 5; M3 slowed (save ends)
 
+**:**
+
 **Effect:** A creature slowed by this ability can't search for hidden creatures until the condition ends.
 
 **3 Malice:** The area of the cube and the potency of the effect both increase by 1.

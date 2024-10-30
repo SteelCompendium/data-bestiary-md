@@ -24,6 +24,8 @@
 - ★ 12-16: 8 poison damage
 - ✸ 17+: 11 poison damage
 
+**:**
+
 **Effect:** This attack has an edge against targets that the basilisk has previously dealt poison damage to.
 
 #### Petrifying Eye Beams (MGT RR)
@@ -47,6 +49,8 @@
 - ✦ ≤11: 4 poison damage; M1 weakened (save ends)
 - ★ 12-16: 6 poison damage; M2 weakened and slowed (save ends)
 - ✸ 17+: 9 poison damage; M3 weakened and slowed (save ends)
+
+**:**
 
 #### Lash Out
 

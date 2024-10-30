@@ -24,6 +24,8 @@
 - ★ 12-16: 10 corruption damage; A3 weakened (save ends)
 - ✸ 17+: 13 corruption damage; A4 weakened (save ends)
 
+**:**
+
 **Effect:** A creature weakened by this ability takes 1d6 corruption damage at the start of each of their turns until the condition ends.
 
 #### Soul Steal (2d10 + 3)
@@ -60,6 +62,8 @@ Trigger: A creature hits Shtriga Nona with a melee attack.
 - ✦ ≤11: Vertical slide 5; restrained (EoT)
 - ★ 12-16: Slide 3; slowed (EoT)
 - ✸ 17+: Slide 2
+
+**:**
 
 **Effect:** A creature restrained by this ability that is force moved vertically is suspended in midair until the condition ends.
 

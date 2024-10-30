@@ -24,6 +24,8 @@
 - ★ 12-16: 4 damage; A3 bleeding (save ends)
 - ✸ 17+: 5 damage; A4 bleeding and dazed (save ends)
 
+**:**
+
 **3 Malice:** The bredbeddle shifts up to 2 squares and can target additional enemies who come within distance of this ability during the move.
 
 #### Lop (3 Malice)
@@ -38,6 +40,8 @@
 - ✦ ≤11: 6 damage; bleeding (save ends) or M2 beheaded (see effect)
 - ★ 12-16: 10 damage; bleeding (save ends) or M3 beheaded (see effect)
 - ✸ 17+: 13 damage; bleeding (save ends) or M4 beheaded (see effect)
+
+**:**
 
 **Effect:** A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is dazed and can't have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.
 
@@ -62,6 +66,8 @@
 - ✦ ≤11: 3 damage; M2 dazed (save ends)
 - ★ 12-16: 5 damage; prone; M3 dazed (save ends)
 - ✸ 17+: 7 damage; prone; M4 dazed (save ends)
+
+**:**
 
 **Effect:** The bredbeddle must have a head in their possession (attached to them or not), which they throw at the target. If the head was attached, the bredbeddle becomes headless.
 
