@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; M3 slowed (save ends)
 - ✸ 17+: 10 damage; M4 slowed (save ends)
 
-**:**
-
 **Effect:** An ally within 10 squares of the blackguard can make a free strike.
 
 **1 Malice:** The ally can use their signature action instead.

@@ -24,8 +24,6 @@
 - ★ 12-16: 4 damage; grabbed
 - ✸ 17+: 5 damage; grabbed
 
-**:**
-
 **Death Snap**
 
 When the abyssal hyena is reduced to 0 Stamina, they make a free strike before dying.

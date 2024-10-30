@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; M2 grabbed
 - ✸ 17+: 10 damage; M3 grabbed
 
-**:**
-
 **Effect:** The target has a bane on attempts to escape the grab. The brawler has edge on this attack if the target is already grabbed.
 
 #### Throw (1 Malice)

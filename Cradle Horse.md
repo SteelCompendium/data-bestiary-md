@@ -24,8 +24,6 @@
 - ★ 12-16: 5 fire damage; M2 prone
 - ✸ 17+: 7 lightning damage; M3 prone
 
-**:**
-
 #### Stomp
 
 |                                 |                                  |
@@ -38,8 +36,6 @@
 - ✦ ≤11: 2 damage
 - ★ 12-16: 4 damage
 - ✸ 17+: 5 damage
-
-**:**
 
 **Effect:** This attack has edge against prone targets.
 

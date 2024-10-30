@@ -24,8 +24,6 @@
 - ★ 12-16: 9 damage; 2 prone
 - ✸ 17+: 12 damage; 3 prone
 
-**:**
-
 **Effect:** The pouncer makes a free strike against each target they have knocked prone.
 
 #### Sparkling Tail Whip
@@ -41,8 +39,6 @@
 - ★ 12-16: 4 damage; 2 dazzled (save ends)
 - ✸ 17+: 6 damage; 3 dazzled (save ends)
 
-**:**
-
 **Effect:** A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
 
 #### Illusory Feint (5 Malice)
@@ -57,8 +53,6 @@
 - ✦ ≤11: Dazed (save ends)
 - ★ 12-16: Dazed (EoT)
 - ✸ 17+: No effect
-
-**:**
 
 **Effect:** Targets dazed by this ability have a speed of 0 while dazed. If a dazed target takes damage or if someone else spends an action to shake the creature out of their stupor, the condition is removed.
 

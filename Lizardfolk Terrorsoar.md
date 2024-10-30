@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage
 - ✸ 17+: 7 damage; prone
 
-**:**
-
 **Effect:** The terrorsoar can shift 4 after using this ability if they are flying.
 
 #### Poison Blowdart
@@ -40,8 +38,6 @@
 - ✦ ≤11: 2 damage; M1 weakened (save ends)
 - ★ 12-16: 5 damage; M2 weakened (save ends)
 - ✸ 17+: 6 damage; M3 weakened (save ends)
-
-**:**
 
 **Effect:** A creature that ends their turn adjacent to a creature or object weakened by this ability is weakened (EoT).
 

@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage; I2 restrained (save ends)
 - ✸ 17+: 7 damage; I3 restrained (save ends)
 
-**:**
-
 **Effect:** A creature restrained by this ability can't search for hidden creatures until the condition ends.
 
 #### The Natural Cycle (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: Target is bleeding and has a bane on their attacks (save ends)
 - ★ 12-16: Target has a bane on their attacks (save ends)
 - ✸ 17+: No effect
-
-**:**
 
 #### Foreseen Punishment
 

@@ -24,8 +24,6 @@
 - ★ 12-16: 7 damage; R2 bleeding (save ends)
 - ✸ 17+: 10 damage; R3 bleeding (save ends)
 
-**:**
-
 **Effect:** A creature bleeding from this ability takes edge from attacks.
 
 #### Blood Haze (2 Malice)

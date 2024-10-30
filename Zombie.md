@@ -24,8 +24,6 @@
 - ★ 12-16: 5 damage; M2 grabbed
 - ✸ 17+: 6 damage; grabbed
 
-**:**
-
 **Effect:** A target who starts their turn grabbed by the zombie takes 2 corruption damage. If a creature takes 5 or more corruption damage this way, they become insatiably hungry for flesh. The target must complete the Find a Cure project to end this effect.
 
 #### Breakfall (3 Malice)
@@ -40,8 +38,6 @@
 - ✦ ≤11: 2 corruption damage
 - ★ 12-16: 3 corruption damage; M1 weakened (save ends)
 - ✸ 17+: 4 corruption damage; M2 dazed (save ends)
-
-**:**
 
 **Arise**
 
