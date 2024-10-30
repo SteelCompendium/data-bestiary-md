@@ -50,7 +50,7 @@
 
 **:**
 
-#### Circle and Strike (2d10 + 2)
+#### Circle and Strike
 
 |                |                             |
 | :------------- | :-------------------------- |
@@ -58,6 +58,14 @@
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The [[Griffon|griffon]] flies above a creature on the ground within 10
+
+**2d10 + 2**
+
+- ✦ ≤11: Push 3
+- ★ 12-16: A2 grabbed
+- ✸ 17+: 5 damage; A3 grabbed
+
+**:**
 
 **Effect:** The [[Griffon|griffon]] falls down upon the target, taking no damage from falling. A creature who is grabbed by the [[Griffon|griffon]] is prone and can't stand until they are no longer grabbed.
 

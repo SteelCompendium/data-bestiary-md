@@ -28,12 +28,20 @@
 
 **Effect:** The pouncer makes a free strike against each target they have knocked prone.
 
-#### Sparkling Tail Whip (2d10 + 2)
+#### Sparkling Tail Whip
 
 |                       |                                              |
 | :-------------------- | :------------------------------------------- |
 | Keywords: Area, Magic | Type: Action                                 |
 | Distance: 2 burst     | Target: All enemies and objects in the burst |
+
+**2d10 + 2**
+
+- ✦ ≤11: 2 damage; 1 dazzled (save ends)
+- ★ 12-16: 4 damage; 2 dazzled (save ends)
+- ✸ 17+: 6 damage; 3 dazzled (save ends)
+
+**:**
 
 **Effect:** A dazzled creature has a bane on their attacks and can't have line of effect to targets who aren't adjacent to them.
 

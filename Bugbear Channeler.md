@@ -28,12 +28,20 @@
 
 **Effect:** Each square that a target is pulled through becomes difficult terrain.
 
-#### Blistering Element (2d10 + 2)
+#### Blistering Element
 
 |                       |                                  |
 | :-------------------- | :------------------------------- |
 | Keywords: Area, Magic | Type: Action                     |
 | Distance: 3 burst     | Target: All enemies in the burst |
+
+**2d10 + 2**
+
+- ✦ ≤11: 2 damage; M1 bleeding (save ends)
+- ★ 12-16: 3 damage; M2 bleeding (save ends)
+- ✸ 17+: 4 damage; M3 bleeding (save ends)
+
+**:**
 
 **Effect:** The channeler chooses one of the following damage types for the damage: cold, fire, corruption, lightning, or poison.
 

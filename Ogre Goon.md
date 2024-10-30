@@ -28,12 +28,20 @@
 
 **Effect:** This attack deals **additional damage** to each creature and object that takes damage from any forced movement it causes.
 
-#### Grabby Hand (2d10 + 2)
+#### Grabby Hand
 
 |                                 |                              |
 | :------------------------------ | :--------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver               |
 | Distance: Melee 1               | Target: 1 creature or object |
+
+**2d10 + 2**
+
+- ✦ ≤11: 5 damage
+- ★ 12-16: 9 damage; grabbed
+- ✸ 17+: 12 damage; grabbed
+
+**:**
 
 **Effect:** The goon can only have one target grabbed at a time.
 

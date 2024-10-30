@@ -45,12 +45,20 @@
 
 **Effect:** The sneak shifts up to their speed and hides after using this ability.
 
-#### Carving Dagger (2d10 + 2)
+#### Carving Dagger
 
 |                                  |                                |
 | :------------------------------- | :----------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                   |
 | Distance: Ranged 8               | Target: 2 creatures or objects |
+
+**2d10 + 2**
+
+- ✦ ≤11: 5 damage; M1 bleeding (save ends)
+- ★ 12-16: 9 damage; M2 bleeding (save ends)
+- ✸ 17+: 12 damage; M3 bleeding (save ends)
+
+**:**
 
 **Effect:** Targets can't hide from the sneak or their allies while bleeding from this ability.
 

@@ -28,12 +28,20 @@
 
 **1 Malice:** Each target is M2 bleeding (save ends).
 
-#### Earth Breaking Jump (2d10 + 2)
+#### Earth Breaking Jump
 
 |                               |                                    |
 | :---------------------------- | :--------------------------------- |
 | Keywords: Area, Melee, Weapon | Type: Action                       |
 | Distance: 3 burst             | Target: All creatures in the burst |
+
+**2d10 + 2**
+
+- ✦ ≤11: 3 damage; M1 prone
+- ★ 12-16: 4 damage; push 2; M2 prone
+- ✸ 17+: 5 damage; push 4; M3 prone
+
+**:**
 
 **Effect:** The juggernaut leaps up to 6 squares before making the attack.
 

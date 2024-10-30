@@ -28,12 +28,20 @@
 
 **Effect:** The lightbender has advantage on the attack if they would make it with an edge.
 
-#### Piercing Tails (2d10 + 2)
+#### Piercing Tails
 
 |                                 |                                |
 | :------------------------------ | :----------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                   |
 | Distance: Melee 2               | Target: 2 creatures or objects |
+
+**2d10 + 2**
+
+- ✦ ≤11: 6 damage; 1 bleeding (save ends)
+- ★ 12-16: 10 damage; 2 bleeding (save ends)
+- ✸ 17+: 13 damage; 3 bleeding (save ends)
+
+**:**
 
 **Effect:** A creature who is bleeding from this ability has a bane on tests to search for the lightbender until the condition ends.
 

@@ -26,12 +26,20 @@
 
 **:**
 
-#### Stomp (2d10 + 2)
+#### Stomp
 
 |                                 |                                  |
 | :------------------------------ | :------------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Action                     |
 | Distance: 1 burst               | Target: All enemies in the burst |
+
+**2d10 + 2**
+
+- ✦ ≤11: 2 damage
+- ★ 12-16: 4 damage
+- ✸ 17+: 5 damage
+
+**:**
 
 **Effect:** This attack has edge against prone targets.
 

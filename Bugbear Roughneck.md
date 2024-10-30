@@ -28,12 +28,20 @@
 
 **5 Malice:** The distance becomes 1 Burst, the Attack keyword is replaced with Area, and the roughneck targets all enemies instead.
 
-#### Leaping Fury (2d10 + 3)
+#### Leaping Fury
 
 |                                  |                              |
 | :------------------------------- | :--------------------------- |
 | Keywords: Attack, Ranged, Weapon | Type: Action                 |
 | Distance: Melee 1                | Target: 1 creature or object |
+
+**2d10 + 3**
+
+- ✦ ≤11: 5 damage; M1 prone
+- ★ 12-16: 9 damage; M2 prone
+- ✸ 17+: 12 damage; M3 prone
+
+**:**
 
 **Effect:** The roughneck leaps 5 to an unoccupied space adjacent to the target before making the attack.
 

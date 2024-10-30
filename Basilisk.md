@@ -28,12 +28,20 @@
 
 **Effect:** This attack has an edge against targets that the basilisk has previously dealt poison damage to.
 
-#### Petrifying Eye Beams (MGT RR)
+#### Petrifying Eye Beams
 
 |                                      |                 |
 | :----------------------------------- | :-------------- |
 | Keywords: Magic, Ranged, Resistance  | Type: Maneuver  |
 | Distance: Ranged 5 × 2 line within 1 | Target: Special |
+
+**MGT RR**
+
+- ✦ ≤11: Restrained (save ends)
+- ★ 12-16: Slowed (save ends)
+- ✸ 17+: Slowed (EoT)
+
+**:**
 
 **Effect:** The basilisk targets the first unobstructed creature in each column of the area. Each target magically begins to turn to stone. An already slowed target has a bane on resisting the roll. A creature restrained by this ability or a creature adjacent to them can use an action to cut the encroaching stone from their body, taking 8 damage which can't be reduced in any way and ending the effect.
 

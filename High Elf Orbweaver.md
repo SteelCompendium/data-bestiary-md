@@ -26,12 +26,20 @@
 
 **:**
 
-#### Aetherweb (2d10 + 2)
+#### Aetherweb
 
 |                         |                              |
 | :---------------------- | :--------------------------- |
 | Keywords: Magic, Ranged | Type: Action                 |
 | Distance: Ranged 8      | Target: 2 enemies or objects |
+
+**2d10 + 2**
+
+- ✦ ≤11: 3 damage; R1 slowed (save ends)
+- ★ 12-16: 5 damage; R2 slowed (save ends)
+- ✸ 17+: 6 damage; R3 restrained (save ends)
+
+**:**
 
 **Effect:** Each enemy within 3 of a target suffers the same additional effects as the target unless they shift into an unoccupied square adjacent to them.
 

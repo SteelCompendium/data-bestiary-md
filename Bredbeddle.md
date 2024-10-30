@@ -82,12 +82,20 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **Effect:** The bredbeddle uses the same ability against the triggering creature, using that creature's bonus to any power rolls they make.
 
-#### Turn Green (PRS RR)
+#### Turn Green
 
 |                                   |                                 |
 | :-------------------------------- | :------------------------------ |
 | Keywords: Area, Magic, Resistance | Type: Villain Action 1          |
 | Distance: 3 burst                 | Target: Each enemy in the burst |
+
+**PRS RR**
+
+- ✦ ≤11: The target turns green and is slowed (save ends)
+- ★ 12-16: The target turns green (save ends)
+- ✸ 17+: No effect
+
+**:**
 
 **Effect:** Green shadows crawl out from under the bredbeddle's feet and attempt to turn each target green. The bredbeddle has a double edge on attacks made against targets turned green in this way.
 
@@ -100,12 +108,20 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 **Effect:** The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.
 
-#### Headlam Rampage (2d10 + 3)
+#### Headlam Rampage
 
 |                                 |                        |
 | :------------------------------ | :--------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Villain Action 3 |
 | Distance: Melee 2               | Target: Four creatures |
+
+**2d10 + 3**
+
+- ✦ ≤11: 3 damage; bleeding (save ends) or M2 beheaded (see Lop)
+- ★ 12-16: 4 damage; bleeding (save ends) or M3 beheaded (see Lop)
+- ✸ 17+: 5 damage; bleeding (save ends) or M4 beheaded (see Lop)
+
+**:**
 
 **Solo Monster**
 

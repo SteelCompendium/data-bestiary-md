@@ -66,12 +66,20 @@ Trigger: The target makes an attack against the ordinator or an ally within dist
 
 **Effect:** Each target glows, ending one condition on themselves and then moving up to twice their speed.
 
-#### And The Sun Forsook Her Children (PRS RR)
+#### And The Sun Forsook Her Children
 
 |                                   |                                 |
 | :-------------------------------- | :------------------------------ |
 | Keywords: Area, Magic, Resistance | Type: Villain Action 2          |
 | Distance: 5 cube within 10        | Target: All enemies in the cube |
+
+**PRS RR**
+
+- ✦ ≤11: 8 corruption damage; pull 5 towards center of cube
+- ★ 12-16: 5 corruption damage; pull 3 towards center of cube
+- ✸ 17+: Pull 1 towards center of cube
+
+**:**
 
 **Effect:** The affected area becomes darkened, and its space warps violently in every direction.
 

@@ -30,12 +30,20 @@
 
 **2 Malice:** The bandit chief attacks an additional target.
 
-#### Kneel, Peasant! (2d10 + 3)
+#### Kneel, Peasant!
 
 |                                 |                             |
 | :------------------------------ | :-------------------------- |
 | Keywords: Attack, Melee, Weapon | Type: Maneuver              |
 | Distance: Melee 1               | Target: One enemy or object |
+
+**2d10 + 3**
+
+- ✦ ≤11: Push 1; M2 prone
+- ★ 12-16: Push 2; M3 prone
+- ✸ 17+: Push 4; M4 prone
+
+**:**
 
 **2 Malice:** This ability targets each enemy adjacent to the bandit chief.
 
