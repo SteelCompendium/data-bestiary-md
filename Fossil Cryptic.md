@@ -1,11 +1,11 @@
 ### FOSSIL CRYPTIC
 
-| FOSSIL CRYPTIC |       **Level 2 Solo** |
-| :------------- | ---------------------: |
-| *Elemental*    |            \*\*EV \*\* |
-| **Stamina**:   |          **Weakness**: |
-| **Speed**:     | **Size**:  / Stability |
-|                |       **Free Strike**: |
+| FOSSIL CRYPTIC        |           **Level 2 Solo** |
+| :-------------------- | -------------------------: |
+| *Elemental*           |                  **EV 76** |
+| **Stamina**: 180      |              **Weakness**: |
+| **Speed**: 8 (burrow) | **Size**: 1L / Stability 3 |
+|                       |         **Free Strike**: 5 |
 
 | **Might** +3 | **Agility** +2 | **Reason** +1 | **Intuition** +1 | **Presence** 0 |
 | ------------ | -------------- | ------------- | ---------------- | -------------- |
