@@ -32,7 +32,7 @@
 
 |                     |                   |
 | :------------------ | :---------------- |
-| Keywords: -         | Type: Maneuver    |
+| Keywords: --        | Type: Maneuver    |
 | Distance: Ranged 10 | Target: One enemy |
 
 **Effect:** The target is marked until the start of the centurion's next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.

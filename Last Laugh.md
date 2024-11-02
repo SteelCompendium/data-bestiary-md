@@ -30,7 +30,7 @@
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
-| Keywords: -                | Type: Maneuver              |
+| Keywords: --               | Type: Maneuver              |
 | Distance: Self and 5 burst | Target: Self and all allies |
 
 **Effect:** Each target has edge until the start of the last laugh's next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
@@ -54,7 +54,7 @@
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: -         | Type: Villain Action 2 |
+| Keywords: --        | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: Special        |
 
 **Effect:** The last laugh summons 5 [[Gnoll Wildling|gnoll wildlings]] and 5 [[Abyssal Hyena|abyssal hyenas]] into unoccupied spaces.

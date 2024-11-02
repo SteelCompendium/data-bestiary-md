@@ -76,7 +76,7 @@ Trigger: The bandit chief makes a power roll.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 3 |
+| Keywords: --   | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
 **Effect:** Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a free strike against them.

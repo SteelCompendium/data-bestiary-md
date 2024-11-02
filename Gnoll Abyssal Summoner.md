@@ -30,7 +30,7 @@
 
 |                    |                 |
 | :----------------- | :-------------- |
-| Keywords: -        | Type: Maneuver  |
+| Keywords: --       | Type: Maneuver  |
 | Distance: Ranged 5 | Target: Special |
 
 **Effect:** 2 [[Abyssal Hyena|abyssal hyenas]] claw out of the ground into unoccupied squares.
@@ -39,7 +39,7 @@
 
 |                   |                    |
 | :---------------- | :----------------- |
-| Keywords: -       | Type: Maneuver     |
+| Keywords: --      | Type: Maneuver     |
 | Distance: 2 burst | Target: All allies |
 
 **Effect:** 1 [[Abyssal Hyena|abyssal hyena]] target turns into a [[Gnoll Marauder|gnoll marauder]], keeping their Stamina. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.

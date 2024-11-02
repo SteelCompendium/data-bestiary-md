@@ -32,7 +32,7 @@
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature attacks an adjacent ally.

@@ -104,7 +104,7 @@ Trigger: The target attacks the chimera and gets a tier-1 result.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 3 |
+| Keywords: --   | Type: Villain Action 3 |
 | Distance: Self | Target: Self           |
 
 **Effect:** The chimera uses Roar. The chimera then shifts their speed and can make a free strike against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.

@@ -30,7 +30,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The wodenelg and their rider become invisible until the start of their next turn.

@@ -52,7 +52,7 @@
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: The griffon takes damage

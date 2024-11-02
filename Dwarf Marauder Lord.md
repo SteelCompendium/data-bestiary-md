@@ -72,7 +72,7 @@ Trigger: A creature makes a weapon attack against the target.
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: -         | Type: Villain Action 3 |
+| Keywords: --        | Type: Villain Action 3 |
 | Distance: Ranged 10 | Target: special        |
 
 **Effect:** The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.

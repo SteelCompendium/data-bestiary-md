@@ -28,7 +28,7 @@
 
 |                                 |              |
 | :------------------------------ | :----------- |
-| Keywords: -                     | Type: Action |
+| Keywords: --                    | Type: Action |
 | Distance: Self (while grounded) | Target: Self |
 
 **Effect:** The [[Griffon|griffon]] shifts up to their speed in a straight line. Each enemy within their reach during this movement can choose to either take 5 damage or be knocked prone.
@@ -50,7 +50,7 @@
 
 |                |                             |
 | :------------- | :-------------------------- |
-| Keywords: -    | Type: Triggered Action      |
+| Keywords: --   | Type: Triggered Action      |
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The [[Griffon|griffon]] flies above a creature on the ground within 10

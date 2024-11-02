@@ -41,7 +41,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: -    | Type: Action |
+| Keywords: --   | Type: Action |
 | Distance: Self | Target: Self |
 
 **Effect:** The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.

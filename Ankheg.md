@@ -69,7 +69,7 @@
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: A creature damages the ankheg
@@ -95,7 +95,7 @@ Trigger: A creature damages the ankheg
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 2 |
+| Keywords: --   | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
 **Effect:** The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.

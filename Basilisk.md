@@ -58,7 +58,7 @@
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
-| Keywords: -       | Type: Triggered Action           |
+| Keywords: --      | Type: Triggered Action           |
 | Distance: 1 burst | Target: All enemies in the burst |
 
 Trigger: The basilisk takes Weapon damage.

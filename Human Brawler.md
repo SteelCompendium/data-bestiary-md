@@ -30,7 +30,7 @@
 
 |                   |                                             |
 | :---------------- | :------------------------------------------ |
-| Keywords: -       | Type: Maneuver                              |
+| Keywords: --      | Type: Maneuver                              |
 | Distance: Melee 1 | Target: One creature grabbed by the brawler |
 
 **Effect:** Push 5.

@@ -43,7 +43,7 @@
 
 |                |                           |
 | :------------- | :------------------------ |
-| Keywords: -    | Type: Maneuver            |
+| Keywords: --   | Type: Maneuver            |
 | Distance: Self | Target: The horse's rider |
 
 **Effect:** Vertical slide 3; The rider can use a ranged ability at any point during the movement and then fall without taking damage.

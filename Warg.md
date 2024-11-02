@@ -28,7 +28,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The warg moves up to their speed.

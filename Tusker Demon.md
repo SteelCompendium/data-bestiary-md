@@ -30,7 +30,7 @@
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: An enemy within 7 deals damage to the tusker.

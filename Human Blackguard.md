@@ -32,7 +32,7 @@
 
 |                     |                   |
 | :------------------ | :---------------- |
-| Keywords: -         | Type: Maneuver    |
+| Keywords: --        | Type: Maneuver    |
 | Distance: Ranged 10 | Target: One enemy |
 
 **Effect:** The target is marked until the start of the blackguard's next turn. The blackguard and each of their allies gain an edge and advantage on attacks against targets marked by the blackguard.
@@ -41,7 +41,7 @@
 
 |                   |                          |
 | :---------------- | :----------------------- |
-| Keywords: -       | Type: Triggered Action   |
+| Keywords: --      | Type: Triggered Action   |
 | Distance: Melee 1 | Target: Self or one ally |
 
 Trigger: A creature targets the blackguard or an ally adjacent to the blackguard with an attack.
@@ -52,7 +52,7 @@ Trigger: A creature targets the blackguard or an ally adjacent to the blackguard
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 1 |
+| Keywords: --   | Type: Villain Action 1 |
 | Distance: Self | Target: Self           |
 
 **Effect:** The blackguard shifts up to their speed. During or after this movement, they can use their Zweihander Swing ability twice.

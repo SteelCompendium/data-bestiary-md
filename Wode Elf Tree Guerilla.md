@@ -32,7 +32,7 @@
 
 |                          |                             |
 | :----------------------- | :-------------------------- |
-| Keywords: -              | Type: Free Triggered Action |
+| Keywords: --             | Type: Free Triggered Action |
 | Distance: Self and Squad | Target: Self and Squad      |
 
 Trigger: An ally ends their turn while the tree guerilla hasn't acted this round.

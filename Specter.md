@@ -30,7 +30,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The specter turns invisible, moves up to their speed, and becomes visible again.

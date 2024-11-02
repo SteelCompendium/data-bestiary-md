@@ -62,7 +62,7 @@
 
 |                   |                                  |
 | :---------------- | :------------------------------- |
-| Keywords: -       | Type: Triggered Action           |
+| Keywords: --      | Type: Triggered Action           |
 | Distance: 2 burst | Target: All enemies in the burst |
 
 Trigger: The tonguesnapper takes Weapon damage.

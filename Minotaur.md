@@ -30,7 +30,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: -    | Type: Action |
+| Keywords: --   | Type: Action |
 | Distance: Self | Target: Self |
 
 **Effect:** The minotaur has **resistance** and **advantage** until the end of their next turn. On their next turn, they have access to an additional maneuver.
@@ -54,7 +54,7 @@
 
 |                |                             |
 | :------------- | :-------------------------- |
-| Keywords: -    | Type: Triggered Action      |
+| Keywords: --   | Type: Triggered Action      |
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The minotaur takes damage from a creature within 8.

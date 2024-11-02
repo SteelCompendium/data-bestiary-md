@@ -62,7 +62,7 @@
 
 |                   |                                       |
 | :---------------- | :------------------------------------ |
-| Keywords: -       | Type: Triggered Action                |
+| Keywords: --      | Type: Triggered Action                |
 | Distance: Melee 1 | Target: 1 adjacent creature or object |
 
 Trigger: The target moves or shifts away from the goon.

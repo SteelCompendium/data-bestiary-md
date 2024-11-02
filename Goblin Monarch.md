@@ -30,7 +30,7 @@
 
 |                     |                 |
 | :------------------ | :-------------- |
-| Keywords: -         | Type: Maneuver  |
+| Keywords: --        | Type: Maneuver  |
 | Distance: Ranged 20 | Target: Special |
 
 **Effect:** Two [[Goblin Runner|goblin runners]] appear in unoccupied spaces.
@@ -39,7 +39,7 @@
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: -       | Type: Triggered Action |
+| Keywords: --      | Type: Triggered Action |
 | Distance: Melee 1 | Target: One ally       |
 
 Trigger: A creature targets the monarch with an attack.
@@ -59,7 +59,7 @@ Trigger: A creature targets the monarch with an attack.
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: -         | Type: Villain Action 2 |
+| Keywords: --        | Type: Villain Action 2 |
 | Distance: Ranged 10 | Target: One enemy      |
 
 **Effect:** Each ally within 10 squares of the enemy can move up to their speed toward the enemy.

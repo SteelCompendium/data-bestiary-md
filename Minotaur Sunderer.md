@@ -60,7 +60,7 @@
 
 |                |                             |
 | :------------- | :-------------------------- |
-| Keywords: -    | Type: Triggered Action      |
+| Keywords: --   | Type: Triggered Action      |
 | Distance: Self | Target: Triggering creature |
 
 Trigger: The sunderer takes damage from a creature within 6.

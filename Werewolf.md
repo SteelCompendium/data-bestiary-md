@@ -45,7 +45,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: -    | Type: Action |
+| Keywords: --   | Type: Action |
 | Distance: Self | Target: Self |
 
 **Effect:** The werewolf shifts up to their speed and makes a claw attack against each creature who comes within 1 of the werewolf during the move. The werewolf makes one power roll against all targets.
@@ -54,7 +54,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The werewolf leaps 4 squares. If they end this movement at a wall, the werewolf leaps off the wall 4 squares and makes a melee free strike.
@@ -63,7 +63,7 @@
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: -       | Type: Triggered Action |
+| Keywords: --      | Type: Triggered Action |
 | Distance: Melee 1 | Target: 1 creature     |
 
 Trigger: The target declares a melee attack against the werewolf after charging or moving 3 or more squares in a straight line towards them.
@@ -89,7 +89,7 @@ Trigger: The target declares a melee attack against the werewolf after charging 
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 2 |
+| Keywords: --   | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
 **Effect:** The werewolf changes into a massive wolf, pushing adjacent creatures out of their way and moving into a square that can accommodate their new size. Until they die or the end of the encounter, their Speed is 10, their Size is 3, and their Stability is 2. Each of the werewolf's attacks has **edge** and inflicts an additional 1 ferocity. The potency of the werewolf's Accursed Bite increases by 1.

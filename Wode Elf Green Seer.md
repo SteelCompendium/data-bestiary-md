@@ -43,7 +43,7 @@
 
 |                    |                             |
 | :----------------- | :-------------------------- |
-| Keywords: -        | Type: Free Triggered Action |
+| Keywords: --       | Type: Free Triggered Action |
 | Distance: Ranged 5 | Target: 1 creature          |
 
 Trigger: The triggering creature uses a triggered action targeting the green seer or an ally within distance.

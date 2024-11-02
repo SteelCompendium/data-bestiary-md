@@ -45,7 +45,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes difficult terrain.
@@ -95,7 +95,7 @@ Trigger: A creature targets the bredbeddle with a ranged magic attack.
 
 |                    |                                                                |
 | :----------------- | :------------------------------------------------------------- |
-| Keywords: -        | Type: Villain Action 2                                         |
+| Keywords: --       | Type: Villain Action 2                                         |
 | Distance: Ranged 5 | Target: One creature who damaged the bredbeddle this encounter |
 
 **Effect:** The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.

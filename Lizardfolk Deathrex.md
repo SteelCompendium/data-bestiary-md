@@ -45,7 +45,7 @@
 
 |                |                |
 | :------------- | :------------- |
-| Keywords: -    | Type: Maneuver |
+| Keywords: --   | Type: Maneuver |
 | Distance: Self | Target: Self   |
 
 **Effect:** The deathrex moves up to their speed. The deathrex can make a free strike on each creature that makes an opportunity attack against them during this movement.
@@ -54,7 +54,7 @@
 
 |                   |                                       |
 | :---------------- | :------------------------------------ |
-| Keywords: -       | Type: Triggered Action                |
+| Keywords: --      | Type: Triggered Action                |
 | Distance: Melee 1 | Target: 1 adjacent creature or object |
 
 Trigger: The target moves or shifts away from the deathrex.
@@ -74,7 +74,7 @@ Trigger: The target moves or shifts away from the deathrex.
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Villain Action 2 |
+| Keywords: --   | Type: Villain Action 2 |
 | Distance: Self | Target: Self           |
 
 **Effect:** The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex's characteristics, and takes their turn at the same time as the deathrex.

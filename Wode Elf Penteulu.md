@@ -41,7 +41,7 @@
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: -         | Type: Triggered Action |
+| Keywords: --        | Type: Triggered Action |
 | Distance: Ranged 10 | Target: 1 enemy        |
 
 Trigger: An ally ends their turn.

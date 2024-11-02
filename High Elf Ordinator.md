@@ -30,7 +30,7 @@
 
 |                     |                 |
 | :------------------ | :-------------- |
-| Keywords: -         | Type: Maneuver  |
+| Keywords: --        | Type: Maneuver  |
 | Distance: Ranged 10 | Target: Special |
 
 **Effect:** The ordinator summons 1 [[Elemental Mote|elemental mote]] for every 2 malice spent into unoccupied squares within distance.
@@ -39,7 +39,7 @@
 
 |                     |                     |
 | :------------------ | :------------------ |
-| Keywords: -         | Type: Free Maneuver |
+| Keywords: --        | Type: Free Maneuver |
 | Distance: Ranged 10 | Target: Special     |
 
 **Effect:** The ordinator conjures 3 dead [[Cradle Crow|cradle crows]], 1 dead [[Cradle Horse|cradle horse]], or 1 dead [[Cradle Credenza|cradle credenza]] into unoccupied squares within distance.
@@ -48,7 +48,7 @@
 
 |                     |                        |
 | :------------------ | :--------------------- |
-| Keywords: -         | Type: Triggered Action |
+| Keywords: --        | Type: Triggered Action |
 | Distance: Ranged 10 | Target: 1 enemy        |
 
 Trigger: The target makes an attack against the ordinator or an ally within distance.

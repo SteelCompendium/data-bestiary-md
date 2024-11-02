@@ -30,7 +30,7 @@
 
 |                     |                                  |
 | :------------------ | :------------------------------- |
-| Keywords: -         | Type: Maneuver                   |
+| Keywords: --        | Type: Maneuver                   |
 | Distance: Ranged 10 | Target: 1 trap or terrain object |
 
 **Effect:** The trap or terrain object instantly triggers.

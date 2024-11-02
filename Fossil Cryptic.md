@@ -75,7 +75,7 @@
 
 |                |                        |
 | :------------- | :--------------------- |
-| Keywords: -    | Type: Triggered Action |
+| Keywords: --   | Type: Triggered Action |
 | Distance: Self | Target: Self           |
 
 Trigger: The cryptic takes damage

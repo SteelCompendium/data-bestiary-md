@@ -28,7 +28,7 @@
 
 |                |              |
 | :------------- | :----------- |
-| Keywords: -    | Type: Action |
+| Keywords: --   | Type: Action |
 | Distance: Self | Target: Self |
 
 **Effect:** The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.

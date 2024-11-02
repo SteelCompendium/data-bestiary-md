@@ -69,7 +69,7 @@
 
 |                   |                                     |
 | :---------------- | :---------------------------------- |
-| Keywords: -       | Type: Free Triggered Action         |
+| Keywords: --      | Type: Free Triggered Action         |
 | Distance: Melee 1 | Target: 1 size 1 creature or object |
 
 Trigger: The target is force moved into a square adjacent to the sneak.
@@ -80,7 +80,7 @@ Trigger: The target is force moved into a square adjacent to the sneak.
 
 |                   |                        |
 | :---------------- | :--------------------- |
-| Keywords: -       | Type: Triggered Action |
+| Keywords: --      | Type: Triggered Action |
 | Distance: Special | Target: 1 enemy        |
 
 Trigger: A target attacks the sneak.

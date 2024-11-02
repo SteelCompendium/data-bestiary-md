@@ -402,7 +402,7 @@ Target: Special
 Effect: The ground around the ankheg becomes difficult terrain. While the ankheg remains in their current space, they have concealment until the start of their next turn.
 
 **Skitter (Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Trigger: A creature damages the ankheg
@@ -424,7 +424,7 @@ Target: Each creature in the line
 Effect: The ground within the area is covered in a puddle of acid that lasts until the end of the encounter. A creature who enters the area for the first time in a round or starts their turn there takes 2 acid damage.
 
 **Sinkhole (Villain Action 2)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The ankheg shifts up to their speed by burrowing. If the ankheg ends this move underground and within 2 squares of a creature on the surface, the ankheg makes a Bite attack against the creature.
@@ -529,7 +529,7 @@ Target: All creatures in the cube
 - ✸ 17+: 9 poison damage; M3 weakened and slowed (save ends)
 
 **Lash Out (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The basilisk takes Weapon damage.
 Distance: 1 burst
 Target: All enemies in the burst
@@ -585,7 +585,7 @@ Target: 1 creature
 Effect: A creature dazed by this ability can't benefit from edges or concealment until the condition ends.
 
 **Neurotoxin Splash (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The tonguesnapper takes Weapon damage.
 Distance: 2 burst
 Target: All enemies in the burst
@@ -669,7 +669,7 @@ Target: One creature
 Effect: A beheaded target has their head fall into an unoccupied square adjacent to the bredbeddle, but they remain alive. While beheaded, the target is dazed and can't have line of effect to any creature other than themselves. The beheaded target can survive without their head for 24 hours, and can reattach their head by entering its square and using a maneuver to do so. A target who remains beheaded for 24 hours dies.
 
 **Scramble (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The bredbeddle must be headless to use this ability. The bredbeddle shifts up to their speed, and can push each creature who comes within their reach during the shift 1 square. Each square the bredbeddle leaves during the shift becomes difficult terrain.
@@ -700,7 +700,7 @@ Effect: Green shadows crawl out from under the bredbeddle's feet and attempt to 
 - ✦ 17+: No effect
 
 **Challenge (Villain Action 2)**
-Keywords: -
+Keywords: --
 Distance: Ranged 5
 Target: One creature who damaged the bredbeddle this encounter
 Effect: The bredbeddle points at the target and issues them a challenge. If the target refuses, they turn green (save ends). If the target accepts, the bredbeddle shifts to a space adjacent to the target, who must make a hard Might test with no additional modifiers.
@@ -801,7 +801,7 @@ Target: 1 creature or object grabbed by the channeler
 Effect: Vertical push 3; ally targets don't take damage from being force moved.
 
 **Catcher (Free Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: 1 size 1 creature or object
 Trigger: The target is force moved into a square adjacent to the channeler.
@@ -840,13 +840,13 @@ Target: 2 creatures or objects
 Effect: 1 ally within 5 of the commander has an edge on their next attack until the start of the commander's next turn.
 
 **You Next! (Action)**
-Keywords: -
+Keywords: --
 Distance: Ranged 8
 Target: 1 ally
 Effect: The target moves up to their speed and uses a signature action.
 
 **Fall Back! (Action)** ◆ 5 Malice
-Keywords: -
+Keywords: --
 Distance: Self and 5 burst
 Target: Self and all allies
 Effect: Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.
@@ -858,7 +858,7 @@ Target: 1 creature or object grabbed by the commander
 Effect: Vertical push 4; ally targets don't take damage from being force moved.
 
 **Catcher (Free Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: 1 size 1 creature or object
 Trigger: The target is force moved into a square adjacent to the commander.
@@ -915,14 +915,14 @@ Target: 1 creature or object grabbed by the roughneck
 Effect: Vertical push 5. Ally targets don't take damage from being force moved.
 
 **Catcher (Free Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: 1 size 1 creature or object
 Trigger: The target is force moved into a square adjacent to the roughneck.
 Effect: The target is grabbed by the roughneck.
 
 **Flying Sawblade (Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Trigger: The roughneck is vertically moved by another creature.
@@ -978,14 +978,14 @@ Target: 1 creature or object grabbed by the sneak
 Effect: Vertical push 4. Ally targets don't take damage from being force moved.
 
 **Catcher (Free Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: 1 size 1 creature or object
 Trigger: The target is force moved into a square adjacent to the sneak.
 Effect: The target is grabbed by the sneak.
 
 **Misdirection (Triggered Action)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Distance: Special
 Target: 1 enemy
 Trigger: A target attacks the sneak.
@@ -1100,7 +1100,7 @@ Target: Self
 Effect: The chimera uses Dragon's Eruption and Roar without spending malice.
 
 **Chorus of Destruction (Villain Action 3)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The chimera uses Roar. The chimera then shifts their speed and can make a free strike against each enemy who comes within 1 of them during the move. When the chimera ends this movement, they use Dragon's Eruption.
@@ -1770,7 +1770,7 @@ Effect: The shieldwall can shift 1 to remain adjacent to the target. A target re
 3 Malice: The shieldwall targets an additional creature or object.
 
 **Intercepting Shield (Triggered Action)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Trigger: A creature attacks an adjacent ally.
@@ -1950,7 +1950,7 @@ Target: All allies in the burst
 Effect: Each target shifts up to their speed. The marauder lord then uses Levitating Axes.
 
 **Test Your Metal! (Villain Action 3)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: special
 Effect: The marauder lord creates three 2-square metal objects in unoccupied squares within distance. When the marauder lord uses Magnetomancy, they can additionally target one of these objects.
@@ -2394,7 +2394,7 @@ Target: 1 creature or object
 Effect: Shift 2.
 
 **Windwalk (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The zephyr moves up to their speed through the air. They must end this movement on solid ground or immediately fall prone.
@@ -2441,7 +2441,7 @@ Target: All enemies in the burst
 Effect: This attack has edge against prone targets.
 
 **Buck (Maneuver)** ◆ 2 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: The horse's rider
 Effect: Vertical slide 3; The rider can use a ranged ability at any point during the movement and then fall without taking damage.
@@ -2476,19 +2476,19 @@ Target: 1 creature or object
 Effect: High elves have edge on attacks and abilities against the target until the start of the ordinator's next turn.
 
 **Call Forth Elementals (Maneuver)** ◆ 2+ Malice
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: Special
 Effect: The ordinator summons 1 elemental mote for every 2 malice spent into unoccupied squares within distance.
 
 **Conjure Cradle (Free Maneuver)** ◆ 2 Malice
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: Special
 Effect: The ordinator conjures 3 dead cradle crows, 1 dead cradle horse, or 1 dead cradle credenza into unoccupied squares within distance.
 
 **Enough! (Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: 1 enemy
 Trigger: The target makes an attack against the ordinator or an ally within distance.
@@ -2734,7 +2734,7 @@ Target: 2 creatures
 - ✦ 17+: No effect
 
 **Foreseen Punishment (Free Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Ranged 5
 Target: 1 creature
 
@@ -2880,7 +2880,7 @@ Effect: The tree guerilla can teleport 3 after making the attack.
 5 Malice: The tree guerilla targets an additional creature or object. The tree guerilla has **+1** if both targets are adjacent to each other.
 
 **Do Not Hesitate in the Wode (Free Triggered Action)** ◆ 3 Malice
-Keywords: -
+Keywords: --
 Distance: Self and Squad
 Target: Self and Squad
 
@@ -2964,7 +2964,7 @@ Target: All allies in the burst
 Effect: Each target can make a free strike and then shifts 3. A target immediately hides at the end of the penteulu's turn while in cover or concealment.
 
 **Wode Sickness (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: An ally ends their turn.
 Distance: Ranged 10
 Target: 1 enemy
@@ -3024,7 +3024,7 @@ Effect: The wodenelg's rider can make a free strike at any point during the char
 The wodenelg ignores all difficult terrain, including enemy squares, and doesn't provoke opportunity attacks by moving.
 
 **Where I End the Woods Begin (Maneuver)** ◆ 3 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The wodenelg and their rider become invisible until the start of their next turn.
@@ -3133,7 +3133,7 @@ Target: One creature or object on the ground
 2 Malice: The distance of the slide is doubled.
 
 **Dissipate (Triggered Action)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Trigger: The cryptic takes damage
@@ -3363,7 +3363,7 @@ Target: 1 creature or object
 Effect: This attack has edge against creatures the abyssal archer has previously targeted.
 
 **Cackletongue (Maneuver)** ◆ 2 Malice
-Keywords: -
+Keywords: --
 Distance: Self and 2 burst
 Target: Self and all allies
 Effect: Each target has an edge on their next attack before the end of their next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
@@ -3401,13 +3401,13 @@ Target: 1 creature or object
 Effect: A burning target takes 1d6 fire damage at the start of each of their turns until the condition ends.
 
 **Call Abyssal Hyenas (Maneuver)** ◆ 3 Malice
-Keywords: -
+Keywords: --
 Distance: Ranged 5
 Target: Special
 Effect: 2 abyssal hyenas claw out of the ground into unoccupied squares.
 
 **Cackletongue (Maneuver)** ◆ 4 Malice
-Keywords: -
+Keywords: --
 Distance: 2 burst
 Target: All allies
 Effect: 1 abyssal hyena target turns into a gnoll marauder, keeping their Stamina. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
@@ -3442,7 +3442,7 @@ Target: 1 creature or object
 Effect: The bonesplitter can't use three-tail flail on another target while the current target is grabbed.
 
 **Cackletongue (Maneuver)** ◆ 3 Malice
-Keywords: -
+Keywords: --
 Distance: Self and 2 burst
 Target: Self and all allies
 Effect: Each target makes a free strike. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
@@ -3516,7 +3516,7 @@ Target: 1 creature or object
 Effect: Shift 2.
 
 **Cackletongue (Maneuver)** ◆ 3 Malice
-Keywords: -
+Keywords: --
 Distance: Self and 2 burst
 Target: Self and all allies
 Effect: Each target shifts up to their speed. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
@@ -3552,7 +3552,7 @@ Target: 1 creature or object
 Effect: This attack has edge while charging.
 
 **Vengeful Tusker (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: An enemy within 7 deals damage to the tusker.
 Distance: Self
 Target: Self
@@ -3591,7 +3591,7 @@ Target: 2 creatures or objects
 Effect: An ally targeted by this ability makes a free strike instead of taking damage.
 
 **Cackletongue (Maneuver)** ◆ 4 Malice
-Keywords: -
+Keywords: --
 Distance: Self and 5 burst
 Target: Self and all allies
 Effect: Each target has edge until the start of the last laugh's next turn. Targets who haven't used a cackletongue maneuver on this turn use it immediately at no cost.
@@ -3613,7 +3613,7 @@ Target: All enemies
 Effect: While frightened by this ability, targets laugh uncontrollably and cannot use triggered actions.
 
 **Call Up From The Abyss (Villain Action 2)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: Special
 Effect: The last laugh summons 5 gnoll wildlings and 5 abyssal hyenas into unoccupied spaces.
@@ -3995,13 +3995,13 @@ Target: Two creatures or objects
 Effect: An ally within 10 of the monarch can make a free strike.
 
 **Get in Here! (Maneuver)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Distance: Ranged 20
 Target: Special
 Effect: Two goblin runners appear in unoccupied spaces.
 
 **Meat Shield (Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: One ally
 Trigger: A creature targets the monarch with an attack.
@@ -4020,7 +4020,7 @@ Target: Each ally
 Effect: Each target can move up to their speed or make a free strike.
 
 **Focus Fire (Villain Action 2)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: One enemy
 Effect: Each ally within 10 squares of the enemy can move up to their speed toward the enemy.
@@ -4066,7 +4066,7 @@ Target: Two creatures or objects
 - ✸ 17+: 10 damage
 
 **Trample (Action)** ◆ 5 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The spider shifts up to their speed and makes a Leg Blade attack against each creature who comes within 1 of the spider during the move. The spider makes one power roll against all targets.
@@ -4112,7 +4112,7 @@ Target: One creature or object
 - ✸ 17+: 6 damage
 
 **Sprint (Maneuver)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The warg moves up to their speed.
@@ -4149,7 +4149,7 @@ At the start of a griffon's turn, you can spend malice to activate one of the fo
 
 - **Swoop (3 Malice):** A griffon acting this turn can take the following maneuver:
   **Swoop (Maneuver)**
-  Keywords: -
+  Keywords: --
   Distance: Self
   Target: Self
 Effect: The griffon flies up to their speed. The griffon takes a free strike against each creature that makes an opportunity attack against the griffon.
@@ -4208,7 +4208,7 @@ Target: All creatures and objects
 - ✦ 17+: Push 2
 
 **Juke (Triggered Action)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Trigger: The griffon takes damage
 Distance: Self
 Target: Self
@@ -4246,7 +4246,7 @@ Target: 2 creatures or objects
 - ✸ 17+: 12 damage; one target is pushed 2 and prone; other target is vertically pushed 3
 
 **Bound Ahead (Action)** ◆ 5 Malice
-Keywords: -
+Keywords: --
 Distance: Self (while grounded)
 Target: Self
 Effect: The griffon shifts up to their speed in a straight line. Each enemy within their reach during this movement can choose to either take 5 damage or be knocked prone.
@@ -4261,7 +4261,7 @@ Target: All creatures and objects
 - ✦ 17+: Push 3
 
 **Circle and Strike (Triggered Action)** ◆ 2d10 + 2
-Keywords: -
+Keywords: --
 Trigger: The griffon flies above a creature on the ground within 10
 Distance: Self
 Target: Triggering creature
@@ -4687,7 +4687,7 @@ Target: One creature or object
 Effect: The target has a bane on attempts to escape the grab. The brawler has edge on this attack if the target is already grabbed.
 
 **Throw (Maneuver)** ◆ 1 Malice
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: One creature grabbed by the brawler
 Effect: Push 5.
@@ -4907,7 +4907,7 @@ Effect: An ally within 10 squares of the blackguard can make a free strike.
 1 Malice: The ally can use their signature action instead.
 
 **You! (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: One enemy
 Effect: The target is marked until the start of the blackguard's next turn. The blackguard and each of their allies gain an edge and advantage on attacks against targets marked by the blackguard.
@@ -4919,14 +4919,14 @@ At the end of their turn, the blackguard can take 5 damage to end one "save ends
 The blackguard can target supernatural creatures and objects within 15 squares, even if they don't have line of effect.
 
 **Parry! (Triggered Action)**
-Keywords: -
+Keywords: --
 Distance: Melee 1
 Target: Self or one ally
 Trigger: A creature targets the blackguard or an ally adjacent to the blackguard with an attack.
 Effect: The triggering attack's damage is halved.
 
 **Advance! (Villain Action 1)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The blackguard shifts up to their speed. During or after this movement, they can use their Zweihander Swing ability twice.
@@ -5007,7 +5007,7 @@ Target: All allies in the burst
 Effect: Each target shifts up to their speed. Until the end of the encounter, the bandit chief and all allies have triple edge while adjacent to a target.
 
 **Lead From the Front (Villain Action 3)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: Shift 10 squares. During or after this movement, the bandit chief can attack up to four targets with Whip & Magic Longsword. Each ally adjacent to a target can make a free strike against them.
@@ -5256,7 +5256,7 @@ Target: 1 creature or object
 Effect: If the target's forced movement triggers a trap, the target has a bane on all resistance rolls against that trap.
 
 **Activate Trap (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: 1 trap or terrain object
 Effect: The trap or terrain object instantly triggers.
@@ -5404,7 +5404,7 @@ Target: 1 creature or object
 - ✸ 17+: 10 fire damage
 
 **Drangolin Plume (Action)** ◆ 5 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The drangolin shifts their speed and makes a Fiery Claws attack against each creature who comes within 1 during the move. The drangolin makes one power roll against all targets.
@@ -5451,7 +5451,7 @@ Effect: A size 2 or smaller creature restrained by this attack is pulled into on
 3 Malice: The cube attacks 1 additional target.
 
 **You Didn't Pay Attention! (Free Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: A creature moves or is force moved into the cube.
 Distance: Self
 Target: Self
@@ -5488,7 +5488,7 @@ Effect: Any allies adjacent to a target of this attack can make a free strike.
 3 Malice: Targets weakened by this attack are now restrained while they are weakened.
 
 **Concentrate All Fire on That Hero! (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Ranged 10
 Target: One enemy
 Effect: The target is marked until the start of the centurion's next turn. The centurion and each of their allies gain an edge and advantage on attacks against targets marked by the centurion.
@@ -5948,13 +5948,13 @@ Target: 1 grabbed creature or object
 Effect: The target is released from the grab and slides 5.
 
 **Trundle (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The deathrex moves up to their speed. The deathrex can make a free strike on each creature that makes an opportunity attack against them during this movement.
 
 **Swat The Fly (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The target moves or shifts away from the deathrex.
 Distance: Melee 1
 Target: 1 adjacent creature or object
@@ -5967,7 +5967,7 @@ Target: Self and all allies in the burst
 Effect: Each target moves up to their speed and makes a free strike. A target receives temporary Stamina equal to the amount of damage they dealt during this action.
 
 **Shed Some Skin (Villain Action 2)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The deathrex shifts up to their speed, leaving behind a skin shed duplicate in the space that they started in. The duplicate has 10 Stamina, has no villain actions, shares the rest of the deathrex's characteristics, and takes their turn at the same time as the deathrex.
@@ -6043,7 +6043,7 @@ Target: 2 creatures or objects
 Effect: The minotaur shifts 3 after attacking.
 
 **Primal Bay (Action)** ◆ 3 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The minotaur has **resistance** and **advantage** until the end of their next turn. On their next turn, they have access to an additional maneuver.
@@ -6059,7 +6059,7 @@ Target: 1 creature or object
 Effect: The potency of this ability increases by 1 if it's used while charging.
 
 **Retaliatory Gore (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The minotaur takes damage from a creature within 8.
 Distance: Self
 Target: Triggering creature
@@ -6115,7 +6115,7 @@ Target: 1 grabbed creature
 Effect: The target takes 6 damage at the start of each of their turns while bleeding from this ability.
 
 **Retaliatory Gore (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The sunderer takes damage from a creature within 6.
 Distance: Self
 Target: Triggering creature
@@ -6209,7 +6209,7 @@ Effect: The goon hurls what's in their hand down the line and rolls power. The h
 - ✸ 17+: 6 damage; prone
 
 **Swat The Fly (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The target moves or shifts away from the goon.
 Distance: Melee 1
 Target: 1 adjacent creature or object
@@ -6265,7 +6265,7 @@ Target: All enemies in the burst
 Effect: Ogres have **advantage** on attacks against creatures frightened by this ability.
 
 **Hrraaaaaagh! (Triggered Action)**
-Keywords: -
+Keywords: --
 Trigger: The juggernaut takes damage.
 Distance: Melee 1
 Target: 1 creature or object
@@ -6849,7 +6849,7 @@ Target: One creature or object
 - ✸ 17+: 5 damage; M3 bleeding (save ends)
 
 **Leap (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The ghoul leaps 3 squares. If they land on a size 1 enemy, that enemy is knocked prone and the ghoul makes a free strike against them.
@@ -6928,7 +6928,7 @@ Target: One creature
 2 Malice: The potency of this ability increases by 1. A living creature killed by this ability becomes a specter who appears in the target's space under the Director's control.
 
 **Hidden Movement (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The specter turns invisible, moves up to their speed, and becomes visible again.
@@ -7720,19 +7720,19 @@ Target: 4 creatures or objects
 - ✸ 17+: 5 damage; 3 ferocity; M3 vertical slide 3
 
 **Berserker Slash (Action)** ◆ 5 Malice
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The werewolf shifts up to their speed and makes a claw attack against each creature who comes within 1 of the werewolf during the move. The werewolf makes one power roll against all targets.
 
 **Wall Leap (Maneuver)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The werewolf leaps 4 squares. If they end this movement at a wall, the werewolf leaps off the wall 4 squares and makes a melee free strike.
 
 **Facepalm and Head Slam (Triggered Action)** ◆ 2 Malice
-Keywords: -
+Keywords: --
 Trigger: The target declares a melee attack against the werewolf after charging or moving 3 or more squares in a straight line towards them.
 Distance: Melee 1
 Target: 1 creature
@@ -7752,7 +7752,7 @@ Target: All enemies in the burst
 Effect: Enemies that have 1 or more ferocity gain 4 ferocity and howl along with the werewolf.
 
 **Full Wolf (Villain Action 2)**
-Keywords: -
+Keywords: --
 Distance: Self
 Target: Self
 Effect: The werewolf changes into a massive wolf, pushing adjacent creatures out of their way and moving into a square that can accommodate their new size. Until they die or the end of the encounter, their Speed is 10, their Size is 3, and their Stability is 2. Each of the werewolf's attacks has **edge** and inflicts an additional 1 ferocity. The potency of the werewolf's Accursed Bite increases by 1.

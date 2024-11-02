@@ -30,7 +30,7 @@
 
 |                    |                |
 | :----------------- | :------------- |
-| Keywords: -        | Type: Action   |
+| Keywords: --       | Type: Action   |
 | Distance: Ranged 8 | Target: 1 ally |
 
 **Effect:** The target moves up to their speed and uses a signature action.
@@ -39,7 +39,7 @@
 
 |                            |                             |
 | :------------------------- | :-------------------------- |
-| Keywords: -                | Type: Action                |
+| Keywords: --               | Type: Action                |
 | Distance: Self and 5 burst | Target: Self and all allies |
 
 **Effect:** Each target shifts up to their speed. One target can then use the Throw maneuver if they have it.
@@ -57,7 +57,7 @@
 
 |                   |                                     |
 | :---------------- | :---------------------------------- |
-| Keywords: -       | Type: Free Triggered Action         |
+| Keywords: --      | Type: Free Triggered Action         |
 | Distance: Melee 1 | Target: 1 size 1 creature or object |
 
 Trigger: The target is force moved into a square adjacent to the commander.

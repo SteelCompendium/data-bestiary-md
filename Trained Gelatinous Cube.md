@@ -32,7 +32,7 @@
 
 |                |                             |
 | :------------- | :-------------------------- |
-| Keywords: -    | Type: Free Triggered Action |
+| Keywords: --   | Type: Free Triggered Action |
 | Distance: Self | Target: Self                |
 
 Trigger: A creature moves or is force moved into the cube.
