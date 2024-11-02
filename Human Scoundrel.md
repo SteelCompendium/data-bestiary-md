@@ -32,6 +32,8 @@
 | :-------- | :----------- |
 | Keywords: | Type: Action |
 
+**Effect:** The scoundrel makes a Rapier & Dagger attack against three creatures or objects. They can shift 2 squares before or after each attack.
+
 **Supernatural Insight**
 
 The scoundrel can target supernatural creatures and objects within 5 squares, even if they don't have line of effect.

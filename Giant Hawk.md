@@ -30,6 +30,8 @@
 | :-------- | :------------- |
 | Keywords: | Type: Maneuver |
 
+**Effect:** The hawk moves up to their speed.
+
 **Mounted Platform**
 
 Any creature riding the hawk can make a free strike during or after the hawk's movement.

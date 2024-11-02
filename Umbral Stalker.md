@@ -47,6 +47,8 @@
 | :-------- | :------------------ |
 | Keywords: | Type: Free Maneuver |
 
+**Effect:** The umbral stalker teleports to an unoccupied space in concealment within 10 squares.
+
 **Corruptive Phasing**
 
 The umbral stalker can move through other creatures and objects at normal speed. The first time in a round that the umbral stalker passes through a creature, that creature takes 2 corruption damage.
